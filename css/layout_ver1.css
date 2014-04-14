@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+* {-webkit-text-size-adjust:none} /* 아이폰 가로보기 글자 크기 변경 방지 */
+/*html, body {height:100%;}*/
+html {overflow-y:scroll; overflow:-moz-scrollbars-verticals;}
+body {margin:0; padding:0; font-size:12px; font-family:Meiryo,Gulim,굴림,AppleGothic,sans-serif; color:#444;}  /*   696969 */
+/*
+11px dotum,돋움 사용
+회색 #989898
+녹색 #457285
+주황 #D26919
+*/
+img, fieldset {border:0 none}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display:block;}
+
+img {-ms-interpolation-mode:bicubic;} /* ie7 */
+
+form, input, select, textarea, button {margin:0; padding:0; font-size:12px; font-family:Meiryo,Gulim,굴림,AppleGothic,sans-serif; color:#444; /*resize:none;outline:none*/}
+table {border-collapse:separate; table-layout:fixed; margin:0; padding:0; border:0;} /* border-collapse:collapse; 보더충돌 우려 */
+a, a:link, a:active {color:#444; text-decoration:none;}
+a:visited {color:#444;}
+a:hover {text-decoration:underline;}
+.pointer {cursor:pointer;}
+
+button {padding:0; border:0; cursor:pointer; *overflow:visible; background:transparent;} /* *overflow:visible 텍스트에 비해 버튼 폭이 커지는 ie6,7 버그 핵 */
+hr {display:none;}
+.clear {clear:both;}
+/* reset webkit search input styles */
+input[type=search] {
+  -webkit-appearance: none;
+  outline: none;
+}
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button {
+  display: none;
+}
+.ellipsis {white-space:nowrap;text-overflow:ellipsis;-o-text-overow:ellipsis;overflow:hidden;}
+
+/* 등급 색 */
+.grade_1 {color:#6c6c6c !important;}
+.grade_2 {color:#3f3f3f !important;}
+.grade_3 {color:#008746 !important;}
+.grade_4 {color:#297bb0 !important;}
+.grade_5 {color:#a847bd !important;}
+.grade_6 {color:#c34812 !important;}
+
+/***** layout *****/
+body {background:#efefef;}
+#wrap_container {min-width:1100px; margin:0; padding:0;  overflow:hidden;}
+
+#container {position:relative; width:800px; padding:0; *zoom:1;}
+#container:after {display:block; clear:both; content:"";}
+
+/* header */
+#header {position:relative; width:1100px; height:264px; margin:0 auto;}
+*:first-child+html  #header  {z-index:990;} /* ie7 상단 search layer */
+#header .wrap_visual {height:100%;}
+
+
+
+/* contents */
+#contents {float:left; width:100%; max-width:800px; margin:0; padding:0;}
+
+#contents .pageInfo:after {display:block; content:""; clear:both;}
+#contents .pageInfo h1 {float:left; margin:0; padding:0; text-indent:-1000em; line-height:0;}
+#contents .pageInfo .lineMap {float:right; height:29px; margin:0; padding:0; line-height:1.2; color:#979797;}
+#contents .pageInfo .lineMap a {color:#979797;}
+#contents .pageInfo .lineMap a.current {color:#454545;}
+#contents .page { }
+
+#rightSide {float:right; width:100%; max-width:240px;}
+*:first-child+html  #rightSide  {z-index:150;}
+
+
+
+
+.tab_tr{width:100%;height:43px;list-style:none;margin:0 0 20px 0;padding:0;word-spacing:-2px;background:url('../img/menu_pc_v2.gif') no-repeat;}
+.tab_tr a{float:left;width:87px;height:43px;overflow:hidden;color:#444;text-decoration:none;}
+.tab_tr a span{display:block;width:100%;padding:14px 0 0 0;text-align:center;font-weight:bold;overflow:hidden;}
+.tab_tr a.m0{width:74px;}
+.tab_tr a.my{width:116px;}
+
+.tab_tr a.on{width:88px;margin-left:0;background:url('../img/menu_pc_v2.gif') no-repeat;color:#fff;}
+.tab_tr a.m0.on{width:75px;margin-left:0;background-position:0px -50px;}
+.tab_tr a.m1.on{background-position:-74px -50px;}
+.tab_tr a.m2.on{background-position:-161px -50px;}
+.tab_tr a.m3.on{background-position:-248px -50px;}
+.tab_tr a.m4.on{background-position:-335px -50px;}
+.tab_tr a.m5.on{background-position:-422px -50px;}
+.tab_tr a.m6.on{background-position:-509px -50px;}
+.tab_tr a.m7.on{background-position:-596px -50px;}
+.tab_tr a.my.on{width:117px;background-position:-683px -50px;}
+
+.wrap_viewBtn {clear:both;margin:25px 0 0 0;text-align:right;}
+.wrap_viewBtn span, .wrap_listBtn span{display:none;}
+
+.wrap_viewBtn a{display:inline-block;width:60px;height:27px;) no-repeat}
+#contents .btn_loadmytr{background-position:0px -240px;width:144px !important;}
+#contents .btn_reset{background-position:0px -150px;}
+#contents .btn_reset_all{background-position:0px -330px;width:98px !important;}
+.write_form{clear:both;margin-top:30px;padding:25px 40px;background-color:#f5f5f5;display: none;}
+.write_form:after{content:"";display:block;clear:both;}
+.write_form dl{clear:both;}
+.write_form dt, .write_form dd{float:left;margin:0;padding:0;}
+.write_form dt{width:40px;padding-top:5px;}
+.write_form dd{width:auto;}
+.write_form dl.subject{height:30px;margin-bottom:5px;}
+.write_form .viewSelect{float:left;position:relative; padding: 0; margin: 0}
+.write_form .viewSelect li{padding:0 !important;}
+.write_form .lyBtn{width:75px;height:16px;padding:5px 6px 0 6px;border:1px solid #d2d2d2;background-color:#fff;background-position:right -36px;}
+.write_form .lyOn{background-position:right -59px !important;}
+.write_form .lySelect{width:87px;}
+.write_form .title{float:left;padding-left:10px;}
+.write_form input, .write_form textarea{border:1px solid #d2d2d2;box-shadow:inset 2px 2px 0px #f5f5f5;}
+.write_form input{padding:4px 3px 3px 7px;}
+.write_form textarea{}
+#pc .write_form dt{font-weight:bold;}
+#pc .write_form input{width:560px;}
+#pc .write_form textarea{width:660px;height:70px;padding:5px;}
+.viewSelect li{list-style:none;margin:0;padding:0;}
+#getData,#btn_cancel,#btn_save{display: none;}

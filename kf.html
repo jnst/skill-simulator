@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html id="pc">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="user-scalable=no, maximum-scale=1.0, minimum-scale=1.0, width=device-width, initial-scale=1.0" />
+  <title>スキルシミュレーター</title>
+  <link rel="stylesheet" type="text/css" href="css/layout_ver1.css" media="screen" />
+  <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+  <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="js/bns.js"></script>
+</head>
+<body>
+<script type="text/javascript"> //<![CDATA[
+var siteFlag = "bns";
+var loginLinkStyle = "js";
+var isLoginFlag = "Y";
+var loginLinkURL = "GNBLogout()";
+var ncGnbP = { nickname: '???', uid: '79377E86-6AC0-E111-95AA-E61F135E992F', myData: "GNBNShopData()" };
+var layerInputCtrl = function(btnID, layerID) {
+  var layerBtn = jQuery(btnID);
+  var layerCnt = jQuery(layerID);
+
+  layerCnt.find(':radio').each(function(e) {
+    if (jQuery(this).is(':checked')) {
+      jQuery(this).parents('li').addClass('selected');
+      layerBtn.html(jQuery(this).parent('label').text());
+    }
+  });
+
+  layerBtn.bind("click", function() {
+    if (layerCnt.css('display') == 'block') {
+      jQuery(this).removeClass('lyOn');
+      layerCnt.hide();
+    } else {
+      jQuery(this).addClass('lyOn');
+      layerCnt.show();
+    }
+  });
+
+  layerCnt.find('li').bind("click", function(e) {
+    var et = jQuery(e.target);
+
+    layerCnt.find('li').removeClass('selected');
+    layerCnt.find(':radio').removeAttr('checked');
+
+    layerBtn.html(jQuery(this).find('label').text());
+    layerBtn.removeClass('lyOn');
+    jQuery(this).find(':radio').attr('checked', 'checked');
+    et.parents('li').addClass('selected');
+    layerCnt.hide();
+    return false;
+  });
+
+  jQuery(document).bind("click", function(e) {
+    var et = jQuery(e.target);
+    var etid = et.attr('id');
+
+    if (etid != layerBtn.attr('id')) {
+      layerBtn.removeClass('lyOn');
+      layerCnt.hide();
+    }
+  });
+}
+//]]>
+</script>
+
+<!-- (e) gnb -->
+<div id="wrap_container">
+<div id="container">
+<!-- (s) left area -->
+<section id="contents">
+
+<nav class="tab_tr">
+  <a class="m1" href="bm.html"><span>剣術士</span></a>
+  <a class="m2 on" href="kf.html"><span>拳闘士</span></a>
+  <a class="m3" href="de.html"><span>滅砕士</span></a>
+  <a class="m4" href="fm.html"><span>魔道士</span></a>
+  <a class="m5" href="as.html"><span>暗殺者</span></a>
+  <a class="m6" href="su.html"><span>召喚士</span></a>
+  <a class="m7" href="sm.html"><span>リン剣術士</span></a>
+</nav>
+<form name="writeForm" id="writeForm" method="post" action="write_exec">
+  <input type="hidden" name="article_no" value="">
+  <input type="hidden" name="job" value="KF">
+  <input type="hidden" name="level" id="level" value="">
+  <input type="hidden" name="mastery_level" id="mastery_level" value="">
+  <input type="hidden" name="slot_data" id="slot_data" value="">
+  <div class="write_type1">
+    <!-- (s) ??? -->
+    <section class="wrap_mytraining">
+      <div class="trWrap" id="trainingWrap"></div>
+
+      <link rel="stylesheet" type="text/css" href="css/training2.css" />
+
+      <script src="js/training.min.js"></script>
+      <script src="skill/category_data_KF.js"></script>
+      <script src="skill/slot_data_KF.js"></script>
+      <script src="skill/skill_data_KF.js"></script>
+      <script src="js/data_skill-tooltip.js"></script>
+      <script src="js/data_skill-tooltip-attribute.js"></script>
+
+      <script type="text/javascript">
+        var _training;
+
+        (function($) {
+          $(document).ready(function() {
+            if (String.prototype.trim == null)
+              String.prototype.trim = function() { return this.replace(/^\s*/, "").replace(/\s*$/, ""); }
+
+            var writeform = $("#writeForm");
+            var category = $("#writeForm").find("input[name='category'][checked='checked']");
+            var subject = $("#writeForm").find("input[name='title']");
+            var textarea = $("#writeForm").find("textarea[name='text_body']");
+
+
+            _training = new nc.bns.training.Training({
+              containerSelector: ".trWrap",
+              level: 50,
+              masteryLevel: 0,
+              job: "KF",
+              masteryTitle: "洪門/魔道神功",
+              maxLevel: 50
+            });
+
+
+            //reset button
+            var _$resetSkillBtn = $("#resetSkill");
+            var _$resetAllSkillBtn = $("#resetAllSkill");
+
+            $("#get_data_controll").click(function() {				// ? ???? ????
+              if (isLoginFlag == 'N') {
+                GNBLogin();
+                return;
+              }
+
+              $.ajax({
+                type: "GET"
+                , cache: false
+                , url: '/bnstr2/board/ajax_current_character_replication'
+                , data: {
+                  "world_id": 3, "character_name": "????"
+                  , "current_job": "KF"
+                }
+                , success: function(data) {
+                  if (data.result) {
+                    if ("KF" != data.character_job) {
+                      custom_alert('???? ??? ???? ?? ????? ??? ? ????.');
+                      return;
+                    } else {
+                      var ajaxObj = {};
+
+                      ajaxObj["character_level"] = MY_LEVEL = data.character_level;
+                      ajaxObj["character_mastery_level"] = MY_MASTERY_LEVEL = data.character_mastery_level;
+                      ajaxObj["character_job"] = MY_JOB = data.character_job;
+                      ajaxObj["json_slot_data"] = MY_SLOT_DATA = data.json_slot_data;
+                      //custom_alert(objToJSONString(ajaxObj));
+                      _training.loadGetJsonData(objToJSONString(ajaxObj));
+                    }
+                  } else {
+                    var error_message;
+                    if (data.error_message) {
+                      error_message = data.error_message;
+                      alert(error_message);
+                    }
+                  }
+                }
+                , error: function(jqXHR, textStatus, errorThrown) {
+                  //alert(jqXHR.responseText);
+                  if (jqXHR.status == 0) {
+                    alert("You are offline!\nPlease Check Your Network.");
+                  } else if (jqXHR.status == 404) {
+                    alert("Requested URL not found.");
+                  } else if (jqXHR.status == 500) {
+                    alert("Internel Server Error.");
+                  } else if (textStatus == "parsererror") {
+                    alert("Error.\nParsing JSON Request failed.");
+                  } else if (textStatus == "timeout") {
+                    alert("Request Time Out.");
+                  } else {
+                    alert("Unknow Error.\n" + jqXHR.responseText);
+                  }
+                }
+              });
+
+              return false;
+            });
+
+            $(subject).keydown(function(e) {
+              if (e.keyCode == '13')
+                return false;
+            });
+          });
+        })(jQuery);
+
+        function getData() {
+          $("#get_data_controll").click();
+        }
+
+        function ImportSkillFromGame(xml_str) {
+          jQuery.ajax({
+            type: "GET",
+            cache: false,
+            url: '/bnstr2/board/ajax_xml_to_slotdata',
+            data: 'xml_str=' + xml_str,
+            success: function(data) {
+              if (data.result) {
+                if ("KF" != data.character_job) {
+                  custom_alert('???? ??? ???? ?? ????? ??? ? ????.');
+                  return;
+                } else {
+                  var ajaxObj = {};
+
+                  ajaxObj["character_level"] = MY_LEVEL = data.character_level;
+                  ajaxObj["character_mastery_level"] = MY_MASTERY_LEVEL = data.character_mastery_level;
+                  ajaxObj["character_job"] = MY_JOB = data.character_job;
+                  ajaxObj["json_slot_data"] = MY_SLOT_DATA = data.json_slot_data;
+
+                  //custom_alert(objToJSONString(ajaxObj));
+                  _training.loadGetJsonData(objToJSONString(ajaxObj));
+                  return;
+                }
+              } else {
+                var error_message;
+                if (data.error_message) {
+                  error_message = data.error_message;
+                  alert(error_message);
+                }
+              }
+            },
+            error: function(data) {
+            }
+          });
+        }
+
+        function ExportSkillToGame() {
+          var obj = _training.getSendDataObj();
+
+          jQuery.ajax({
+            type: "GET",
+            cache: false,
+            url: '/bnstr2/board/ajax_slot_data_to_xml',
+            data: {
+              'job': "KF"
+              , 'major_version': 1, 'minor_version': 1, 'level': obj["character_level"]
+              , 'mastery_level': obj["character_mastery_level"]
+              , 'slot_data': objToJSONString(obj["json_slot_data"])
+            },
+            success: function(data) {
+              if (data.result) {
+                location.href = 'nc://bns.SkillPowerBook/ExportSkillToGame?xml=' + data.xml_string;
+              } else {
+                var error_message;
+                if (data.error_message) {
+                  error_message = data.error_message;
+                  alert(error_message);
+                }
+              }
+            },
+            error: function(data) {
+            }
+          });
+        }
+      </script>
+    </section>
+    <!-- (e) ??? -->
+    <div id="get_data_controll" style="width: 0px; height: 0px;"></div>
+
+    <div class="wrap_viewBtn">
+      <a href="#" id="btn_reset" class="btn_reset" onClick="custom_confirm('??要初始化?天?的修??？', '_training.resetSelectedSkill()'); return false;"><span>?? ?? ???</span></a>
+      <a href="#" id="btn_reset_all" class="btn_reset_all" onClick="custom_confirm('??要初始化所有修??？', '_training.resetAllSkill()'); return false;"><span>?? ?? ???</span></a>
+    </div>
+    <!--
+<textarea name="asdf" id="asdf" style="width:600px;height:300px"></textarea>
+-->
+  </div>
+</form>
+</section>
+<!-- (e) left area -->
+
+<script>
+  function custom_alert(message) {
+    alert(message);
+  }
+
+  function custom_confirm(message, action_after_confirm) {
+    if (confirm(message)) {
+      eval(action_after_confirm);
+    }
+  }
+
+  function new_alert(type, id, msg, action) {
+    var _modal = $("<div/>").attr({ "id": "modal" });
+    _modal.bind('show', function() {
+      _modal.css({ 'display': 'block' });
+      _modal.animate({ opacity: '0.9' }, 200);
+    });
+    _modal.bind('click', function() {
+      _modal.css({ 'opacity': '0.5' });
+      _modal.remove();
+      $(".wrapLayer").remove();
+    });
+    msg = msg.replace(/\n/g, '<br/>');
+    var _wrapLayer = $("<div/>").attr({ "id": id }).addClass("wrapLayer");
+    var html_alert = '<section><div><p>' + msg + '</p></div><div class="button"><button class="js_close">??</button><button class="confirm">??</button></div></section>';
+    var html_confirm = '<section><div><p>' + msg + '</p></div><div class="button"><button class="js_close">??</button><button class="confirm">??</button><button class="cancel">??</button></div></section>';
+    var html = (type == 'alert') ? html_alert : html_confirm;
+    _wrapLayer.html(html);
+    $("body").append(_modal, _wrapLayer);
+    _modal.trigger('show');
+    var w = parseInt($("body").width()) - parseInt(_wrapLayer.css('width')) - 30;
+    var h = parseInt($("body").height()) - parseInt(_wrapLayer.css('height')) - 30;
+    _wrapLayer.css({ 'display': 'block', 'left': w / 2 + 'px', 'top': h / 2 + 'px' });
+
+    _wrapLayer.find(".confirm").bind('click', function() { // ?? ??
+      if (action) eval(action);
+      _modal.trigger('click');
+      return false;
+    });
+    _wrapLayer.find(".js_close , .cancel").bind('click', function() { // ??,?? ??
+      _modal.trigger('click');
+    });
+    if ($(".wrapLayer")) $(".wrapLayer .confirm").focus();
+  }
+</script>
+</div>
+<!-- #container -->
+</div>
+<!-- (e) div#container -->
+
+
+</body>
+</html>
