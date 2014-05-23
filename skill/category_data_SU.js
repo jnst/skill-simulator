@@ -69,7 +69,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 사망 시  "
+    "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 사망 時  "
   },
   "26101":
   {
@@ -112,7 +112,7 @@ var category_data_SU = {
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": "246",
-    "complete_quest_name": "6장. 수련의 시작",
+    "complete_quest_name": "6장. 수련의 開始",
     "default_keycap": "1",
     "sort_no": "99",
     "skill_icon":
@@ -142,7 +142,7 @@ var category_data_SU = {
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": "246",
-    "complete_quest_name": "6장. 수련의 시작",
+    "complete_quest_name": "6장. 수련의 開始",
     "default_keycap": "2",
     "sort_no": "98",
     "skill_icon":
@@ -209,7 +209,7 @@ var category_data_SU = {
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": "246",
-    "complete_quest_name": "6장. 수련의 시작",
+    "complete_quest_name": "6장. 수련의 開始",
     "default_keycap": "TAB",
     "sort_no": "106",
     "skill_icon":
@@ -280,7 +280,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> 우정 효과 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> 우정 효과 中  "
   },
   "26108":
   {
@@ -375,7 +375,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  "
   },
   "26109":
   {
@@ -470,7 +470,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_16.png\' class=\'icon_in_description\' /> 꽃가루 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_summon_0_16.png\' class=\'icon_in_description\' /> 꽃가루 使用 後  "
   },
   "26104":
   {
@@ -560,13 +560,13 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  "
   },
   "26113":
   {
     "skill_id": "26113",
     "tree_id": "26125",
-    "name2_refine": "뒤구르기",
+    "name2_refine": "後転",
     "pc_level": "12",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -589,7 +589,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 그로기, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, グロッキー, 気絶 中  "
   },
   "26125":
   {
@@ -642,7 +642,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  "
   },
   "26207":
   {
@@ -671,7 +671,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  "
+    "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  "
   },
   "26114":
   {
@@ -695,7 +695,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "26137":
   {
@@ -723,7 +723,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  "
   },
   "26210":
   {
@@ -747,7 +747,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 ダウン 中  "
   },
   "26214":
   {
@@ -771,7 +771,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_22.png\' class=\'icon_in_description\' /> 적 독 5중첩  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_22.png\' class=\'icon_in_description\' /> 적 독 5중첩  "
   },
   "26412":
   {
@@ -795,7 +795,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> 적 덩굴손  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> 적 결빙  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> 적 덩굴손  <br/><img src=\'./img/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> 적 결빙  "
   },
   "26211":
   {
@@ -851,7 +851,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  "
   },
   "26103":
   {
@@ -875,7 +875,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  "
   },
   "26119":
   {
@@ -899,7 +899,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  "
   },
   "26209":
   {
@@ -953,7 +953,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 운기조식, 아군 운기조식  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 운기조식, 아군 운기조식  "
   },
   "26304":
   {
@@ -1007,7 +1007,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  "
   },
   "26216":
   {
@@ -1033,7 +1033,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "26208":
   {
@@ -1064,7 +1064,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  "
+    "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  "
   },
   "26217":
   {
@@ -1088,7 +1088,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 운기조식 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 운기조식 中  "
   },
   "26220":
   {
@@ -1112,7 +1112,7 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 실신 중, 아군 실신 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 실신 중, 아군 실신 中  "
   },
   "26203":
   {
@@ -1136,6 +1136,6 @@ var category_data_SU = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 실신 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 실신 中  "
   }
 };

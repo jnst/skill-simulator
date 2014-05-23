@@ -30,7 +30,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20103": 
 	{
@@ -64,7 +64,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20105": 
 	{
@@ -132,7 +132,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
 	},
 	"20115": 
 	{
@@ -162,7 +162,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 敵ダウン  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 敵ダウン  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20126": 
 	{
@@ -193,7 +193,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20108": 
 	{
@@ -226,7 +226,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20104": 
 	{
@@ -263,7 +263,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20127": 
 	{
@@ -291,7 +291,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20201": 
 	{
@@ -329,7 +329,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
 	},
 	"20202": 
 	{
@@ -364,7 +364,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
 	},
 	"20203": 
 	{
@@ -402,7 +402,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 抜刀 クリティカル時 "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 抜刀 クリティカル時 "
 	},
 	"20107": 
 	{
@@ -426,7 +426,7 @@ var category_data_BM = {
 			"2": "御剣術"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン、グロッキー、気絶中  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン、グロッキー、気絶中  "
 	},
 	"20113": 
 	{
@@ -476,7 +476,7 @@ var category_data_BM = {
 			"2": "御剣術"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  <br/><img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
 	},
 	"20211": 
 	{
@@ -508,7 +508,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 抜刀術中 クリティカル時 "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 抜刀術中 クリティカル時 "
 	},
 	"20111": 
 	{
@@ -542,7 +542,7 @@ var category_data_BM = {
 			"2": "御剣術"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン、気絶中  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン、気絶中  "
 	},
 	"20130": 
 	{
@@ -566,7 +566,7 @@ var category_data_BM = {
 			"2": "御剣術"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン中  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン中  "
 	},
 	"20151": 
 	{
@@ -590,7 +590,7 @@ var category_data_BM = {
 			"2": "御剣術"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 掌握、吸功された時  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 掌握、吸功された時  "
 	},
 	"20110": 
 	{
@@ -619,7 +619,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 敵グロッギー、気絶  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 敵グロッギー、気絶  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20133": 
 	{
@@ -643,7 +643,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> 疾走、ジャンプ、滑空中 "
+		"tooltip_condition_refine": "<img src=\'./img/default_icon_00_24.png\' class=\'icon_in_description\' /> 疾走、ジャンプ、滑空中 "
 	},
 	"20233": 
 	{
@@ -670,7 +670,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
 	},
 	"20326": 
 	{
@@ -694,7 +694,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
 	},
 	"20129": 
 	{
@@ -725,7 +725,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20205": 
 	{
@@ -753,7 +753,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 抜刀術 姿勢  "
 	},
 	"20003": 
 	{
@@ -788,7 +788,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20117": 
 	{
@@ -812,7 +812,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20153": 
 	{
@@ -836,7 +836,7 @@ var category_data_BM = {
 			"2": "御剣術"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧、掌握、吸功された時  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧、掌握、吸功された時  "
 	},
 	"20306": 
 	{
@@ -867,7 +867,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20118": 
 	{
@@ -891,7 +891,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20308": 
 	{
@@ -918,7 +918,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
 	},
 	"20135": 
 	{
@@ -942,7 +942,7 @@ var category_data_BM = {
 			"2": "御剣術"
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン中  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン中  "
 	},
 	"20150": 
 	{
@@ -966,7 +966,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": "",
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> 疾走ジャンプ、滑空中  "
+		"tooltip_condition_refine": "<img src=\'./img/default_icon_00_24.png\' class=\'icon_in_description\' /> 疾走ジャンプ、滑空中  "
 	},
 	"20142": 
 	{
@@ -997,7 +997,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	},
 	"20324": 
 	{
@@ -1021,7 +1021,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
 	},
 	"20305": 
 	{
@@ -1045,7 +1045,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
 	},
 	"20307": 
 	{
@@ -1069,7 +1069,7 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 御剣術 姿勢  "
 	},
 	"20229": 
 	{
@@ -1093,6 +1093,6 @@ var category_data_BM = {
 			"2": null
 		},
 		"tooltip_stance_refine": null,
-		"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
+		"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 敵、空中  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 剣術 姿勢  "
 	}
 };

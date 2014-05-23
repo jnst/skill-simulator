@@ -3,7 +3,7 @@ var category_data_DE = {
   {
     "skill_id": "24001",
     "tree_id": "24001",
-    "name2_refine": "심판",
+    "name2_refine": "審判",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": "231",
@@ -26,7 +26,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -37,11 +37,11 @@ var category_data_DE = {
   {
     "skill_id": "24010",
     "tree_id": "24010",
-    "name2_refine": "광풍",
+    "name2_refine": "旋風打撃",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": "232",
-    "complete_quest_name": "6장. 수련의 시작",
+    "complete_quest_name": "6장. 수련의 開始",
     "default_keycap": "TAB",
     "sort_no": "106",
     "skill_icon":
@@ -60,7 +60,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -71,11 +71,11 @@ var category_data_DE = {
   {
     "skill_id": "24030",
     "tree_id": "24030",
-    "name2_refine": "파괴",
+    "name2_refine": "天誅",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": "232",
-    "complete_quest_name": "6장. 수련의 시작",
+    "complete_quest_name": "6장. 수련의 開始",
     "default_keycap": "RB",
     "sort_no": "108",
     "skill_icon":
@@ -95,7 +95,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -127,7 +127,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -138,7 +138,7 @@ var category_data_DE = {
   {
     "skill_id": "24050",
     "tree_id": "24050",
-    "name2_refine": "격돌",
+    "name2_refine": "突撃",
     "pc_level": "6",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -161,7 +161,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -172,7 +172,7 @@ var category_data_DE = {
   {
     "skill_id": "24110",
     "tree_id": "24110",
-    "name2_refine": "장악",
+    "name2_refine": "掴み上げ",
     "pc_level": "8",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -195,12 +195,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  "
   },
   "24140":
   {
@@ -226,18 +226,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  "
   },
   "24260":
   {
     "skill_id": "24260",
     "tree_id": "24260",
-    "name2_refine": "쐐기",
+    "name2_refine": "くさび",
     "pc_level": "8",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -255,12 +255,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 사용 시  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  <br/><img src=\'./img/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 使用 時  "
   },
   "24170":
   {
@@ -282,7 +282,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -293,7 +293,7 @@ var category_data_DE = {
   {
     "skill_id": "24180",
     "tree_id": "24180",
-    "name2_refine": "지진",
+    "name2_refine": "地震",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -316,7 +316,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -347,18 +347,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  "
   },
   "24240":
   {
     "skill_id": "24240",
     "tree_id": "1",
-    "name2_refine": "뒤구르기",
+    "name2_refine": "後転",
     "pc_level": "12",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -371,18 +371,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 그로기, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, グロッキー, 気絶 中  "
   },
   "24160":
   {
     "skill_id": "24160",
     "tree_id": "24160",
-    "name2_refine": "탈출광풍",
+    "name2_refine": "脱出旋風",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -405,18 +405,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  "
   },
   "24200":
   {
     "skill_id": "24200",
     "tree_id": "1",
-    "name2_refine": "걷어차기",
+    "name2_refine": "強蹴り",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -429,18 +429,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 吸功を受けている最中  "
   },
   "24204":
   {
     "skill_id": "24204",
     "tree_id": "1",
-    "name2_refine": "뻗어차기",
+    "name2_refine": "突き蹴り",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -453,12 +453,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 장악 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 掴み上げを受けている最中  "
   },
   "24220":
   {
@@ -477,18 +477,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "24230":
   {
     "skill_id": "24230",
     "tree_id": "1",
-    "name2_refine": "기상광풍",
+    "name2_refine": "起床旋風",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -501,12 +501,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "24060":
   {
@@ -538,7 +538,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -549,7 +549,7 @@ var category_data_DE = {
   {
     "skill_id": "24250",
     "tree_id": "1",
-    "name2_refine": "구조",
+    "name2_refine": "救助",
     "pc_level": "18",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -562,18 +562,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 아군 탈진 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 아군 탈진 中  "
   },
   "24251":
   {
     "skill_id": "24251",
     "tree_id": "1",
-    "name2_refine": "내려놓기",
+    "name2_refine": "下ろす",
     "pc_level": "18",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -586,12 +586,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> 구조 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> 救助 中  "
   },
   "24252":
   {
@@ -610,12 +610,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> 구조 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_6.png\' class=\'icon_in_description\' /> 救助 中  "
   },
   "24070":
   {
@@ -647,7 +647,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -671,12 +671,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 掴み上げ, 吸功を受けている最中  "
   },
   "24207":
   {
@@ -695,12 +695,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧 당한 中  "
   },
   "24080":
   {
@@ -729,7 +729,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -753,18 +753,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  "
   },
   "24083":
   {
     "skill_id": "24083",
     "tree_id": "24080",
-    "name2_refine": "나락",
+    "name2_refine": "地獄落し",
     "pc_level": "22",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -787,12 +787,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "24100":
   {
@@ -818,7 +818,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
@@ -846,18 +846,18 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  "
   },
   "24120":
   {
     "skill_id": "24120",
     "tree_id": "24120",
-    "name2_refine": "무릎차기",
+    "name2_refine": "膝蹴り",
     "pc_level": "32",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -877,12 +877,12 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 時  "
   },
   "24090":
   {
@@ -912,7 +912,7 @@ var category_data_DE = {
     },
     "tooltip_stance_type":
     {
-      "0": "파괴",
+      "0": "天誅",
       "1": null,
       "2": null
     },

@@ -78,7 +78,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -159,7 +159,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -240,7 +240,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -321,7 +321,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -402,7 +402,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -483,7 +483,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -555,7 +555,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0028",
         "complete_quest_name_refine": "장미 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -564,7 +564,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -636,7 +636,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0028",
         "complete_quest_name_refine": "장미 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -645,7 +645,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     },
@@ -717,7 +717,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0226",
         "complete_quest_name_refine": "장미 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -726,7 +726,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_summon_0_2.png"
       }
     }
@@ -810,7 +810,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_7.png"
       }
     },
@@ -891,7 +891,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_7.png"
       }
     },
@@ -972,7 +972,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_7.png"
       }
     },
@@ -1053,7 +1053,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_7.png"
       }
     },
@@ -1134,7 +1134,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_7.png"
       }
     },
@@ -1215,7 +1215,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_7.png"
       }
     }
@@ -1299,7 +1299,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_8.png"
       }
     },
@@ -1380,7 +1380,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_8.png"
       }
     },
@@ -1461,7 +1461,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_8.png"
       }
     },
@@ -1542,7 +1542,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_8.png"
       }
     },
@@ -1623,7 +1623,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_39.png"
       }
     },
@@ -1704,7 +1704,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_8.png"
       }
     }
@@ -1788,7 +1788,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_9.png"
       }
     },
@@ -1869,7 +1869,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_9.png"
       }
     },
@@ -1950,7 +1950,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_9.png"
       }
     },
@@ -2031,7 +2031,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_40.png"
       }
     },
@@ -2112,7 +2112,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_9.png"
       }
     },
@@ -2193,7 +2193,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_40.png"
       }
     },
@@ -2274,7 +2274,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_9.png"
       }
     },
@@ -2355,7 +2355,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_40.png"
       }
     }
@@ -2439,7 +2439,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -2520,7 +2520,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -2601,7 +2601,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -2682,7 +2682,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -2763,7 +2763,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -2844,7 +2844,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -2925,7 +2925,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -3006,7 +3006,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -3078,7 +3078,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0398",
         "complete_quest_name_refine": "말벌 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -3087,7 +3087,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -3159,7 +3159,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
         "complete_quest_name_refine": "말벌 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -3168,7 +3168,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     },
@@ -3240,7 +3240,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
         "complete_quest_name_refine": "말벌 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -3249,7 +3249,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_summon_0_10.png"
       }
     }
@@ -3333,7 +3333,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3414,7 +3414,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3495,7 +3495,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 4초식",
+        "matrix_name": "2급 4秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3576,7 +3576,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3657,7 +3657,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3738,7 +3738,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3819,7 +3819,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3900,7 +3900,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 4초식",
+        "matrix_name": "4급 4秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -3981,7 +3981,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -4062,7 +4062,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -4143,7 +4143,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     },
@@ -4224,7 +4224,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_summon_0_11.png"
       }
     }
@@ -4308,7 +4308,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_14.png"
       }
     },
@@ -4389,7 +4389,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_14.png"
       }
     },
@@ -4470,7 +4470,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_14.png"
       }
     },
@@ -4551,7 +4551,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_14.png"
       }
     },
@@ -4632,7 +4632,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_14.png"
       }
     },
@@ -4713,7 +4713,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_14.png"
       }
     },
@@ -4794,7 +4794,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_14.png"
       }
     }
@@ -4878,7 +4878,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_16.png"
       }
     },
@@ -4959,7 +4959,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_16.png"
       }
     },
@@ -5040,7 +5040,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_16.png"
       }
     },
@@ -5121,7 +5121,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_16.png"
       }
     },
@@ -5202,7 +5202,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_16.png"
       }
     },
@@ -5283,7 +5283,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_16.png"
       }
     },
@@ -5364,7 +5364,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_16.png"
       }
     },
@@ -5445,7 +5445,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_64.png"
       }
     }
@@ -5529,7 +5529,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_17.png"
       }
     },
@@ -5610,7 +5610,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_17.png"
       }
     },
@@ -5691,7 +5691,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_17.png"
       }
     },
@@ -5772,7 +5772,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_17.png"
       }
     },
@@ -5853,7 +5853,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_17.png"
       }
     },
@@ -5925,7 +5925,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
         "complete_quest_name_refine": "민들레씨 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -5934,7 +5934,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_17.png"
       }
     },
@@ -6006,7 +6006,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0119",
         "complete_quest_name_refine": "민들레씨 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -6015,7 +6015,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_17.png"
       }
     }
@@ -6099,7 +6099,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_15.png"
       }
     },
@@ -6180,7 +6180,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_15.png"
       }
     },
@@ -6261,7 +6261,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_15.png"
       }
     },
@@ -6342,7 +6342,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_15.png"
       }
     },
@@ -6423,7 +6423,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_15.png"
       }
     }
@@ -6506,8 +6506,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_2.png"
       }
     },
@@ -6587,8 +6587,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압 당한 중  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧 당한 中  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_2.png"
       }
     },
@@ -6668,8 +6668,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_2.png"
       }
     },
@@ -6749,8 +6749,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_2.png"
       }
     }
@@ -6835,7 +6835,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_6.png"
       }
     },
@@ -6917,7 +6917,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_6.png"
       }
     },
@@ -6999,7 +6999,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_6.png"
       }
     },
@@ -7081,7 +7081,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_42.png"
       }
     },
@@ -7163,7 +7163,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_summon_0_42.png"
       }
     },
@@ -7245,7 +7245,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_6.png"
       }
     },
@@ -7327,7 +7327,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_42.png"
       }
     },
@@ -7409,7 +7409,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_summon_0_42.png"
       }
     }
@@ -7493,7 +7493,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_28.png"
       }
     },
@@ -7574,7 +7574,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_28.png"
       }
     },
@@ -7655,7 +7655,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_44.png"
       }
     },
@@ -7736,7 +7736,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_28.png"
       }
     },
@@ -7817,7 +7817,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_44.png"
       }
     }
@@ -7901,7 +7901,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_34.png"
       }
     },
@@ -7982,7 +7982,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_34.png"
       }
     },
@@ -8063,7 +8063,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_26.png"
       }
     },
@@ -8144,7 +8144,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_26.png"
       }
     },
@@ -8225,7 +8225,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_summon_0_26.png"
       }
     },
@@ -8306,7 +8306,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "buff_debuff_icon_03_21.png"
       }
     },
@@ -8387,7 +8387,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_34.png"
       }
     },
@@ -8459,7 +8459,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0375",
         "complete_quest_name_refine": "하단베기편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -8468,7 +8468,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_34.png"
       }
     },
@@ -8540,7 +8540,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "폭탄설치편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -8549,7 +8549,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_26.png"
       }
     },
@@ -8621,7 +8621,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "폭탄설치편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -8630,7 +8630,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_summon_0_26.png"
       }
     },
@@ -8702,7 +8702,7 @@ var slot_data_SU = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "폭탄설치편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
           "0": "소환",
@@ -8711,7 +8711,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "buff_debuff_icon_03_21.png"
       }
     }
@@ -8794,8 +8794,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_19.png"
       }
     },
@@ -8875,8 +8875,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_19.png"
       }
     },
@@ -8956,8 +8956,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_19.png"
       }
     },
@@ -9037,8 +9037,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_19.png"
       }
     },
@@ -9118,8 +9118,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_19.png"
       }
     }
@@ -9202,8 +9202,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_20.png"
       }
     },
@@ -9283,8 +9283,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_20.png"
       }
     },
@@ -9364,8 +9364,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_20.png"
       }
     },
@@ -9445,8 +9445,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_20.png"
       }
     },
@@ -9526,8 +9526,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_20.png"
       }
     },
@@ -9607,8 +9607,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_20.png"
       }
     },
@@ -9688,8 +9688,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/inventory_summoncat_1.png\' class=\'icon_in_description\' /> 소환수 적 누르기  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_20.png"
       }
     }
@@ -9773,7 +9773,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_21.png"
       }
     },
@@ -9854,7 +9854,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_21.png"
       }
     },
@@ -9935,7 +9935,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_21.png"
       }
     },
@@ -10016,7 +10016,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_21.png"
       }
     },
@@ -10097,7 +10097,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_21.png"
       }
     },
@@ -10178,7 +10178,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_21.png"
       }
     }
@@ -10263,7 +10263,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_25.png"
       }
     },
@@ -10345,7 +10345,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_25.png"
       }
     },
@@ -10427,7 +10427,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_25.png"
       }
     },
@@ -10509,7 +10509,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_25.png"
       }
     },
@@ -10590,8 +10590,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_summon_0_45.png"
       }
     },
@@ -10672,8 +10672,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_summon_0_45.png"
       }
     },
@@ -10755,7 +10755,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_summon_0_25.png"
       }
     },
@@ -10837,7 +10837,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_summon_0_25.png"
       }
     },
@@ -10918,8 +10918,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_summon_0_45.png"
       }
     }
@@ -11004,8 +11004,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> 적 덩굴손  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> 적 결빙  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_summon_0_8.png\' class=\'icon_in_description\' /> 적 덩굴손  <br/><img src=\'./img/buff_debuff_icon_00_20.png\' class=\'icon_in_description\' /> 적 결빙  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_46.png"
       }
     },
@@ -11088,7 +11088,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_38.png"
       }
     },
@@ -11171,7 +11171,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_37.png"
       }
     }
@@ -11254,8 +11254,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_30.png"
       }
     },
@@ -11335,8 +11335,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_30.png"
       }
     }
@@ -11421,7 +11421,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_summon_0_41.png"
       }
     },
@@ -11503,7 +11503,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_summon_0_41.png"
       }
     },
@@ -11585,7 +11585,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_summon_0_41.png"
       }
     },
@@ -11667,7 +11667,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_summon_0_41.png"
       }
     },
@@ -11748,8 +11748,8 @@ var slot_data_SU = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> 우정 효과 중  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_summon_0_41.png\' class=\'icon_in_description\' /> 우정 효과 中  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_summon_0_43.png"
       }
     },
@@ -11831,7 +11831,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_summon_0_41.png"
       }
     },
@@ -11913,7 +11913,7 @@ var slot_data_SU = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_summon_0_41.png"
       }
     }

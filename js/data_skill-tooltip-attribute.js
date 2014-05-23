@@ -10,7 +10,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공격 후"
+		"text-refine": "공격 後"
 	},
 	"c_after_attack_critical": 
 	{
@@ -23,7 +23,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 후"
+		"text-refine": "치명타 後"
 	},
 	"c_after_cast": 
 	{
@@ -36,7 +36,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 후"
+		"text-refine": "시전 後"
 	},
 	"c_after_cast_skill2": 
 	{
@@ -49,7 +49,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 시전 후"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 時전 後"
 	},
 	"c_after_explosion": 
 	{
@@ -62,7 +62,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "폭파 후"
+		"text-refine": "폭파 後"
 	},
 	"c_after_move": 
 	{
@@ -75,7 +75,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "이동 후"
+		"text-refine": "이동 後"
 	},
 	"c_after_using": 
 	{
@@ -88,7 +88,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "사용 후"
+		"text-refine": "사용 後"
 	},
 	"c_after_using_skill": 
 	{
@@ -101,7 +101,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 사용 후"
+		"text-refine": "<arg p=\"2:string\"/> 使用 後"
 	},
 	"c_after_using_skill2": 
 	{
@@ -114,7 +114,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 사용 후"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 使用 後"
 	},
 	"c_during": 
 	{
@@ -166,7 +166,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "수련 시 장악 중"
+		"text-refine": "수련 時 掴み上げ 중"
 	},
 	"c_during_catch": 
 	{
@@ -179,7 +179,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악 중"
+		"text-refine": "掴み上げ 중"
 	},
 	"c_during_catchinhalation": 
 	{
@@ -205,7 +205,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격 중"
+		"text-refine": "截拳 중"
 	},
 	"c_during_dash": 
 	{
@@ -244,7 +244,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다른 무공 사용 시"
+		"text-refine": "다른 무공 使用 時"
 	},
 	"c_during_down": 
 	{
@@ -257,7 +257,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 상태 중"
+		"text-refine": "ダウン 状態 중"
 	},
 	"c_during_hide": 
 	{
@@ -270,7 +270,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신 중"
+		"text-refine": "閃光 중"
 	},
 	"c_during_hyperjump_glide": 
 	{
@@ -309,7 +309,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악, 제압, 흡공 당한 도중"
+		"text-refine": "掴み上げ, 制圧, 흡공 당한 도중"
 	},
 	"c_during_midair_linked": 
 	{
@@ -322,7 +322,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중, 제압, 장악, 흡공 당한 도중"
+		"text-refine": "공중, 制圧, 掴み上げ, 흡공 당한 도중"
 	},
 	"c_during_mount": 
 	{
@@ -335,7 +335,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압 중"
+		"text-refine": "制圧 중"
 	},
 	"c_during_mount_catchinhalation_linked": 
 	{
@@ -348,7 +348,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악, 흡공 당한 도중"
+		"text-refine": "掴み上げ, 흡공 당한 도중"
 	},
 	"c_during_mount_linked": 
 	{
@@ -361,7 +361,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압 당한 도중"
+		"text-refine": "制圧 당한 도중"
 	},
 	"c_during_move": 
 	{
@@ -387,7 +387,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "재사용 시간 동안"
+		"text-refine": "재사용 時간 동안"
 	},
 	"c_during_skill": 
 	{
@@ -400,7 +400,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 사용 중"
+		"text-refine": "<arg p=\"2:string\"/> 使用 중"
 	},
 	"c_during_skill_parry": 
 	{
@@ -413,7 +413,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 사용 중 막기 성공 시"
+		"text-refine": "<arg p=\"2:string\"/> 使用 中 막기 성공 時"
 	},
 	"c_during_sprint_hyperjump_glide": 
 	{
@@ -452,7 +452,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 다운, 그로기, 장악, 제압, 흡공 당한 도중"
+		"text-refine": "気絶, ダウン, グロッキー, 掴み上げ, 制圧, 흡공 당한 도중"
 	},
 	"c_during_stun_kneel": 
 	{
@@ -465,7 +465,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기 상태 중"
+		"text-refine": "気絶, グロッキー 状態 중"
 	},
 	"c_during_not_stun_kneel": 
 	{
@@ -478,7 +478,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기 상태 외에 사용 시"
+		"text-refine": "気絶, グロッキー 状態 외에 使用 時"
 	},
 	"c_during_stun_kneel_linked": 
 	{
@@ -491,7 +491,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기, 장악, 제압, 흡공 상태 중"
+		"text-refine": "気絶, グロッキー, 掴み上げ, 制圧, 흡공 状態 중"
 	},
 	"c_during_not_stun_kneel_linked": 
 	{
@@ -504,7 +504,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기, 장악, 제압, 흡공 상태 외에 사용 시"
+		"text-refine": "気絶, グロッキー, 掴み上げ, 制圧, 흡공 状態 외에 使用 時"
 	},
 	"c_during_stun_down_kneel": 
 	{
@@ -517,7 +517,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 다운, 그로기 중"
+		"text-refine": "気絶, ダウン, グロッキー 중"
 	},
 	"c_during_stun_down_kneel_defence": 
 	{
@@ -530,7 +530,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 다운, 그로기, 방어 중"
+		"text-refine": "気絶, ダウン, グロッキー, 방어 중"
 	},
 	"c_during_stun_swoon_down_kneel": 
 	{
@@ -543,7 +543,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 혼절, 다운, 그로기 중"
+		"text-refine": "気絶, 気絶, ダウン, グロッキー 중"
 	},
 	"c_if_attach_burn": 
 	{
@@ -556,7 +556,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "화상 적용 시"
+		"text-refine": "화상 적용 時"
 	},
 	"c_if_attack_count": 
 	{
@@ -569,7 +569,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 명중 시"
+		"text-refine": "<arg p=\"2:string\"/> 명중 時"
 	},
 	"c_if_attack": 
 	{
@@ -582,7 +582,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공격 시"
+		"text-refine": "공격 時"
 	},
 	"c_if_attack_per": 
 	{
@@ -595,7 +595,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공격 시 마다"
+		"text-refine": "공격 時 마다"
 	},
 	"c_if_knockback": 
 	{
@@ -608,7 +608,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "넉백 시"
+		"text-refine": "넉백 時"
 	},
 	"c_if_attack_critical": 
 	{
@@ -621,7 +621,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 시"
+		"text-refine": "치명타 時"
 	},
 	"c_if_attack_critical_per": 
 	{
@@ -634,7 +634,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 시 마다"
+		"text-refine": "치명타 時 마다"
 	},
 	"c_if_attack_critical_ice_skill": 
 	{
@@ -647,7 +647,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "한기 계열 무공 치명타 시"
+		"text-refine": "한기 계열 무공 치명타 時"
 	},
 	"c_if_attack_critical_repeat": 
 	{
@@ -660,7 +660,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 치명타 시"
+		"text-refine": "<arg p=\"2:string\"/> 치명타 時"
 	},
 	"c_if_attack_critical_skill": 
 	{
@@ -673,7 +673,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 치명타 시"
+		"text-refine": "<arg p=\"2:string\"/> 치명타 時"
 	},
 	"c_if_attack_critical_occur": 
 	{
@@ -686,7 +686,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 발생 시"
+		"text-refine": "치명타 발생 時"
 	},
 	"c_if_attacked": 
 	{
@@ -699,7 +699,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "피격 시"
+		"text-refine": "피격 時"
 	},
 	"c_if_attacked_during": 
 	{
@@ -712,7 +712,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 중 피격 시"
+		"text-refine": "<arg p=\"2:string\"/> 中 피격 時"
 	},
 	"c_if_attacked_during_cast": 
 	{
@@ -725,7 +725,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 중 피격 시"
+		"text-refine": "詠唱中にダメージを受けた時"
 	},
 	"c_if_attack_hit": 
 	{
@@ -738,7 +738,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "명중 시"
+		"text-refine": "명중 時"
 	},
 	"c_if_attack_not_hit": 
 	{
@@ -764,7 +764,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 적중 시"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 적중 時"
 	},
 	"c_if_attack_skill": 
 	{
@@ -777,7 +777,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 명중 시"
+		"text-refine": "<arg p=\"2:string\"/> 명중 時"
 	},
 	"c_if_attack_skill2": 
 	{
@@ -790,7 +790,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 명중 시"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 명중 時"
 	},
 	"c_if_attack_skill2_count": 
 	{
@@ -803,7 +803,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 혹은 <arg p=\"3:string\"/>의 연속 공격 모두 명중 시"
+		"text-refine": "<arg p=\"2:string\"/> 혹은 <arg p=\"3:string\"/>의 연속 공격 모두 명중 時"
 	},
 	"c_during_iceflower": 
 	{
@@ -829,7 +829,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "얼음꽃 중 저항 시"
+		"text-refine": "얼음꽃 中 抵抗 時"
 	},
 	"c_if_front_attack": 
 	{
@@ -842,7 +842,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 전방 명중 시"
+		"text-refine": "적 전방 명중 時"
 	},
 	"c_if_back_attack": 
 	{
@@ -855,7 +855,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 후방 명중 시"
+		"text-refine": "적 後방 명중 時"
 	},
 	"c_if_back_attack_critical": 
 	{
@@ -868,7 +868,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 후방 치명타 시"
+		"text-refine": "적 後방 치명타 時"
 	},
 	"c_if_back_attack_skill": 
 	{
@@ -881,7 +881,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 적 후방 명중 시"
+		"text-refine": "<arg p=\"2:string\"/> 적 後방 명중 時"
 	},
 	"c_if_bounce": 
 	{
@@ -894,7 +894,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "튕기기 성공 시"
+		"text-refine": "튕기기 성공 時"
 	},
 	"c_if_cancle": 
 	{
@@ -907,7 +907,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "사용 취소 시"
+		"text-refine": "사용 취소 時"
 	},
 	"c_if_cast_during_hide": 
 	{
@@ -920,7 +920,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신 중 시전 시"
+		"text-refine": "閃光 中 時전 時"
 	},
 	"c_if_casting_with_input": 
 	{
@@ -933,7 +933,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 키로 시전 시"
+		"text-refine": "<arg p=\"2:string\"/> 키로 時전 時"
 	},
 	"c_if_cast_repeat": 
 	{
@@ -946,7 +946,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반복 사용 시"
+		"text-refine": "반복 使用 時"
 	},
 	"c_if_combo_skill": 
 	{
@@ -959,7 +959,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 연계 시"
+		"text-refine": "<arg p=\"2:string\"/> 연계 時"
 	},
 	"c_if_counter": 
 	{
@@ -972,7 +972,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격 성공 시"
+		"text-refine": "截拳 성공 時"
 	},
 	"c_if_defence_range": 
 	{
@@ -985,7 +985,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "원거리 공격 막기 성공 시"
+		"text-refine": "원距離 공격 막기 성공 時"
 	},
 	"c_if_counter_skill": 
 	{
@@ -998,7 +998,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 무공으로 반격 성공 시"
+		"text-refine": "<arg p=\"2:string\"/> 무공으로 截拳 성공 時"
 	},
 	"c_if_counter_time": 
 	{
@@ -1011,7 +1011,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 공격 시점에 맞춰 사용 시"
+		"text-refine": "적 공격 時점에 맞춰 使用 時"
 	},
 	"c_if_counter_fail": 
 	{
@@ -1024,7 +1024,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격 실패 시"
+		"text-refine": "截拳 실패 時"
 	},
 	"c_if_defence": 
 	{
@@ -1037,7 +1037,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "방어 시"
+		"text-refine": "방어 時"
 	},
 	"c_if_defence_break": 
 	{
@@ -1050,7 +1050,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 방어 해제 시"
+		"text-refine": "적 방어 해제 時"
 	},
 	"c_if_skill_break": 
 	{
@@ -1063,7 +1063,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 해제 시"
+		"text-refine": "<arg p=\"2:string\"/> 해제 時"
 	},
 	"c_if_defence_in": 
 	{
@@ -1076,7 +1076,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 내 막기 성공 시"
+		"text-refine": "<arg p=\"2:string\"/> 내 막기 성공 時"
 	},
 	"c_if_defence_parry": 
 	{
@@ -1089,7 +1089,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 성공 시"
+		"text-refine": "막기 성공 時"
 	},
 	"c_if_dodge": 
 	{
@@ -1102,7 +1102,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "회피 시"
+		"text-refine": "회피 時"
 	},
 	"c_if_dodge_during_using": 
 	{
@@ -1115,7 +1115,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "사용 중 회피 시"
+		"text-refine": "사용 中 회피 時"
 	},
 	"c_if_dodge_during_dodge": 
 	{
@@ -1128,7 +1128,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "회피 증가 중 회피 시"
+		"text-refine": "회피 増加 中 회피 時"
 	},
 	"c_if_immune_skill": 
 	{
@@ -1141,7 +1141,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>으로 저항 성공 시"
+		"text-refine": "<arg p=\"2:string\"/>으로 抵抗 성공 時"
 	},
 	"c_if_immune_skill2": 
 	{
@@ -1154,7 +1154,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 무공으로 저항 시"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 무공으로 抵抗 時"
 	},
 	"c_if_dodge_skill2": 
 	{
@@ -1167,7 +1167,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 무공으로 회피 성공 시"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 무공으로 회피 성공 時"
 	},
 	"c_if_effect_stack": 
 	{
@@ -1180,7 +1180,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 중첩 시"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 중첩 時"
 	},
 	"c_if_enemy_parry_dodge": 
 	{
@@ -1193,7 +1193,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 막기, 회피 시"
+		"text-refine": "적 막기, 회피 時"
 	},
 	"c_if_escape_down": 
 	{
@@ -1206,7 +1206,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 탈출 시"
+		"text-refine": "ダウン 탈출 時"
 	},
 	"c_if_escape_mount": 
 	{
@@ -1219,7 +1219,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압 탈출 시"
+		"text-refine": "制圧 탈출 時"
 	},
 	"c_if_explosion": 
 	{
@@ -1232,7 +1232,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "폭파 시"
+		"text-refine": "폭파 時"
 	},
 	"c_if_end_hosin": 
 	{
@@ -1245,7 +1245,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "호신강기 종료 후"
+		"text-refine": "호신강기 종료 後"
 	},
 	"c_if_fail_hide": 
 	{
@@ -1258,7 +1258,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신 실패 시"
+		"text-refine": "閃光 실패 時"
 	},
 	"c_if_end_hide": 
 	{
@@ -1271,7 +1271,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신 종료 후"
+		"text-refine": "閃光 종료 後"
 	},
 	"c_if_freezing_break": 
 	{
@@ -1284,7 +1284,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "결빙 파괴 시"
+		"text-refine": "결빙 天誅 時"
 	},
 	"c_if_immuned_count": 
 	{
@@ -1297,7 +1297,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 저항 시"
+		"text-refine": "<arg p=\"2:string\"/> 抵抗 時"
 	},
 	"c_if_immuned": 
 	{
@@ -1310,7 +1310,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "저항 시"
+		"text-refine": "抵抗 時"
 	},
 	"c_if_immuned_summoned": 
 	{
@@ -1323,7 +1323,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환수 저항 시"
+		"text-refine": "소환수 抵抗 時"
 	},
 	"c_if_immuned_during_skill": 
 	{
@@ -1336,7 +1336,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 중 저항 시"
+		"text-refine": "시전 中 抵抗 時"
 	},
 	"c_if_input": 
 	{
@@ -1375,7 +1375,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "행동 불가 중 <arg p=\"2:string\"/> 키로"
+		"text-refine": "행동 불가 中 <arg p=\"2:string\"/> 키로"
 	},
 	"c_if_input_during_moveblock": 
 	{
@@ -1388,7 +1388,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "이동 불가 중 <arg p=\"2:string\"/> 키로"
+		"text-refine": "이동 불가 中 <arg p=\"2:string\"/> 키로"
 	},
 	"c_if_instant_cast": 
 	{
@@ -1401,7 +1401,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "즉시 시전 시"
+		"text-refine": "即時 時전 時"
 	},
 	"c_if_kill_skill": 
 	{
@@ -1414,7 +1414,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 무공으로 적 처치 시"
+		"text-refine": "<arg p=\"2:string\"/> 무공으로 적 처치 時"
 	},
 	"c_if_learn_skill": 
 	{
@@ -1427,7 +1427,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 습득 시"
+		"text-refine": "<arg p=\"2:string\"/> 습득 時"
 	},
 	"c_if_no_target_in": 
 	{
@@ -1453,7 +1453,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기, 회피 시"
+		"text-refine": "막기, 회피 時"
 	},
 	"c_if_parry_bounce_counter": 
 	{
@@ -1466,7 +1466,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기, 반격, 튕기기 시에도"
+		"text-refine": "막기, 截拳, 튕기기 時에도"
 	},
 	"c_if_poison_exlplosion": 
 	{
@@ -1479,7 +1479,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "독 폭파 시"
+		"text-refine": "독 폭파 時"
 	},
 	"e_if_repeat_power_up": 
 	{
@@ -1492,7 +1492,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "연속 시전 시 <arg p=\"2:string\"/>씩 피해 증가"
+		"text-refine": "연속 時전 時 <arg p=\"2:string\"/>씩 피해 増加"
 	},
 	"c_if_repeat": 
 	{
@@ -1505,7 +1505,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 연속 시전 시"
+		"text-refine": "<arg p=\"2:string\"/> 연속 時전 時"
 	},
 	"c_if_stance_change": 
 	{
@@ -1518,7 +1518,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 자세로 전환 시"
+		"text-refine": "<arg p=\"2:string\"/> 자세로 전환 時"
 	},
 	"c_if_success_hide": 
 	{
@@ -1531,7 +1531,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신 성공 시"
+		"text-refine": "閃光 성공 時"
 	},
 	"c_if_success_skill": 
 	{
@@ -1544,7 +1544,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 성공 시"
+		"text-refine": "<arg p=\"2:string\"/> 성공 時"
 	},
 	"c_if_triggered": 
 	{
@@ -1570,7 +1570,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 후 사용 시"
+		"text-refine": "치명타 後 使用 時"
 	},
 	"c_if_using_enemy_back": 
 	{
@@ -1583,7 +1583,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 후방 사용 시"
+		"text-refine": "적 後방 使用 時"
 	},
 	"c_if_using_ice_skill": 
 	{
@@ -1596,7 +1596,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "한기 계열 무공 사용 시"
+		"text-refine": "한기 계열 무공 使用 時"
 	},
 	"c_if_using_skill": 
 	{
@@ -1609,7 +1609,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 사용 시"
+		"text-refine": "<arg p=\"2:string\"/> 使用 時"
 	},
 	"c_if_using_skill2": 
 	{
@@ -1622,7 +1622,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 사용 시"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 使用 時"
 	},
 	"c_if_use_to_standlinked": 
 	{
@@ -1635,7 +1635,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기, 장악, 흡공 당한 적 명중 시"
+		"text-refine": "気絶, グロッキー, 掴み上げ, 흡공 당한 적 명중 時"
 	},
 	"c_if_use_to_standlinked2": 
 	{
@@ -1648,7 +1648,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기, 제압, 흡공 당한 적에게"
+		"text-refine": "気絶, グロッキー, 制圧, 흡공 당한 적에게"
 	},
 	"c_if_use_to_shadow": 
 	{
@@ -1661,7 +1661,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "그림자 대상에게 사용 시"
+		"text-refine": "影対象에게 使用 時"
 	},
 	"c_per_stack": 
 	{
@@ -1778,7 +1778,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 추가 시전"
+		"text-refine": "<arg p=\"2:string\"/> 추가 時전"
 	},
 	"e_additional_use_nocondition": 
 	{
@@ -1791,7 +1791,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "조건과 무관하게 <arg p=\"2:string\"/> 추가 시전"
+		"text-refine": "조건과 무관하게 <arg p=\"2:string\"/> 추가 時전"
 	},
 	"e_additional_use_instant": 
 	{
@@ -1804,7 +1804,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 시간 없이 <arg p=\"2:string\"/> 추가 시전"
+		"text-refine": "시전 時간 없이 <arg p=\"2:string\"/> 추가 時전"
 	},
 	"e_additional_skill_use": 
 	{
@@ -1817,7 +1817,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 추가 시전"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 추가 時전"
 	},
 	"e_attach_to_friend": 
 	{
@@ -1908,7 +1908,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 중 튕기기"
+		"text-refine": "시전 中 튕기기"
 	},
 	"e_bounce_disable": 
 	{
@@ -1934,7 +1934,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 후 <arg p=\"2:string\"/> 내 공격 1회 튕기기"
+		"text-refine": "시전 後 <arg p=\"2:string\"/> 내 공격 1회 튕기기"
 	},
 	"e_bounce_repeat": 
 	{
@@ -1947,7 +1947,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 후 <arg p=\"2:string\"/> 내 공격 연속 튕기기"
+		"text-refine": "시전 後 <arg p=\"2:string\"/> 내 공격 연속 튕기기"
 	},
 	"e_cancle": 
 	{
@@ -1973,7 +1973,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "최대 <arg p=\"2:string\"/> 연속 시전"
+		"text-refine": "최대 <arg p=\"2:string\"/> 연속 時전"
 	},
 	"e_cast_disable": 
 	{
@@ -1999,7 +1999,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 시간 <arg p=\"2:string\"/>로 감소"
+		"text-refine": "시전 時간 <arg p=\"2:string\"/>로 감소"
 	},
 	"e_cast_duration_reduce_skill": 
 	{
@@ -2012,7 +2012,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 사용 가능"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 使用 가능"
 	},
 	"e_cast_fly_sword_six": 
 	{
@@ -2051,7 +2051,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 사용 가능"
+		"text-refine": "<arg p=\"2:string\"/> 使用 가능"
 	},
 	"e_cast_enable_skill_effcet": 
 	{
@@ -2064,7 +2064,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"3:string\"/> <arg p=\"2:string\"/> 사용 가능"
+		"text-refine": "<arg p=\"3:string\"/> <arg p=\"2:string\"/> 使用 가능"
 	},
 	"e_cast_enable_skill_count": 
 	{
@@ -2077,7 +2077,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 사용 가능"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 使用 가능"
 	},
 	"e_cast_skill": 
 	{
@@ -2090,7 +2090,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 시전"
+		"text-refine": "<arg p=\"2:string\"/> 時전"
 	},
 	"e_cast_skill_damageup": 
 	{
@@ -2103,7 +2103,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다음 <arg p=\"2:string\"/> 피해량 증가"
+		"text-refine": "다음 <arg p=\"2:string\"/> 피해량 増加"
 	},
 	"e_catch": 
 	{
@@ -2116,7 +2116,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 장악"
+		"text-refine": "<arg p=\"2:string\"/>간 掴み上げ"
 	},
 	"e_catchinhalation": 
 	{
@@ -2155,7 +2155,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격"
+		"text-refine": "截拳"
 	},
 	"e_counter_duration": 
 	{
@@ -2168,7 +2168,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 반격"
+		"text-refine": "<arg p=\"2:string\"/>간 截拳"
 	},
 	"e_counter_front_duration": 
 	{
@@ -2181,7 +2181,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 전방 반격"
+		"text-refine": "<arg p=\"2:string\"/> 전방 截拳"
 	},
 	"e_damage": 
 	{
@@ -2194,7 +2194,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>의 피해"
+		"text-refine": "<arg p=\"2:string\"/>のダメージ"
 	},
 	"e_damage_add": 
 	{
@@ -2259,7 +2259,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/>의 피해"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/>のダメージ"
 	},
 	"e_damage_dot_add": 
 	{
@@ -2350,7 +2350,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>에 걸쳐 <arg p=\"3:string\"/>의 피해"
+		"text-refine": "<arg p=\"2:string\"/>에 걸쳐 <arg p=\"3:string\"/>のダメージ"
 	},
 	"e_damage_chain": 
 	{
@@ -2363,7 +2363,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "최대 <arg p=\"2:string\"/>명의 적에게 연속하여 <arg p=\"3:string\"/>의 피해"
+		"text-refine": "최대 <arg p=\"2:string\"/>명의 적에게 연속하여 <arg p=\"3:string\"/>のダメージ"
 	},
 	"e_damage_up": 
 	{
@@ -2376,7 +2376,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "피해 증가"
+		"text-refine": "피해 増加"
 	},
 	"e_damage_zone_duration": 
 	{
@@ -2389,7 +2389,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 피해 영역 생성"
+		"text-refine": "<arg p=\"2:string\"/>간 피해 範囲 생성"
 	},
 	"e_damage_zone_effect": 
 	{
@@ -2402,7 +2402,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 피해 영역 생성"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 피해 範囲 생성"
 	},
 	"e_damage_zone_skill": 
 	{
@@ -2415,7 +2415,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 영역 생성"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 範囲 생성"
 	},
 	"e_dash": 
 	{
@@ -2428,7 +2428,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적에게 접근"
+		"text-refine": "敵に接近"
 	},
 	"e_dash_chain": 
 	{
@@ -2441,7 +2441,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "연쇄하여 적에게 접근"
+		"text-refine": "연쇄하여 敵に接近"
 	},
 	"e_dash_left": 
 	{
@@ -2454,7 +2454,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 위치 왼쪽으로 파고들기"
+		"text-refine": "적 위치 왼쪽으로 幽歩"
 	},
 	"e_dash_rear": 
 	{
@@ -2519,7 +2519,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 너머 이동, <arg p=\"2:string\"/>간 기절"
+		"text-refine": "적 너머 이동, <arg p=\"2:string\"/>간 気絶"
 	},
 	"e_dash_right": 
 	{
@@ -2532,7 +2532,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 위치 오른쪽으로 파고들기"
+		"text-refine": "적 위치 오른쪽으로 幽歩"
 	},
 	"e_defence": 
 	{
@@ -2558,7 +2558,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 방어 무공 사용 불가"
+		"text-refine": "<arg p=\"2:string\"/>간 방어 무공 使用 불가"
 	},
 	"e_defence_break": 
 	{
@@ -2597,7 +2597,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "이동 무공 저항"
+		"text-refine": "이동 무공 抵抗"
 	},
 	"e_defence_dash_block": 
 	{
@@ -2610,7 +2610,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 방어, 이동 무공 사용 불가"
+		"text-refine": "<arg p=\"2:string\"/>간 방어, 이동 무공 使用 불가"
 	},
 	"e_defence_disable": 
 	{
@@ -2675,7 +2675,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 상태 해제"
+		"text-refine": "<arg p=\"2:string\"/> 状態 해제"
 	},
 	"e_dispel_effect_4": 
 	{
@@ -2688,7 +2688,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/>, <arg p=\"5:string\"/> 상태 해제"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/>, <arg p=\"5:string\"/> 状態 해제"
 	},
 	"e_dispel_midair": 
 	{
@@ -2701,7 +2701,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 공중 상태 해제"
+		"text-refine": "敵の空中状態を解除"
 	},
 	"e_dispel_skill": 
 	{
@@ -2740,7 +2740,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 다운"
+		"text-refine": "<arg p=\"2:string\"/>간 ダウン"
 	},
 	"e_down_to_knockback": 
 	{
@@ -2753,7 +2753,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 넉백 후 <arg p=\"3:string\"/>간 다운"
+		"text-refine": "<arg p=\"2:string\"/> 넉백 後 <arg p=\"3:string\"/>간 ダウン"
 	},
 	"e_duration_reduce": 
 	{
@@ -2766,7 +2766,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "유지 시간 감소"
+		"text-refine": "維持 時간 감소"
 	},
 	"e_escape_catch_catchinhalation": 
 	{
@@ -2779,7 +2779,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악, 흡공 상태 탈출"
+		"text-refine": "掴み上げ, 흡공 状態 탈출"
 	},
 	"e_escape_inhalation": 
 	{
@@ -2792,7 +2792,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "흡공 상태 탈출"
+		"text-refine": "흡공 状態 탈출"
 	},
 	"e_escape_down": 
 	{
@@ -2805,7 +2805,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 상태 탈출"
+		"text-refine": "ダウン 状態 탈출"
 	},
 	"e_escape_down_swoon": 
 	{
@@ -2818,7 +2818,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 혼절 상태 탈출"
+		"text-refine": "ダウン, 気絶 状態 탈출"
 	},
 	"e_escape_down_kneel_swoon": 
 	{
@@ -2831,7 +2831,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 그로기, 혼절 상태 탈출"
+		"text-refine": "ダウン, グロッキー, 気絶 状態 탈출"
 	},
 	"e_escape_down_stun_kneel_swoon": 
 	{
@@ -2844,7 +2844,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 기절, 그로기, 혼절 상태 탈출"
+		"text-refine": "ダウン, 気絶, グロッキー, 気絶 状態 탈출"
 	},
 	"e_escape_down_stun_kneel_swoon_linked": 
 	{
@@ -2857,7 +2857,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 기절, 그로기, 혼절, 제압, 장악, 흡공 상태 탈출"
+		"text-refine": "ダウン, 気絶, グロッキー, 気絶, 制圧, 掴み上げ, 흡공 状態 탈출"
 	},
 	"e_escape_down_stun_kneel_swoon_air": 
 	{
@@ -2870,7 +2870,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 기절, 그로기, 혼절, 공중 상태 탈출"
+		"text-refine": "ダウン, 気絶, グロッキー, 気絶, 공중 状態 탈출"
 	},
 	"e_escape_down_stun_kneel_swoon_air_linked": 
 	{
@@ -2883,7 +2883,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 기절, 그로기, 혼절, 제압, 장악, 흡공, 공중 상태 탈출"
+		"text-refine": "ダウン, 気絶, グロッキー, 気絶, 制圧, 掴み上げ, 흡공, 공중 状態 탈출"
 	},
 	"e_escape_down_mount": 
 	{
@@ -2896,7 +2896,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 제압 상태 탈출"
+		"text-refine": "ダウン, 制圧 状態 탈출"
 	},
 	"e_escape_effect": 
 	{
@@ -2909,7 +2909,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 상태 탈출"
+		"text-refine": "<arg p=\"2:string\"/> 状態 탈출"
 	},
 	"e_escape_mount": 
 	{
@@ -2922,7 +2922,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압 상태 탈출"
+		"text-refine": "制圧 状態 탈출"
 	},
 	"e_escape_mount_catch_catchinhalation": 
 	{
@@ -2935,7 +2935,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압, 장악, 흡공 상태 탈출"
+		"text-refine": "制圧, 掴み上げ, 흡공 状態 탈출"
 	},
 	"e_escape_stun_down_kneel_swoon": 
 	{
@@ -2948,7 +2948,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 다운, 그로기, 혼절 상태 탈출"
+		"text-refine": "気絶, ダウン, グロッキー, 気絶 状態 탈출"
 	},
 	"e_explosion": 
 	{
@@ -2987,7 +2987,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 후 폭파"
+		"text-refine": "<arg p=\"2:string\"/> 後 폭파"
 	},
 	"e_explosion_delay_effect": 
 	{
@@ -3000,7 +3000,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 후 <arg p=\"3:string\"/> 폭발"
+		"text-refine": "<arg p=\"2:string\"/> 後 <arg p=\"3:string\"/> 폭발"
 	},
 	"e_explosion_after_down": 
 	{
@@ -3013,7 +3013,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 후 <arg p=\"3:string\"/>의 피해, <arg p=\"4:string\"/>간 다운"
+		"text-refine": "<arg p=\"2:string\"/> 後 <arg p=\"3:string\"/>のダメージ, <arg p=\"4:string\"/>간 ダウン"
 	},
 	"e_explosion_mine": 
 	{
@@ -3026,7 +3026,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "지뢰 폭파"
+		"text-refine": "地雷 폭파"
 	},
 	"e_explosion_skill": 
 	{
@@ -3065,7 +3065,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/>간 유지"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/>간 維持"
 	},
 	"e_extend_effect_2": 
 	{
@@ -3078,7 +3078,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 상태 <arg p=\"4:string\"/>간 유지"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 状態 <arg p=\"4:string\"/>간 維持"
 	},
 	"e_fire_speed_up": 
 	{
@@ -3104,7 +3104,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 시각, 청각 마비"
+		"text-refine": "<arg p=\"2:string\"/>간 時각, 청각 마비"
 	},
 	"e_fly_speed_up": 
 	{
@@ -3117,7 +3117,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "돌진 속도 증가"
+		"text-refine": "돌진 속도 増加"
 	},
 	"e_freezing_flower": 
 	{
@@ -3156,7 +3156,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "위협 증가"
+		"text-refine": "위협 増加"
 	},
 	"e_heal_zone": 
 	{
@@ -3169,7 +3169,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 생명력 회복 영역 생성"
+		"text-refine": "<arg p=\"2:string\"/>간 생명력 회복 範囲 생성"
 	},
 	"e_hide": 
 	{
@@ -3182,7 +3182,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 은신"
+		"text-refine": "<arg p=\"2:string\"/>간 閃光"
 	},
 	"e_hide_extend": 
 	{
@@ -3195,7 +3195,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신 상태 유지"
+		"text-refine": "閃光 状態 維持"
 	},
 	"e_hp_consume": 
 	{
@@ -3325,7 +3325,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "피해 및 상태이상 저항"
+		"text-refine": "ダメージおよび状態異常に抵抗"
 	},
 	"e_immune_time": 
 	{
@@ -3338,7 +3338,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 피해 및 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/>간 ダメージおよび状態異常に抵抗"
 	},
 	"e_immune_repeat": 
 	{
@@ -3351,7 +3351,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 피해 및 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/> ダメージおよび状態異常に抵抗"
 	},
 	"e_immune_repeat_time": 
 	{
@@ -3364,7 +3364,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 피해 및 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> ダメージおよび状態異常に抵抗"
 	},
 	"e_immune_damage": 
 	{
@@ -3377,7 +3377,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "피해 저항"
+		"text-refine": "피해 抵抗"
 	},
 	"e_immune_damage_duration": 
 	{
@@ -3390,7 +3390,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 피해 저항"
+		"text-refine": "<arg p=\"2:string\"/> 피해 抵抗"
 	},
 	"e_immune_damage_repeat": 
 	{
@@ -3403,7 +3403,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 피해 저항"
+		"text-refine": "<arg p=\"2:string\"/> 피해 抵抗"
 	},
 	"e_immune_defence_break": 
 	{
@@ -3429,7 +3429,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/>, <arg p=\"4:string\"/> 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/>, <arg p=\"4:string\"/> 状態이상 抵抗"
 	},
 	"e_immune_effect_attr_4": 
 	{
@@ -3442,7 +3442,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/>, <arg p=\"5:string\"/> 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/>, <arg p=\"5:string\"/> 状態이상 抵抗"
 	},
 	"e_immune_time_summoner_summoned": 
 	{
@@ -3455,7 +3455,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환사, 소환수 <arg p=\"2:string\"/>간 피해 및 상태이상 저항"
+		"text-refine": "소환사, 소환수 <arg p=\"2:string\"/>간 ダメージおよび状態異常に抵抗"
 	},
 	"e_enable_recycle_skill": 
 	{
@@ -3481,7 +3481,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "재사용 시간 초기화"
+		"text-refine": "재사용 時간 秒기화"
 	},
 	"e_initilize_recycle_skill": 
 	{
@@ -3494,7 +3494,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 재사용 시간 초기화"
+		"text-refine": "<arg p=\"2:string\"/> 재사용 時간 秒기화"
 	},
 	"e_initilize_recycle_skill_skill": 
 	{
@@ -3507,7 +3507,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 재사용 시간 초기화"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 재사용 時간 秒기화"
 	},
 	"e_instand_combo": 
 	{
@@ -3520,7 +3520,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다른 무공으로 즉시 연계 가능"
+		"text-refine": "다른 무공으로 即時 연계 가능"
 	},
 	"e_instant_cast": 
 	{
@@ -3533,7 +3533,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "즉시 시전"
+		"text-refine": "即時 時전"
 	},
 	"e_instant_cast_repeat": 
 	{
@@ -3546,7 +3546,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 즉시 시전"
+		"text-refine": "<arg p=\"2:string\"/> 即時 時전"
 	},
 	"e_instant_cast_skill": 
 	{
@@ -3559,7 +3559,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 즉시 시전"
+		"text-refine": "<arg p=\"2:string\"/> 即時 時전"
 	},
 	"e_instant_cast_skill_skill": 
 	{
@@ -3572,7 +3572,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 즉시 시전"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 即時 時전"
 	},
 	"e_instant_cast_sp_consume_none": 
 	{
@@ -3585,7 +3585,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "내력 소모 없이 즉시 시전"
+		"text-refine": "내력 소모 없이 即時 時전"
 	},
 	"e_instant_cast_sp_consume_none_skill": 
 	{
@@ -3598,7 +3598,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 내력 소모 없이 즉시 시전"
+		"text-refine": "<arg p=\"2:string\"/> 내력 소모 없이 即時 時전"
 	},
 	"e_kneel": 
 	{
@@ -3611,7 +3611,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 그로기"
+		"text-refine": "<arg p=\"2:string\"/>간 グロッキー"
 	},
 	"e_kneel_instead_down": 
 	{
@@ -3624,7 +3624,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 대신 <arg p=\"2:string\"/>간 그로기"
+		"text-refine": "ダウン 대신 <arg p=\"2:string\"/>간 グロッキー"
 	},
 	"e_kneel_to_knockback": 
 	{
@@ -3637,7 +3637,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 넉백 후 <arg p=\"3:string\"/>간 그로기"
+		"text-refine": "<arg p=\"2:string\"/> 넉백 後 <arg p=\"3:string\"/>간 グロッキー"
 	},
 	"e_knockback": 
 	{
@@ -3689,7 +3689,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 제압"
+		"text-refine": "<arg p=\"2:string\"/>간 制圧"
 	},
 	"e_movable_attack": 
 	{
@@ -3741,7 +3741,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 이동 무공 사용 불가"
+		"text-refine": "<arg p=\"2:string\"/>간 이동 무공 使用 불가"
 	},
 	"e_move_disable": 
 	{
@@ -3806,7 +3806,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 막기 확률 증가"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 막기 확률 増加"
 	},
 	"e_poison_spread": 
 	{
@@ -3819,7 +3819,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 적에게 독 확산"
+		"text-refine": "範囲 내 적에게 독 확산"
 	},
 	"e_prickblood": 
 	{
@@ -3871,7 +3871,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 원거리 막기"
+		"text-refine": "<arg p=\"2:string\"/>간 원距離 막기"
 	},
 	"e_range_attack_immune": 
 	{
@@ -3884,7 +3884,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 원거리 피해 및 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/>간 원距離 ダメージおよび状態異常に抵抗"
 	},
 	"e_range_attack_immune_immune": 
 	{
@@ -3897,7 +3897,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "원거리 피해 저항 무시"
+		"text-refine": "원距離 피해 抵抗 무시"
 	},
 	"e_recall": 
 	{
@@ -3936,7 +3936,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "끌어당겨 <arg p=\"2:string\"/>간 그로기"
+		"text-refine": "끌어당겨 <arg p=\"2:string\"/>간 グロッキー"
 	},
 	"e_recall_to_position": 
 	{
@@ -3975,7 +3975,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "운기조식 시간 <arg p=\"2:string\"/> 감소"
+		"text-refine": "운기조식 時간 <arg p=\"2:string\"/> 감소"
 	},
 	"e_resurrection": 
 	{
@@ -4079,7 +4079,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "내력 소모 없이 사용 가능"
+		"text-refine": "내력 소모 없이 使用 가능"
 	},
 	"e_sp_consume_none_skill": 
 	{
@@ -4092,7 +4092,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다음 <arg p=\"2:string\"/> 이내 <arg p=\"3:string\"/> <arg p=\"4:string\"/> 내력 소모 없이 사용 가능"
+		"text-refine": "다음 <arg p=\"2:string\"/> 이내 <arg p=\"3:string\"/> <arg p=\"4:string\"/> 내력 소모 없이 使用 가능"
 	},
 	"e_sp_consume_reduce_skill": 
 	{
@@ -4300,7 +4300,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 이동속도 <arg p=\"3:string\"/> 증가"
+		"text-refine": "<arg p=\"2:string\"/>간 移動速度 <arg p=\"3:string\"/> 増加"
 	},
 	"e_speed_down_time_percent": 
 	{
@@ -4313,7 +4313,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 이동속도 <arg p=\"3:string\"/> 감소"
+		"text-refine": "<arg p=\"2:string\"/>간 移動速度 <arg p=\"3:string\"/> 감소"
 	},
 	"e_stack": 
 	{
@@ -4339,7 +4339,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 중첩 초기화"
+		"text-refine": "<arg p=\"2:string\"/> 중첩 秒기화"
 	},
 	"e_stack_max": 
 	{
@@ -4456,7 +4456,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 증가"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 増加"
 	},
 	"e_stat_up_duration": 
 	{
@@ -4469,7 +4469,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> <arg p=\"4:string\"/> 증가"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> <arg p=\"4:string\"/> 増加"
 	},
 	"e_stat_up_duration_count": 
 	{
@@ -4482,7 +4482,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 공격의 <arg p=\"4:string\"/> <arg p=\"5:string\"/>증가"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/> 공격의 <arg p=\"4:string\"/> <arg p=\"5:string\"/>増加"
 	},
 	"e_stun": 
 	{
@@ -4495,7 +4495,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 기절"
+		"text-refine": "<arg p=\"2:string\"/>간 気絶"
 	},
 	"e_stun_to_knockback": 
 	{
@@ -4508,7 +4508,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 넉백 후 <arg p=\"3:string\"/>간 기절"
+		"text-refine": "<arg p=\"2:string\"/> 넉백 後 <arg p=\"3:string\"/>간 気絶"
 	},
 	"e_summon": 
 	{
@@ -4547,7 +4547,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 가속 단계 증가"
+		"text-refine": "<arg p=\"2:string\"/> 가속 단계 増加"
 	},
 	"e_throw": 
 	{
@@ -4625,7 +4625,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "최대 시전 거리 <arg p=\"2:string\"/>로 증가"
+		"text-refine": "최대 時전 距離 <arg p=\"2:string\"/>로 増加"
 	},
 	"e_shadow_block_effect": 
 	{
@@ -4651,7 +4651,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 적"
+		"text-refine": "範囲 내 적"
 	},
 	"t_attacked": 
 	{
@@ -4716,7 +4716,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격 당한 적"
+		"text-refine": "截拳 당한 적"
 	},
 	"t_dead_pc": 
 	{
@@ -4729,7 +4729,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "실신 대상"
+		"text-refine": "실신 対象"
 	},
 	"t_defence_counter_down_swoon_kneel_stun": 
 	{
@@ -4742,7 +4742,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "방어, 반격, 다운, 혼절, 그로기, 기절 상태인 적"
+		"text-refine": "방어, 截拳, ダウン, 気絶, グロッキー, 気絶 状態인 적"
 	},
 	"t_defence_stun_down": 
 	{
@@ -4755,7 +4755,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "방어 행동, 기절, 다운 상태인 적"
+		"text-refine": "방어 행동, 気絶, ダウン 状態인 적"
 	},
 	"t_defence_target": 
 	{
@@ -4781,7 +4781,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 제압 당한 적"
+		"text-refine": "ダウン, 制圧 당한 적"
 	},
 	"t_down_swoon_kneel_mount_linked": 
 	{
@@ -4794,7 +4794,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 혼절, 그로기, 제압 당한 적"
+		"text-refine": "ダウン, 気絶, グロッキー, 制圧 당한 적"
 	},
 	"t_knockback_target": 
 	{
@@ -4807,7 +4807,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "넉백 상태인 적"
+		"text-refine": "넉백 状態인 적"
 	},
 	"t_down_target": 
 	{
@@ -4820,7 +4820,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 상태인 적"
+		"text-refine": "ダウン 状態인 적"
 	},
 	"t_exhaustion": 
 	{
@@ -4833,7 +4833,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "탈진 대상"
+		"text-refine": "탈진 対象"
 	},
 	"t_exhaustion_dead_restoration": 
 	{
@@ -4846,7 +4846,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "탈진, 실신, 운기조식 중인 대상"
+		"text-refine": "탈진, 실신, 운기조식 중인 対象"
 	},
 	"t_exhaustion_restoration_friend": 
 	{
@@ -4885,7 +4885,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 기절, 그로기 상태인 적"
+		"text-refine": "範囲 내 気絶, グロッキー 状態인 적"
 	},
 	"t_flashbang_target": 
 	{
@@ -4911,7 +4911,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "결빙 상태인 적"
+		"text-refine": "결빙 状態인 적"
 	},
 	"t_front": 
 	{
@@ -4976,7 +4976,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "흡공에 저항하는 적"
+		"text-refine": "흡공에 抵抗하는 적"
 	},
 	"t_immune_air": 
 	{
@@ -4989,7 +4989,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중 저항한 적"
+		"text-refine": "공중 抵抗한 적"
 	},
 	"t_in_pollen": 
 	{
@@ -5015,7 +5015,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 대상"
+		"text-refine": "範囲 내 対象"
 	},
 	"t_in_range_stun_kneel": 
 	{
@@ -5028,7 +5028,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 기절, 그로기 상태인 적"
+		"text-refine": "範囲 내 気絶, グロッキー 状態인 적"
 	},
 	"t_linked_catch": 
 	{
@@ -5041,7 +5041,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악한 적"
+		"text-refine": "掴み上げ한 적"
 	},
 	"t_linked_catch_and_target": 
 	{
@@ -5054,7 +5054,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악 당한 적과 타기팅된 적"
+		"text-refine": "掴み上げ 당한 적과 타기팅된 적"
 	},
 	"t_linked_catch_catchinhalation_to": 
 	{
@@ -5067,7 +5067,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악, 흡공 당한 적에게"
+		"text-refine": "掴み上げ, 흡공 당한 적에게"
 	},
 	"t_linked_catch_catchinhalation": 
 	{
@@ -5080,7 +5080,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악, 흡공 당한 적"
+		"text-refine": "掴み上げ, 흡공 당한 적"
 	},
 	"t_linked_catchinhalation": 
 	{
@@ -5132,7 +5132,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압 당한 적"
+		"text-refine": "制圧 당한 적"
 	},
 	"t_linker_catch": 
 	{
@@ -5145,7 +5145,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "자신을 장악한 적"
+		"text-refine": "자신을 掴み上げ한 적"
 	},
 	"t_linker_catch_catchinhalation": 
 	{
@@ -5158,7 +5158,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "자신을 장악, 흡공한 적"
+		"text-refine": "자신을 掴み上げ, 흡공한 적"
 	},
 	"t_linker_catchinhalation": 
 	{
@@ -5184,7 +5184,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "자신을 제압한 적"
+		"text-refine": "자신을 制圧한 적"
 	},
 	"t_linker_mount_catch_catchinhalation": 
 	{
@@ -5197,7 +5197,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "자신을 제압, 장악, 흡공한 적"
+		"text-refine": "자신을 制圧, 掴み上げ, 흡공한 적"
 	},
 	"t_midair": 
 	{
@@ -5210,7 +5210,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중 상태인 적"
+		"text-refine": "공중 状態인 적"
 	},
 	"t_midair_to": 
 	{
@@ -5223,7 +5223,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중 상태인 적에게"
+		"text-refine": "공중 状態인 적에게"
 	},
 	"t_midair_and_around": 
 	{
@@ -5236,7 +5236,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중 상태인 적과 주변 적"
+		"text-refine": "공중 状態인 적과 주변 적"
 	},
 	"t_move_block_target": 
 	{
@@ -5288,7 +5288,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신된 아군"
+		"text-refine": "閃光된 아군"
 	},
 	"t_per_linked_catchinhalation_and_around": 
 	{
@@ -5314,7 +5314,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "중독 상태인 적"
+		"text-refine": "중독 状態인 적"
 	},
 	"t_poison_5_stack": 
 	{
@@ -5379,7 +5379,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "운기조식 대상"
+		"text-refine": "운기조식 対象"
 	},
 	"t_restroration_exhaustion_party": 
 	{
@@ -5457,7 +5457,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 장악, 흡공 당한 적"
+		"text-refine": "気絶, 掴み上げ, 흡공 당한 적"
 	},
 	"t_stun_kneel_to": 
 	{
@@ -5470,7 +5470,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기 상태인 적에게"
+		"text-refine": "気絶, グロッキー 状態인 적에게"
 	},
 	"t_stun_kneel": 
 	{
@@ -5483,7 +5483,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기 상태인 적"
+		"text-refine": "気絶, グロッキー 状態인 적"
 	},
 	"t_stun_linked": 
 	{
@@ -5496,7 +5496,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기, 장악, 흡공 당한 적"
+		"text-refine": "気絶, グロッキー, 掴み上げ, 흡공 당한 적"
 	},
 	"t_stun_target": 
 	{
@@ -5509,7 +5509,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절 상태인 적"
+		"text-refine": "気絶 状態인 적"
 	},
 	"t_enemy_in_range": 
 	{
@@ -5522,7 +5522,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 적"
+		"text-refine": "範囲 내 적"
 	},
 	"t_summoned_in_range": 
 	{
@@ -5535,7 +5535,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 소환수"
+		"text-refine": "範囲 내 소환수"
 	},
 	"t_summoned_target": 
 	{
@@ -5561,7 +5561,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "혼절한 적"
+		"text-refine": "気絶한 적"
 	},
 	"t_under_hp_20p": 
 	{
@@ -5639,7 +5639,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "대상 수 만큼"
+		"text-refine": "対象 수 만큼"
 	},
 	"e_next_skill_critical": 
 	{
@@ -5665,7 +5665,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "재사용 시간 <arg p=\"2:string\"/> 감소"
+		"text-refine": "재사용 時간 <arg p=\"2:string\"/> 감소"
 	},
 	"e_reduce_recycle_skill_time": 
 	{
@@ -5678,7 +5678,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 재사용 시간 <arg p=\"3:string\"/> 감소"
+		"text-refine": "<arg p=\"2:string\"/> 재사용 時간 <arg p=\"3:string\"/> 감소"
 	},
 	"e_reduce_recycle_skill2_time": 
 	{
@@ -5691,7 +5691,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 재사용 시간 <arg p=\"4:string\"/> 감소"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> 재사용 時간 <arg p=\"4:string\"/> 감소"
 	},
 	"e_reduce_recycle_skill_percent": 
 	{
@@ -5704,7 +5704,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 재사용 시간 <arg p=\"3:string\"/> 감소"
+		"text-refine": "<arg p=\"2:string\"/> 재사용 時간 <arg p=\"3:string\"/> 감소"
 	},
 	"e_hp_drain_add": 
 	{
@@ -5743,7 +5743,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "최대 가속 시"
+		"text-refine": "최대 가속 時"
 	},
 	"c_if_cast_accel": 
 	{
@@ -5756,7 +5756,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "가속 시"
+		"text-refine": "가속 時"
 	},
 	"c_under_hp_30p": 
 	{
@@ -5821,7 +5821,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "피해량 20% 증가"
+		"text-refine": "피해량 20% 増加"
 	},
 	"e_savor": 
 	{
@@ -5847,7 +5847,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 운용 상태로 전환"
+		"text-refine": "<arg p=\"2:string\"/> 운용 状態로 전환"
 	},
 	"e_bit_creation": 
 	{
@@ -5873,7 +5873,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "내력 소모 없이 <arg p=\"2:string\"/> 사용 가능"
+		"text-refine": "내력 소모 없이 <arg p=\"2:string\"/> 使用 가능"
 	},
 	"c_if_using": 
 	{
@@ -5886,7 +5886,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "사용 시"
+		"text-refine": "사용 時"
 	},
 	"e_damage_explosion": 
 	{
@@ -5912,7 +5912,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 근거리 반격"
+		"text-refine": "<arg p=\"2:string\"/>간 근距離 截拳"
 	},
 	"e_range_counter_duration": 
 	{
@@ -5925,7 +5925,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 원거리 반격"
+		"text-refine": "<arg p=\"2:string\"/>간 원距離 截拳"
 	},
 	"t_ember_5_stack_only": 
 	{
@@ -5951,7 +5951,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공격 시 마다"
+		"text-refine": "공격 時 마다"
 	},
 	"c_if_attack_hit_each": 
 	{
@@ -5964,7 +5964,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "명중 시 마다"
+		"text-refine": "명중 時 마다"
 	},
 	"c_if_attack_hit_each_chain": 
 	{
@@ -5977,7 +5977,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "연쇄 명중 시 마다"
+		"text-refine": "연쇄 명중 時 마다"
 	},
 	"t_down_air_mount_linked_to": 
 	{
@@ -5990,7 +5990,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "대상 수 만큼"
+		"text-refine": "対象 수 만큼"
 	},
 	"t_down_air_swoon_to": 
 	{
@@ -6003,7 +6003,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 공중, 혼절 상태인 적에게"
+		"text-refine": "ダウン, 공중, 気絶 状態인 적에게"
 	},
 	"e_move_block_using": 
 	{
@@ -6016,7 +6016,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "이동 무공 사용 불가"
+		"text-refine": "이동 무공 使用 불가"
 	},
 	"c_if_attack_critical_fire_skill": 
 	{
@@ -6029,7 +6029,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "화기 계열 무공 치명타 시"
+		"text-refine": "화기 계열 무공 치명타 時"
 	},
 	"e_damage_time": 
 	{
@@ -6042,7 +6042,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>후 <arg p=\"3:string\"/>의 피해"
+		"text-refine": "<arg p=\"2:string\"/>후 <arg p=\"3:string\"/>のダメージ"
 	},
 	"t_stun_kneel_down": 
 	{
@@ -6055,7 +6055,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기, 다운 상태인 적"
+		"text-refine": "気絶, グロッキー, ダウン 状態인 적"
 	},
 	"e_swoon": 
 	{
@@ -6068,7 +6068,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 혼절"
+		"text-refine": "<arg p=\"2:string\"/>간 気絶"
 	},
 	"c_during_down_kneel_swoon": 
 	{
@@ -6081,7 +6081,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 그로기, 혼절 중"
+		"text-refine": "ダウン, グロッキー, 気絶 중"
 	},
 	"e_activate_effect": 
 	{
@@ -6107,7 +6107,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 효과 초기화"
+		"text-refine": "<arg p=\"2:string\"/> 효과 秒기화"
 	},
 	"e_additional_sp_heal": 
 	{
@@ -6159,7 +6159,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공격력 <arg p=\"2:string\"/> 증가"
+		"text-refine": "공격력 <arg p=\"2:string\"/> 増加"
 	},
 	"e_instand_combo_stab": 
 	{
@@ -6185,7 +6185,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "천지 가르기 즉시 시전"
+		"text-refine": "천지 가르기 即時 時전"
 	},
 	"e_change_range": 
 	{
@@ -6198,7 +6198,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "원거리 무공으로 변경"
+		"text-refine": "원距離 무공으로 변경"
 	},
 	"e_change_wide": 
 	{
@@ -6237,7 +6237,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 증가"
+		"text-refine": "範囲 増加"
 	},
 	"e_bounce_range": 
 	{
@@ -6250,7 +6250,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "원거리 공격 튕기기"
+		"text-refine": "원距離 공격 튕기기"
 	},
 	"c_during_blocking": 
 	{
@@ -6276,7 +6276,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "이동속도 <arg p=\"2:string\"/> 감소"
+		"text-refine": "移動速度 <arg p=\"2:string\"/> 감소"
 	},
 	"c_during_air": 
 	{
@@ -6289,7 +6289,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중 상태 중"
+		"text-refine": "공중 状態 중"
 	},
 	"e_bubble_duration_wide": 
 	{
@@ -6341,7 +6341,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 종료 후"
+		"text-refine": "막기 종료 後"
 	},
 	"t_around_friend": 
 	{
@@ -6354,7 +6354,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 아군"
+		"text-refine": "範囲 내 아군"
 	},
 	"e_add_recycle_skill_time": 
 	{
@@ -6367,7 +6367,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 재사용 시간 <arg p=\"3:string\"/>로 증가"
+		"text-refine": "<arg p=\"2:string\"/> 재사용 時간 <arg p=\"3:string\"/>로 増加"
 	},
 	"e_rush_after_stab": 
 	{
@@ -6393,7 +6393,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 증가"
+		"text-refine": "<arg p=\"2:string\"/> <arg p=\"3:string\"/> 増加"
 	},
 	"e_skill_critical": 
 	{
@@ -6419,7 +6419,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"3:string\"/>간 치명타 확률 <arg p=\"2:string\"/> 증가"
+		"text-refine": "<arg p=\"3:string\"/>간 치명타 확률 <arg p=\"2:string\"/> 増加"
 	},
 	"t_under_hp_10p": 
 	{
@@ -6497,7 +6497,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "상태이상 저항. 다운 제외"
+		"text-refine": "状態이상 抵抗. ダウン 제외"
 	},
 	"e_parry_100p": 
 	{
@@ -6510,7 +6510,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 확률 100% 증가"
+		"text-refine": "막기 확률 100% 増加"
 	},
 	"e_parry_50p": 
 	{
@@ -6523,7 +6523,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 확률 50% 증가"
+		"text-refine": "막기 확률 50% 増加"
 	},
 	"e_sp_consume_reduce": 
 	{
@@ -6549,7 +6549,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 사망 시"
+		"text-refine": "적 사망 時"
 	},
 	"e_recall_to_caster_stun": 
 	{
@@ -6562,7 +6562,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "끌어당겨 <arg p=\"2:string\"/>간 기절"
+		"text-refine": "끌어당겨 <arg p=\"2:string\"/>간 気絶"
 	},
 	"e_recall_to_caster_down": 
 	{
@@ -6575,7 +6575,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "끌어당겨 <arg p=\"2:string\"/>간 다운"
+		"text-refine": "끌어당겨 <arg p=\"2:string\"/>간 ダウン"
 	},
 	"e_recall_to_caster_hit": 
 	{
@@ -6601,7 +6601,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격 불가"
+		"text-refine": "截拳 불가"
 	},
 	"e_escape_air": 
 	{
@@ -6614,7 +6614,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중 상태 탈출"
+		"text-refine": "공중 状態 탈출"
 	},
 	"c_if_attacked_all": 
 	{
@@ -6627,7 +6627,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "모두 피격 시"
+		"text-refine": "모두 피격 時"
 	},
 	"c_if_target_kneel": 
 	{
@@ -6640,7 +6640,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 그로기 시"
+		"text-refine": "적 グロッキー 時"
 	},
 	"c_if_target_stun": 
 	{
@@ -6653,7 +6653,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절 상태인 적"
+		"text-refine": "気絶 状態인 적"
 	},
 	"c_if_target_down": 
 	{
@@ -6666,7 +6666,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 중인"
+		"text-refine": "ダウン 중인"
 	},
 	"c_if_target_down2": 
 	{
@@ -6679,7 +6679,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 상태인 적에게"
+		"text-refine": "ダウン 状態인 적에게"
 	},
 	"e_defence_down": 
 	{
@@ -6705,7 +6705,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "방어력 <arg p=\"2:string\"/> 증가"
+		"text-refine": "방어력 <arg p=\"2:string\"/> 増加"
 	},
 	"e_fire_immune": 
 	{
@@ -6718,7 +6718,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "발사체 저항"
+		"text-refine": "발사체 抵抗"
 	},
 	"t_if_not_defend_by_frontkick": 
 	{
@@ -6757,7 +6757,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "질주 점프, 활강 중 사용 시"
+		"text-refine": "질주 점프, 활강 中 使用 時"
 	},
 	"e_extend_effect_3": 
 	{
@@ -6770,7 +6770,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/>상태 <arg p=\"5:string\"/>간 유지"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/>状態 <arg p=\"5:string\"/>간 維持"
 	},
 	"e_next_skill_critical_count": 
 	{
@@ -6796,7 +6796,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 막기 성공 시"
+		"text-refine": "<arg p=\"2:string\"/> 막기 성공 時"
 	},
 	"c_if_first_repeat_hit": 
 	{
@@ -6809,7 +6809,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "첫 공격 시"
+		"text-refine": "첫 공격 時"
 	},
 	"c_if_last_repeat_hit": 
 	{
@@ -6861,7 +6861,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "모든 무공 재사용 시간 초기화"
+		"text-refine": "모든 무공 재사용 時간 秒기화"
 	},
 	"e_transfer_defence_to_attack": 
 	{
@@ -6900,7 +6900,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "능력 전환 중 공격 성공 시"
+		"text-refine": "능력 전환 中 공격 성공 時"
 	},
 	"e_immune_abnormal": 
 	{
@@ -6913,7 +6913,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "상태이상 저항"
+		"text-refine": "状態이상 抵抗"
 	},
 	"e_immune_abnormal_time": 
 	{
@@ -6926,7 +6926,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/> 状態이상 抵抗"
 	},
 	"c_if_kill": 
 	{
@@ -6939,7 +6939,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 처치 시"
+		"text-refine": "적 처치 時"
 	},
 	"c_if_attack_catch_linked": 
 	{
@@ -6952,7 +6952,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악한 적 공격 시"
+		"text-refine": "掴み上げ한 적 공격 時"
 	},
 	"c_if_attack_critical_catch_linked": 
 	{
@@ -6965,7 +6965,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악한 적 치명타 공격 시"
+		"text-refine": "掴み上げ한 적 치명타 공격 時"
 	},
 	"c_if_attack_during_catch": 
 	{
@@ -6978,7 +6978,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악 중 공격 성공 시"
+		"text-refine": "掴み上げ 中 공격 성공 時"
 	},
 	"e_consume_bit": 
 	{
@@ -7017,7 +7017,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> <arg p=\"4:string\"/>중첩 시"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/> <arg p=\"4:string\"/>중첩 時"
 	},
 	"c_if_attacked_during_skill": 
 	{
@@ -7030,7 +7030,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 중 피격 시"
+		"text-refine": "<arg p=\"2:string\"/> 中 피격 時"
 	},
 	"c_if_attacked_critical": 
 	{
@@ -7043,7 +7043,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 피격 시"
+		"text-refine": "치명타 피격 時"
 	},
 	"c_if_attacked_critical_during_skill": 
 	{
@@ -7056,7 +7056,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 중 치명타 피격 시"
+		"text-refine": "<arg p=\"2:string\"/> 中 치명타 피격 時"
 	},
 	"c_effect_only": 
 	{
@@ -7108,7 +7108,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 시간 <arg p=\"2:string\"/>로  증가"
+		"text-refine": "막기 時간 <arg p=\"2:string\"/>로  増加"
 	},
 	"e_can_parry": 
 	{
@@ -7134,7 +7134,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 연속 시전"
+		"text-refine": "<arg p=\"2:string\"/> 연속 時전"
 	},
 	"t_linked_mount_inhalation": 
 	{
@@ -7147,7 +7147,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압, 흡공 당한 적"
+		"text-refine": "制圧, 흡공 당한 적"
 	},
 	"e_hp_addition": 
 	{
@@ -7160,7 +7160,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/>의 피해 흡수"
+		"text-refine": "<arg p=\"2:string\"/>간 <arg p=\"3:string\"/>のダメージ 흡수"
 	},
 	"e_sp_heal_multi": 
 	{
@@ -7212,7 +7212,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>자세 유지"
+		"text-refine": "<arg p=\"2:string\"/>자세 維持"
 	},
 	"e_heal_multi": 
 	{
@@ -7238,7 +7238,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "생명력 흡수 증가"
+		"text-refine": "생명력 흡수 増加"
 	},
 	"e_damage_critical_120": 
 	{
@@ -7251,7 +7251,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 피해량 20% 증가"
+		"text-refine": "치명타 피해량 20% 増加"
 	},
 	"e_damage_critical_105": 
 	{
@@ -7264,7 +7264,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 피해량 5% 증가"
+		"text-refine": "치명타 피해량 5% 増加"
 	},
 	"e_damage_critical": 
 	{
@@ -7277,7 +7277,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 피해량 <arg p=\"2:string\"/> 증가"
+		"text-refine": "치명타 피해량 <arg p=\"2:string\"/> 増加"
 	},
 	"e_damage_critical_time": 
 	{
@@ -7290,7 +7290,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"3:string\"/>간 치명타 피해량 <arg p=\"2:string\"/> 증가"
+		"text-refine": "<arg p=\"3:string\"/>간 치명타 피해량 <arg p=\"2:string\"/> 増加"
 	},
 	"e_critical_value": 
 	{
@@ -7303,7 +7303,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>간 치명 <arg p=\"3:string\"/> 증가"
+		"text-refine": "<arg p=\"2:string\"/>간 치명 <arg p=\"3:string\"/> 増加"
 	},
 	"e_shout_physical_damage": 
 	{
@@ -7329,7 +7329,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악한 적 공격에 맞추어 사용 시"
+		"text-refine": "掴み上げ한 적 공격에 맞추어 使用 時"
 	},
 	"c_if_counter_during_mount_linked": 
 	{
@@ -7342,7 +7342,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압한 적 공격에 맞추어 사용 시"
+		"text-refine": "制圧한 적 공격에 맞추어 使用 時"
 	},
 	"c_if_counter_during_inhalation_linked": 
 	{
@@ -7355,7 +7355,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "흡공한 적 공격에 맞추어 사용 시"
+		"text-refine": "흡공한 적 공격에 맞추어 使用 時"
 	},
 	"e_escape_catch": 
 	{
@@ -7368,7 +7368,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악 상태 탈출"
+		"text-refine": "掴み上げ 状態 탈출"
 	},
 	"e_fire_speed_up_combo": 
 	{
@@ -7407,7 +7407,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "시전 후 <arg p=\"2:string\"/> 내 이동 무공 연속 튕기기"
+		"text-refine": "시전 後 <arg p=\"2:string\"/> 내 이동 무공 연속 튕기기"
 	},
 	"e_cast_enable_skill_basic": 
 	{
@@ -7420,7 +7420,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기본 <arg p=\"2:string\"/> 사용 가능"
+		"text-refine": "기본 <arg p=\"2:string\"/> 使用 가능"
 	},
 	"e_enable_inhalation": 
 	{
@@ -7472,7 +7472,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "위협 없이 사용 가능"
+		"text-refine": "위협 없이 使用 가능"
 	},
 	"e_cast_reduce_multi": 
 	{
@@ -7485,7 +7485,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반복 사용 시 가속"
+		"text-refine": "반복 使用 時 가속"
 	},
 	"e_frostbite2": 
 	{
@@ -7511,7 +7511,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절 시"
+		"text-refine": "気絶 時"
 	},
 	"t_morningglory_target": 
 	{
@@ -7602,7 +7602,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환수 생명력 <arg p=\"2:string\"/> 이하 시"
+		"text-refine": "소환수 생명력 <arg p=\"2:string\"/> 이하 時"
 	},
 	"c_under_hp": 
 	{
@@ -7615,7 +7615,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "생명력 <arg p=\"2:string\"/> 이하 시"
+		"text-refine": "생명력 <arg p=\"2:string\"/> 이하 時"
 	},
 	"e_hp_heal_add": 
 	{
@@ -7641,7 +7641,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환수 상태이상 중"
+		"text-refine": "소환수 状態이상 중"
 	},
 	"c_if_counter_break": 
 	{
@@ -7654,7 +7654,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격 불가한 공격 피격 시"
+		"text-refine": "截拳 불가한 공격 피격 時"
 	},
 	"c_if_attacked_count": 
 	{
@@ -7667,7 +7667,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 피격 시"
+		"text-refine": "<arg p=\"2:string\"/> 피격 時"
 	},
 	"e_immune_effect_attr_3": 
 	{
@@ -7680,7 +7680,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/> 상태이상 저항"
+		"text-refine": "<arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/> 状態이상 抵抗"
 	},
 	"e_immune_effect_attr_3_time": 
 	{
@@ -7693,7 +7693,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"5:string\"/>간 <arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/> 상태이상 저항"
+		"text-refine": "<arg p=\"5:string\"/>간 <arg p=\"2:string\"/>, <arg p=\"3:string\"/>, <arg p=\"4:string\"/> 状態이상 抵抗"
 	},
 	"e_dispel_debuff": 
 	{
@@ -7706,7 +7706,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "상태이상 해제"
+		"text-refine": "状態이상 해제"
 	},
 	"t_summoner_self": 
 	{
@@ -7758,7 +7758,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환수가 적 후방으로 이동"
+		"text-refine": "소환수가 적 後방으로 이동"
 	},
 	"e_cast_with_input": 
 	{
@@ -7784,7 +7784,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/><arg p=\"3:string\"/> 키로 사용 가능"
+		"text-refine": "<arg p=\"2:string\"/><arg p=\"3:string\"/> 키로 使用 가능"
 	},
 	"t_enemy_around_summoned": 
 	{
@@ -7823,7 +7823,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다음 무공 공격력 <arg p=\"2:string\"/>증가"
+		"text-refine": "다음 무공 공격력 <arg p=\"2:string\"/>増加"
 	},
 	"e_immune_area": 
 	{
@@ -7836,7 +7836,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반경 <arg p=\"2:string\"/> 영역 내 <arg p=\"3:string\"/>간 저항"
+		"text-refine": "반경 <arg p=\"2:string\"/> 範囲 내 <arg p=\"3:string\"/>간 抵抗"
 	},
 	"e_hp_heal_summoned": 
 	{
@@ -7862,7 +7862,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기, 장악, 흡공 당한 적에게"
+		"text-refine": "気絶, グロッキー, 掴み上げ, 흡공 당한 적에게"
 	},
 	"c_during_restoration": 
 	{
@@ -7888,7 +7888,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 <arg p=\"2:string\"/>명 이상 명중 시"
+		"text-refine": "적 <arg p=\"2:string\"/>명 이상 명중 時"
 	},
 	"e_enable_cast_reduce_multi": 
 	{
@@ -7901,7 +7901,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "가속 사용 가능"
+		"text-refine": "가속 使用 가능"
 	},
 	"e_enable_cast_reduce_multi_count": 
 	{
@@ -7914,7 +7914,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 가속 사용 가능"
+		"text-refine": "<arg p=\"2:string\"/> 가속 使用 가능"
 	},
 	"e_cast_enable_none_effect": 
 	{
@@ -7940,7 +7940,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 없는 <arg p=\"3:string\"/> 사용 가능"
+		"text-refine": "<arg p=\"2:string\"/> 없는 <arg p=\"3:string\"/> 使用 가능"
 	},
 	"e_cast_enable_skill_before_effect": 
 	{
@@ -7953,7 +7953,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/>급<arg p=\"3:string\"/>초식 <arg p=\"4:string\"/> 사용 가능"
+		"text-refine": "<arg p=\"2:string\"/>급<arg p=\"3:string\"/>秒식 <arg p=\"4:string\"/> 使用 가능"
 	},
 	"e_hp_damage_drain_percent": 
 	{
@@ -7979,7 +7979,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "결빙 파괴 마다"
+		"text-refine": "결빙 天誅 마다"
 	},
 	"e_spin_up": 
 	{
@@ -7992,7 +7992,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "회전 수 증가"
+		"text-refine": "회전 수 増加"
 	},
 	"e_skill_after_fly": 
 	{
@@ -8005,7 +8005,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적에게 접근하여 <arg p=\"2:string\"/>"
+		"text-refine": "敵に接近하여 <arg p=\"2:string\"/>"
 	},
 	"e_bounce_time_count": 
 	{
@@ -8044,7 +8044,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내"
+		"text-refine": "範囲 내"
 	},
 	"e_damage_stack": 
 	{
@@ -8083,7 +8083,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "영역 내 공격 성공 시"
+		"text-refine": "範囲 내 공격 성공 時"
 	},
 	"e_cast_disable_repeat": 
 	{
@@ -8096,7 +8096,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "동일 대상에게 연속 시전 불가"
+		"text-refine": "동일 対象에게 연속 時전 불가"
 	},
 	"e_stun_target": 
 	{
@@ -8109,7 +8109,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 기절"
+		"text-refine": "적 気絶"
 	},
 	"c_during_summoner_abnormal": 
 	{
@@ -8122,7 +8122,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환사 상태이상 중"
+		"text-refine": "소환사 状態이상 중"
 	},
 	"c_reardash_hit": 
 	{
@@ -8135,7 +8135,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 앞에서 사용하여 뒤로 돌아가 명중 시"
+		"text-refine": "적 앞에서 사용하여 뒤로 돌아가 명중 時"
 	},
 	"t_successed_pollen": 
 	{
@@ -8161,7 +8161,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "피해량의 <arg p=\"2:string\"/> 씩 생명력 흡수량 증가"
+		"text-refine": "피해량의 <arg p=\"2:string\"/> 씩 생명력 흡수량 増加"
 	},
 	"e_counter_bounce_disable": 
 	{
@@ -8174,7 +8174,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격, 튕기기 불가"
+		"text-refine": "截拳, 튕기기 불가"
 	},
 	"t_party_in_pollen": 
 	{
@@ -8213,7 +8213,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 후방 명중 시 기절"
+		"text-refine": "적 後방 명중 時 気絶"
 	},
 	"e_defence_during": 
 	{
@@ -8291,7 +8291,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,8",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "공중 상태 중"
+		"text-refine": "공중 状態 중"
 	},
 	"uc_i_during_catch_linked": 
 	{
@@ -8304,7 +8304,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악 당한 중"
+		"text-refine": "掴み上げ 당한 중"
 	},
 	"uc_i_during_linked": 
 	{
@@ -8317,7 +8317,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압, 장악, 흡공 당한 중"
+		"text-refine": "制圧, 掴み上げ, 흡공 당한 중"
 	},
 	"uc_i_during_catch_catchinhalation_linked": 
 	{
@@ -8330,7 +8330,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악, 흡공 당한 중"
+		"text-refine": "掴み上げ, 흡공 당한 중"
 	},
 	"uc_i_during_mount_linked": 
 	{
@@ -8343,7 +8343,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압 당한 중"
+		"text-refine": "制圧 당한 중"
 	},
 	"uc_i_during_mount_catchinhalation_linked": 
 	{
@@ -8356,7 +8356,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압, 흡공 당한 중"
+		"text-refine": "制圧, 흡공 당한 중"
 	},
 	"uc_i_during_catchinhalation_linked": 
 	{
@@ -8382,7 +8382,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_Destroyer_1,4",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악 중"
+		"text-refine": "掴み上げ 중"
 	},
 	"uc_i_during_mount": 
 	{
@@ -8395,7 +8395,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_0,6",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "제압 중"
+		"text-refine": "制圧 중"
 	},
 	"uc_i_during_catchinhalation": 
 	{
@@ -8421,7 +8421,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_BladeMaster_0,6",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 무공 사용 중"
+		"text-refine": "막기 무공 使用 중"
 	},
 	"uc_i_after_using_pollen": 
 	{
@@ -8434,7 +8434,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_Summon_0,16",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "꽃가루 사용 후"
+		"text-refine": "꽃가루 使用 後"
 	},
 	"uc_i_after_using_turnkick": 
 	{
@@ -8447,7 +8447,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,36",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "돌려차기 사용 후"
+		"text-refine": "迅火脚 使用 後"
 	},
 	"uc_i_after_using_turnkick_areaattack": 
 	{
@@ -8460,7 +8460,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_0,38",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "돌려차기, 승룡각 사용 후"
+		"text-refine": "迅火脚, 승룡각 使用 後"
 	},
 	"uc_i_after_using_kf_range_counter": 
 	{
@@ -8473,7 +8473,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "백보신권 사용 후"
+		"text-refine": "백보신권 使用 後"
 	},
 	"uc_i_after_using_strongattack": 
 	{
@@ -8486,7 +8486,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_0,44",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "붕격 사용 후"
+		"text-refine": "崩勁拳 使用 後"
 	},
 	"uc_i_after_using_triplekick": 
 	{
@@ -8499,7 +8499,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,46",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "삼연각 사용 후"
+		"text-refine": "山崩し 使用 後"
 	},
 	"uc_i_after_using_triplekick_flamekick": 
 	{
@@ -8512,7 +8512,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,46",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "삼연각, 화염각 사용 후"
+		"text-refine": "山崩し, 화염각 使用 後"
 	},
 	"uc_i_during_catchinhalation_disturbsoulblade": 
 	{
@@ -8525,7 +8525,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_SwordMaster_0,4",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 흡공 중 어검 연속베기 사용 후"
+		"text-refine": "적 흡공 中 어검 연속베기 使用 後"
 	},
 	"uc_i_after_using_blackhole": 
 	{
@@ -8538,7 +8538,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_ForceMaster_1,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "중력장 사용 후"
+		"text-refine": "중력장 使用 後"
 	},
 	"uc_i_after_using_leftsmash": 
 	{
@@ -8551,7 +8551,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,43",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "진격권 사용 후"
+		"text-refine": "진격권 使用 後"
 	},
 	"uc_i_after_using_finalattack52": 
 	{
@@ -8564,7 +8564,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_0,2",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "철산고 5급 2초식 사용 후"
+		"text-refine": "鉄山靠 5급 2秒식 使用 後"
 	},
 	"uc_i_after_using_finalattack32": 
 	{
@@ -8577,7 +8577,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_0,2",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "철산고 3급 2초식 사용 후"
+		"text-refine": "鉄山靠 3급 2秒식 使用 後"
 	},
 	"uc_i_after_using_anklekick": 
 	{
@@ -8590,7 +8590,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,41",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "발목강타 사용 후"
+		"text-refine": "발목강타 使用 後"
 	},
 	"uc_i_after_using_anklekick42": 
 	{
@@ -8603,7 +8603,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,41",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "발목강타 4급 2초식 사용 후"
+		"text-refine": "발목강타 4급 2秒식 使用 後"
 	},
 	"uc_i_after_using_flamekick": 
 	{
@@ -8616,7 +8616,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,46",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "화염각 사용 후"
+		"text-refine": "화염각 使用 後"
 	},
 	"uc_i_after_using_highkick": 
 	{
@@ -8629,7 +8629,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "회천각 사용 후"
+		"text-refine": "回天脚 使用 後"
 	},
 	"uc_i_after_using_highkick_leftsmash": 
 	{
@@ -8642,7 +8642,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,43",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "회천각, 진격권 사용 후"
+		"text-refine": "回天脚, 진격권 使用 後"
 	},
 	"uc_i_after_using_backstep": 
 	{
@@ -8655,7 +8655,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,51",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "후방이동 사용 후"
+		"text-refine": "後方移動 使用 後"
 	},
 	"uc_i_after_using_backstep_downbackstep": 
 	{
@@ -8668,7 +8668,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,51",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "후방이동, 뒤구르기 사용 후"
+		"text-refine": "後方移動, 後転 使用 後"
 	},
 	"uc_i_after_using_burstabdomen": 
 	{
@@ -8681,7 +8681,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,24",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "통배권 명중 시"
+		"text-refine": "통배권 명중 時"
 	},
 	"uc_i_after_using_justicepunch32": 
 	{
@@ -8694,7 +8694,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_0,63",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "맹호장 사용 후"
+		"text-refine": "맹호장 使用 後"
 	},
 	"uc_i_after_critical_anklekick": 
 	{
@@ -8707,7 +8707,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,41",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "발목강타 치명타 시"
+		"text-refine": "발목강타 치명타 時"
 	},
 	"uc_i_during_kneel": 
 	{
@@ -8720,7 +8720,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "그로기 중"
+		"text-refine": "グロッキー 중"
 	},
 	"uc_i_during_kneel_stun": 
 	{
@@ -8733,7 +8733,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절, 그로기 중"
+		"text-refine": "気絶, グロッキー 중"
 	},
 	"uc_i_during_kneel_stun_down": 
 	{
@@ -8746,7 +8746,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 기절, 그로기 중"
+		"text-refine": "ダウン, 気絶, グロッキー 중"
 	},
 	"uc_i_during_kneel_stun_down_swoon": 
 	{
@@ -8759,7 +8759,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 기절, 그로기, 혼절 중"
+		"text-refine": "ダウン, 気絶, グロッキー, 気絶 중"
 	},
 	"uc_i_during_kneel_down": 
 	{
@@ -8772,7 +8772,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 그로기 중"
+		"text-refine": "ダウン, グロッキー 중"
 	},
 	"uc_i_during_kneel_down_swoon": 
 	{
@@ -8785,7 +8785,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 그로기, 혼절 중"
+		"text-refine": "ダウン, グロッキー, 気絶 중"
 	},
 	"uc_i_during_stun": 
 	{
@@ -8798,7 +8798,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "기절 중"
+		"text-refine": "気絶 중"
 	},
 	"uc_i_during_knockback": 
 	{
@@ -8824,7 +8824,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운 중"
+		"text-refine": "ダウン 중"
 	},
 	"uc_i_during_down_swoon": 
 	{
@@ -8837,7 +8837,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "다운, 혼절 중"
+		"text-refine": "ダウン, 気絶 중"
 	},
 	"uc_i_during_dead_pc": 
 	{
@@ -8863,7 +8863,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "혼절 중"
+		"text-refine": "気絶 중"
 	},
 	"uc_i_if_blocking_bounce": 
 	{
@@ -8876,7 +8876,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_BladeMaster_0,6",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 무공, 튕기기 성공 시"
+		"text-refine": "막기 무공, 튕기기 성공 時"
 	},
 	"uc_i_if_counter": 
 	{
@@ -8889,7 +8889,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,7",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "반격 성공 시"
+		"text-refine": "截拳 성공 時"
 	},
 	"uc_i_if_bounce": 
 	{
@@ -8902,7 +8902,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_BladeMaster_0,7",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "튕기기 성공 시"
+		"text-refine": "튕기기 성공 時"
 	},
 	"uc_i_if_immune": 
 	{
@@ -8915,7 +8915,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,33",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "저항 성공 시"
+		"text-refine": "抵抗 성공 時"
 	},
 	"uc_i_if_martialdance_backstep_immune": 
 	{
@@ -8928,7 +8928,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,33",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "권무, 후방이동으로 저항 시"
+		"text-refine": "권무, 後方移動으로 抵抗 時"
 	},
 	"uc_i_if_leftdodge_rightdodge_immune": 
 	{
@@ -8941,7 +8941,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,33",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "파고들기, 횡이동으로 저항 시"
+		"text-refine": "幽歩, 鬼歩으로 抵抗 時"
 	},
 	"uc_i_if_rightdodge_immune": 
 	{
@@ -8954,7 +8954,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,33",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "파고들기로 저항 시"
+		"text-refine": "幽歩로 抵抗 時"
 	},
 	"uc_i_if_martialdance_chain": 
 	{
@@ -8967,7 +8967,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_0,31",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "권무, 승천권무 모두 명중 시"
+		"text-refine": "권무, 승천권무 모두 명중 時"
 	},
 	"uc_i_during_restoration": 
 	{
@@ -8993,7 +8993,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "발도 치명타 시"
+		"text-refine": "발도 치명타 時"
 	},
 	"uc_i_if_attack_criticalbattostance": 
 	{
@@ -9006,7 +9006,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "발도술 중 치명타 시"
+		"text-refine": "발도술 中 치명타 時"
 	},
 	"uc_i_if_attack_critical": 
 	{
@@ -9019,7 +9019,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 시"
+		"text-refine": "치명타 時"
 	},
 	"uc_i_if_attack_critical_leftsmash": 
 	{
@@ -9032,7 +9032,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,43",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "진격권 치명타 시"
+		"text-refine": "진격권 치명타 時"
 	},
 	"uc_i_if_attack_critical_burstabdomen": 
 	{
@@ -9045,7 +9045,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_KungfuFighter_1,3",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "통배권 치명타 시"
+		"text-refine": "통배권 치명타 時"
 	},
 	"uc_i_if_attack_critical_powerfulattack": 
 	{
@@ -9058,7 +9058,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "폭권 치명타 시"
+		"text-refine": "暴拳 치명타 時"
 	},
 	"uc_i_if_attack_critical_ice_skill": 
 	{
@@ -9071,7 +9071,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "한기 계열 무공 치명타 시"
+		"text-refine": "한기 계열 무공 치명타 時"
 	},
 	"uc_i_if_attack_critical_fire_skill": 
 	{
@@ -9084,7 +9084,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_01,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "화기 계열 무공 치명타 시"
+		"text-refine": "화기 계열 무공 치명타 時"
 	},
 	"uc_i_during_freezing": 
 	{
@@ -9110,7 +9110,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,20",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "결빙 파괴 시"
+		"text-refine": "결빙 天誅 時"
 	},
 	"uc_i_during_energy_wall": 
 	{
@@ -9136,7 +9136,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_Destroyer_1,6",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "구조 중"
+		"text-refine": "救助 중"
 	},
 	"uc_i_if_parry": 
 	{
@@ -9149,7 +9149,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,29",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "막기 시"
+		"text-refine": "막기 時"
 	},
 	"uc_i_if_3iceball": 
 	{
@@ -9201,7 +9201,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_Destroyer_0,24",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "철벽 사용 시"
+		"text-refine": "철벽 使用 時"
 	},
 	"uc_i_ifdodge": 
 	{
@@ -9214,7 +9214,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,5",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "회피 시"
+		"text-refine": "회피 時"
 	},
 	"uc_i_during_summoned_down": 
 	{
@@ -9227,7 +9227,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Inventory_SummonCat,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환수 다운 중"
+		"text-refine": "소환수 ダウン 중"
 	},
 	"uc_i_during_summoned_dead": 
 	{
@@ -9240,7 +9240,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Inventory_SummonCat,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "소환수 사망 시"
+		"text-refine": "소환수 사망 時"
 	},
 	"uc_i_if_summoned_mount": 
 	{
@@ -9370,7 +9370,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "BladeMaster_Sword_Batto,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "치명타 시 발도술 자세"
+		"text-refine": "치명타 時 발도술 자세"
 	},
 	"uc_s_summon": 
 	{
@@ -9409,7 +9409,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_Assassin_0,2",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "은신 자세"
+		"text-refine": "閃光 자세"
 	},
 	"uc_s_destruction": 
 	{
@@ -9422,7 +9422,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Destroyer_Destruction,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "파괴 자세"
+		"text-refine": "天誅 자세"
 	},
 	"uc_s_ice": 
 	{
@@ -9461,7 +9461,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,26",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 막기 무공 사용 시"
+		"text-refine": "적 막기 무공 使用 時"
 	},
 	"uc_t_if_enemy_blocking_counterenemy": 
 	{
@@ -9474,7 +9474,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,26",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 막기, 반격 무공 사용 시"
+		"text-refine": "적 막기, 截拳 무공 使用 時"
 	},
 	"uc_t_if_enemy_parry_dodge": 
 	{
@@ -9487,7 +9487,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,26",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 막기, 회피 시"
+		"text-refine": "적 막기, 회피 時"
 	},
 	"uc_t_if_enemy_counterenemy": 
 	{
@@ -9500,7 +9500,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_03,26",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 반격 무공 사용 시"
+		"text-refine": "적 截拳 무공 使用 時"
 	},
 	"uc_t_enemy_midair": 
 	{
@@ -9526,7 +9526,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 장악"
+		"text-refine": "적 掴み上げ"
 	},
 	"uc_t_enemy_catch_mount_catchinhalation": 
 	{
@@ -9539,7 +9539,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 장악, 제압, 흡공"
+		"text-refine": "적 掴み上げ, 制圧, 흡공"
 	},
 	"uc_t_enemy_catch_catchinhalation": 
 	{
@@ -9552,7 +9552,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 장악, 흡공"
+		"text-refine": "적 掴み上げ, 흡공"
 	},
 	"uc_t_enemy_mount": 
 	{
@@ -9565,7 +9565,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,42",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 제압"
+		"text-refine": "적 制圧"
 	},
 	"uc_t_enemy_catchinhalation": 
 	{
@@ -9591,7 +9591,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 그로기"
+		"text-refine": "적 グロッキー"
 	},
 	"uc_t_enemy_kneel_stun": 
 	{
@@ -9604,7 +9604,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 그로기, 기절"
+		"text-refine": "적 グロッキー, 気絶"
 	},
 	"uc_t_enemy_kneel_stun_down": 
 	{
@@ -9617,7 +9617,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 그로기, 기절, 다운"
+		"text-refine": "적 グロッキー, 気絶, ダウン"
 	},
 	"uc_t_enemy_kneel_stun_down_swoon": 
 	{
@@ -9630,7 +9630,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 그로기, 기절, 다운, 혼절"
+		"text-refine": "적 グロッキー, 気絶, ダウン, 気絶"
 	},
 	"uc_t_enemy_kneel_down": 
 	{
@@ -9643,7 +9643,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 그로기, 다운"
+		"text-refine": "적 グロッキー, ダウン"
 	},
 	"uc_t_enemy_kneel_down_swoon": 
 	{
@@ -9656,7 +9656,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 그로기, 다운, 혼절"
+		"text-refine": "적 グロッキー, ダウン, 気絶"
 	},
 	"uc_t_enemy_stun": 
 	{
@@ -9669,7 +9669,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 기절"
+		"text-refine": "적 気絶"
 	},
 	"uc_t_enemy_knockback": 
 	{
@@ -9695,7 +9695,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 다운"
+		"text-refine": "적 ダウン"
 	},
 	"uc_t_enemy_down_swoon": 
 	{
@@ -9708,7 +9708,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 다운, 혼절"
+		"text-refine": "적 ダウン, 気絶"
 	},
 	"uc_t_enemy_swoon": 
 	{
@@ -9721,7 +9721,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Buff_Debuff_Icon_00,1",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 혼절"
+		"text-refine": "적 気絶"
 	},
 	"uc_t_enemy_exhaustion": 
 	{
@@ -9851,7 +9851,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_SwordMaster_1,64",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "풍월도 2회 모두 명중 시"
+		"text-refine": "풍월도 2회 모두 명중 時"
 	},
 	"uc_s_spin_slash": 
 	{
@@ -9864,7 +9864,7 @@ var data_skill_tooltip_attribute = {
 		"icon": "Skill_Icon_SwordMaster_0,3",
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "바람개비 사용 중"
+		"text-refine": "바람개비 使用 중"
 	},
 	"uc_i_shield": 
 	{
@@ -9903,7 +9903,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "성공 시"
+		"text-refine": "성공 時"
 	},
 	"e_ignore_dashblock": 
 	{
@@ -9916,7 +9916,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "이동 무공 사용 불가 효과 무시"
+		"text-refine": "이동 무공 使用 불가 효과 무시"
 	},
 	"e_dispel_dashblock": 
 	{
@@ -9929,7 +9929,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "이동 무공 사용 불가 해제"
+		"text-refine": "이동 무공 使用 불가 해제"
 	},
 	"c_if_immune_repeat": 
 	{
@@ -9942,7 +9942,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "저항 시 마다"
+		"text-refine": "抵抗 時 마다"
 	},
 	"e_bounce_disable_skill": 
 	{
@@ -9968,7 +9968,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "사용 중 피격 시"
+		"text-refine": "사용 中 피격 時"
 	},
 	"e_block": 
 	{
@@ -9994,7 +9994,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "장악한 적 피격 시"
+		"text-refine": "掴み上げ한 적 피격 時"
 	},
 	"e_bounce_during_dash": 
 	{
@@ -10007,7 +10007,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "접근 중 튕기기"
+		"text-refine": "접근 中 튕기기"
 	},
 	"c_if_counter_during": 
 	{
@@ -10020,7 +10020,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "적 공격에 맞추어 사용 시"
+		"text-refine": "적 공격에 맞추어 使用 時"
 	},
 	"c_during_skill2": 
 	{
@@ -10046,7 +10046,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "사용 중 튕기기"
+		"text-refine": "사용 中 튕기기"
 	},
 	"c_if_attacked_all2": 
 	{
@@ -10059,7 +10059,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "모두 적중 시"
+		"text-refine": "모두 적중 時"
 	},
 	"c_if_immuned_using": 
 	{
@@ -10072,7 +10072,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "사용 중 저항 시"
+		"text-refine": "사용 中 抵抗 時"
 	},
 	"e_hp_drain_percent_damage_per_hit": 
 	{
@@ -10111,7 +10111,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 시전 시"
+		"text-refine": "<arg p=\"2:string\"/> 時전 時"
 	},
 	"e_cast_combo_enable_skill": 
 	{
@@ -10124,7 +10124,7 @@ var data_skill_tooltip_attribute = {
 		"icon": null,
 		"skill-modify-type": "none",
 		"is_public": "0",
-		"text-refine": "<arg p=\"2:string\"/> 최대 <arg p=\"3:string\"/> 연속 시전"
+		"text-refine": "<arg p=\"2:string\"/> 최대 <arg p=\"3:string\"/> 연속 時전"
 	},
 	"e_xbuff_mark": 
 	{

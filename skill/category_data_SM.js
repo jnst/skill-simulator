@@ -30,7 +30,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  "
   },
   "27103":
   {
@@ -131,7 +131,7 @@ var category_data_SM = {
   {
     "skill_id": "27110",
     "tree_id": "27110",
-    "name2_refine": "밟기",
+    "name2_refine": "踏む",
     "pc_level": "4",
     "pc_mastery_level": "0",
     "complete_quest": null,
@@ -153,7 +153,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "27111":
   {
@@ -247,7 +247,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "27300":
   {
@@ -344,7 +344,7 @@ var category_data_SM = {
   {
     "skill_id": "27151",
     "tree_id": "27151",
-    "name2_refine": "뒤구르기",
+    "name2_refine": "後転",
     "pc_level": "12",
     "pc_mastery_level": "0",
     "complete_quest": null,
@@ -362,7 +362,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 그로기, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, グロッキー, 気絶 中  "
   },
   "27202":
   {
@@ -393,7 +393,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "27117":
   {
@@ -417,7 +417,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "27118":
   {
@@ -475,13 +475,13 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  "
   },
   "27133":
   {
     "skill_id": "27133",
     "tree_id": "27133",
-    "name2_refine": "걷어차기",
+    "name2_refine": "強蹴り",
     "pc_level": "14",
     "pc_mastery_level": "0",
     "complete_quest": null,
@@ -499,7 +499,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 掴み上げ, 吸功を受けている最中  "
   },
   "27136":
   {
@@ -523,7 +523,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  "
   },
   "27152":
   {
@@ -547,7 +547,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "27126":
   {
@@ -611,7 +611,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  "
   },
   "27304":
   {
@@ -670,7 +670,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  "
+    "tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  "
   },
   "27120":
   {
@@ -694,7 +694,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "27404":
   {
@@ -725,7 +725,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  "
   },
   "27144":
   {
@@ -780,7 +780,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "27122":
   {
@@ -804,7 +804,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "27407":
   {
@@ -858,7 +858,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "27127":
   {
@@ -882,7 +882,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "27130":
   {
@@ -906,7 +906,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> 경공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/default_icon_00_24.png\' class=\'icon_in_description\' /> 경공 中  "
   },
   "27203":
   {
@@ -930,7 +930,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "27307":
   {
@@ -954,7 +954,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "27132":
   {
@@ -978,7 +978,7 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> 질주 점프, 활강 중  "
+    "tooltip_condition_refine": "<img src=\'./img/default_icon_00_24.png\' class=\'icon_in_description\' /> 질주 점프, 활강 中  "
   },
   "27311":
   {
@@ -1002,6 +1002,6 @@ var category_data_SM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_swordmaster_0_4.png\' class=\'icon_in_description\' /> 적 흡공 중 어검 연속베기 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_swordmaster_0_4.png\' class=\'icon_in_description\' /> 적 흡공 中 어검 연속베기 使用 後  "
   }
 };

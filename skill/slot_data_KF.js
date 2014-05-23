@@ -11,7 +11,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv11",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -78,7 +78,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_14.png"
       }
     },
@@ -92,7 +92,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv12",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -159,7 +159,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_14.png"
       }
     },
@@ -173,7 +173,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv31",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -240,7 +240,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 3초식",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_14.png"
       }
     },
@@ -254,7 +254,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv13",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -321,7 +321,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_14.png"
       }
     },
@@ -402,7 +402,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_63.png"
       }
     },
@@ -416,7 +416,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv32",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -483,7 +483,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_14.png"
       }
     },
@@ -564,7 +564,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_63.png"
       }
     },
@@ -578,7 +578,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv33",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -645,7 +645,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_14.png"
       }
     },
@@ -659,7 +659,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv14",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -716,8 +716,8 @@ var slot_data_KF = {
           "0": "21000"
         },
         "complete_quest_desc": "Item.AcquirePlace.0028",
-        "complete_quest_name_refine": "정권 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+        "complete_quest_name_refine": "正拳 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -726,7 +726,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_42.png"
       }
     },
@@ -797,8 +797,8 @@ var slot_data_KF = {
           "0": "21000"
         },
         "complete_quest_desc": "Item.AcquirePlace.0028",
-        "complete_quest_name_refine": "정권 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+        "complete_quest_name_refine": "正拳 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -807,7 +807,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_63.png"
       }
     },
@@ -821,7 +821,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "34",
         "tooltip_alias": "KungfuMaster_Attack_JusticePunch_Lv34",
-        "name2_refine": "정권",
+        "name2_refine": "正拳",
         "variation_level":
         {
           "0": null,
@@ -878,8 +878,8 @@ var slot_data_KF = {
           "0": "21000"
         },
         "complete_quest_desc": "Item.AcquirePlace.0226",
-        "complete_quest_name_refine": "정권 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
+        "complete_quest_name_refine": "正拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -888,7 +888,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_14.png"
       }
     }
@@ -905,7 +905,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv11",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -972,7 +972,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -986,7 +986,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv12",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1053,7 +1053,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1067,7 +1067,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv13",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1134,7 +1134,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1215,7 +1215,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_5.png"
       }
     },
@@ -1229,7 +1229,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv31",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1296,7 +1296,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1310,7 +1310,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "41",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv41",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1377,7 +1377,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1391,7 +1391,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv14",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1458,7 +1458,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1539,7 +1539,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_5.png"
       }
     },
@@ -1553,7 +1553,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv32",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1620,7 +1620,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1634,7 +1634,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "42",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv42",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1701,7 +1701,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 4초식",
+        "matrix_name": "4급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1715,7 +1715,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv15",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1772,8 +1772,8 @@ var slot_data_KF = {
           "0": "21005"
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
-        "complete_quest_name_refine": "반격 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_name_refine": "截拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -1782,7 +1782,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1853,8 +1853,8 @@ var slot_data_KF = {
           "0": "21005"
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
-        "complete_quest_name_refine": "반격 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_name_refine": "截拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -1863,7 +1863,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_5.png"
       }
     },
@@ -1877,7 +1877,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv33",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -1934,8 +1934,8 @@ var slot_data_KF = {
           "0": "21005"
         },
         "complete_quest_desc": "Item.AcquirePlace.0119",
-        "complete_quest_name_refine": "반격 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
+        "complete_quest_name_refine": "截拳 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -1944,7 +1944,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     },
@@ -1958,7 +1958,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "43",
         "tooltip_alias": "KungfuMaster_Attack_Counterenemy_Lv43",
-        "name2_refine": "반격",
+        "name2_refine": "截拳",
         "variation_level":
         {
           "0": null,
@@ -2015,8 +2015,8 @@ var slot_data_KF = {
           "0": "21005"
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
-        "complete_quest_name_refine": "반격 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_name_refine": "截拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -2025,7 +2025,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_1.png"
       }
     }
@@ -2042,7 +2042,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_TakeDown_Lv11",
-        "name2_refine": "제압",
+        "name2_refine": "制圧",
         "variation_level":
         {
           "0": null,
@@ -2108,8 +2108,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_6.png"
       }
     },
@@ -2123,7 +2123,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_TakeDown_Lv12",
-        "name2_refine": "제압",
+        "name2_refine": "制圧",
         "variation_level":
         {
           "0": null,
@@ -2189,8 +2189,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_6.png"
       }
     },
@@ -2271,7 +2271,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_31.png"
       }
     },
@@ -2285,7 +2285,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_TakeDown_Lv13",
-        "name2_refine": "제압",
+        "name2_refine": "制圧",
         "variation_level":
         {
           "0": null,
@@ -2351,8 +2351,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_6.png"
       }
     },
@@ -2366,7 +2366,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "KungfuMaster_Attack_TakeDown_Lv21",
-        "name2_refine": "제압",
+        "name2_refine": "制圧",
         "variation_level":
         {
           "0": null,
@@ -2432,8 +2432,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_6.png"
       }
     },
@@ -2514,7 +2514,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_31.png"
       }
     },
@@ -2528,7 +2528,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "KungfuMaster_Attack_TakeDown_Lv14",
-        "name2_refine": "제압",
+        "name2_refine": "制圧",
         "variation_level":
         {
           "0": null,
@@ -2594,8 +2594,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_6.png"
       }
     },
@@ -2609,7 +2609,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "KungfuMaster_Attack_TakeDown_Lv22",
-        "name2_refine": "제압",
+        "name2_refine": "制圧",
         "variation_level":
         {
           "0": null,
@@ -2675,8 +2675,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_6.png"
       }
     },
@@ -2757,7 +2757,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_31.png"
       }
     }
@@ -2774,7 +2774,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_HighKick_Lv11",
-        "name2_refine": "회천각",
+        "name2_refine": "回天脚",
         "variation_level":
         {
           "0": null,
@@ -2840,8 +2840,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 폭권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 사용 후  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 暴拳 치명타 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 使用 後  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -2855,7 +2855,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_HighKick_Lv12",
-        "name2_refine": "회천각",
+        "name2_refine": "回天脚",
         "variation_level":
         {
           "0": null,
@@ -2921,8 +2921,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 폭권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 사용 후  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 暴拳 치명타 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 使用 後  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_42.png"
       }
     },
@@ -2936,7 +2936,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "KungfuMaster_Attack_HighKick_Lv21",
-        "name2_refine": "회천각",
+        "name2_refine": "回天脚",
         "variation_level":
         {
           "0": null,
@@ -3002,8 +3002,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 폭권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 사용 후  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 暴拳 치명타 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 使用 後  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_42.png"
       }
     },
@@ -3017,7 +3017,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_HighKick_Lv13",
-        "name2_refine": "회천각",
+        "name2_refine": "回天脚",
         "variation_level":
         {
           "0": null,
@@ -3083,8 +3083,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 폭권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 사용 후  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 暴拳 치명타 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 使用 後  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_42.png"
       }
     },
@@ -3098,7 +3098,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "KungfuMaster_Attack_HighKick_Lv22",
-        "name2_refine": "회천각",
+        "name2_refine": "回天脚",
         "variation_level":
         {
           "0": null,
@@ -3164,8 +3164,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 폭권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 사용 후  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 暴拳 치명타 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 使用 後  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_42.png"
       }
     }
@@ -3250,7 +3250,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     },
@@ -3332,7 +3332,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     },
@@ -3414,7 +3414,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     },
@@ -3496,7 +3496,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     },
@@ -3578,7 +3578,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     },
@@ -3660,7 +3660,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     },
@@ -3741,8 +3741,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_40.png"
       }
     },
@@ -3824,7 +3824,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     },
@@ -3906,7 +3906,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_49.png"
       }
     }
@@ -3990,7 +3990,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     },
@@ -4071,7 +4071,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     },
@@ -4152,7 +4152,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     },
@@ -4233,7 +4233,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     },
@@ -4314,7 +4314,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     },
@@ -4395,7 +4395,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     },
@@ -4476,7 +4476,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     },
@@ -4557,7 +4557,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_38.png"
       }
     }
@@ -4641,7 +4641,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -4722,7 +4722,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -4803,7 +4803,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -4884,7 +4884,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_19.png"
       }
     },
@@ -4965,7 +4965,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -5046,7 +5046,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -5127,7 +5127,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -5208,7 +5208,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 4초식",
+        "matrix_name": "4급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -5289,7 +5289,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -5370,7 +5370,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     },
@@ -5451,7 +5451,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_24.png"
       }
     },
@@ -5532,7 +5532,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_25.png"
       }
     }
@@ -5615,8 +5615,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_20.png"
       }
     },
@@ -5696,8 +5696,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_20.png"
       }
     },
@@ -5777,8 +5777,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 혼절  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 気絶  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_20.png"
       }
     },
@@ -5858,8 +5858,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_20.png"
       }
     },
@@ -5939,8 +5939,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 혼절  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 気絶  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_20.png"
       }
     },
@@ -6020,8 +6020,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_20.png"
       }
     },
@@ -6101,8 +6101,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_33.png\' class=\'icon_in_description\' /> 적 점혈  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 気絶  <br/><img src=\'./img/skill_icon_kungfufighter_1_33.png\' class=\'icon_in_description\' /> 적 점혈  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_20.png"
       }
     }
@@ -6185,8 +6185,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_46.png"
       }
     },
@@ -6266,8 +6266,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_46.png"
       }
     },
@@ -6347,8 +6347,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_46.png"
       }
     },
@@ -6428,8 +6428,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_42.png\' class=\'icon_in_description\' /> 회천각 사용 후  ",
-        "matrix_name": "2급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  <br/><img src=\'./img/skill_icon_kungfufighter_1_42.png\' class=\'icon_in_description\' /> 回天脚 使用 後  ",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_42.png"
       }
     },
@@ -6509,8 +6509,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_46.png"
       }
     },
@@ -6590,8 +6590,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_46.png"
       }
     },
@@ -6671,8 +6671,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 회천각, 진격권 사용 후  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  <br/><img src=\'./img/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 回天脚, 진격권 使用 後  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_43.png"
       }
     }
@@ -6758,7 +6758,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_5.png"
       }
     },
@@ -6841,7 +6841,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_5.png"
       }
     },
@@ -6924,7 +6924,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_5.png"
       }
     },
@@ -7006,8 +7006,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_41.png"
       }
     },
@@ -7089,8 +7089,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_45.png"
       }
     },
@@ -7173,7 +7173,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_5.png"
       }
     },
@@ -7255,8 +7255,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_41.png"
       }
     },
@@ -7338,8 +7338,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_45.png"
       }
     },
@@ -7422,7 +7422,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_5.png"
       }
     },
@@ -7504,8 +7504,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_41.png"
       }
     },
@@ -7587,8 +7587,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_45.png"
       }
     }
@@ -7605,7 +7605,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_BackStep_Lv11",
-        "name2_refine": "후방이동",
+        "name2_refine": "後方移動",
         "variation_level":
         {
           "0": null,
@@ -7672,7 +7672,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_2.png"
       }
     },
@@ -7686,7 +7686,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_BackStep_Lv12",
-        "name2_refine": "후방이동",
+        "name2_refine": "後方移動",
         "variation_level":
         {
           "0": null,
@@ -7753,7 +7753,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_2.png"
       }
     },
@@ -7767,7 +7767,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_BackStep_Lv13",
-        "name2_refine": "후방이동",
+        "name2_refine": "後方移動",
         "variation_level":
         {
           "0": null,
@@ -7834,7 +7834,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_2.png"
       }
     }
@@ -7851,7 +7851,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv11",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -7918,7 +7918,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -7932,7 +7932,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv12",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -7999,7 +7999,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8013,7 +8013,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "41",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv41",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8080,7 +8080,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 4초식",
+        "matrix_name": "2급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8094,7 +8094,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv13",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8161,7 +8161,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8175,7 +8175,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv31",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8242,7 +8242,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8256,7 +8256,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv14",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8323,7 +8323,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8337,7 +8337,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv21",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8404,7 +8404,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8418,7 +8418,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv32",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8485,7 +8485,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8499,7 +8499,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "42",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv42",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8566,7 +8566,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 4초식",
+        "matrix_name": "4급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8580,7 +8580,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv15",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8637,8 +8637,8 @@ var slot_data_KF = {
           "0": "21108"
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
-        "complete_quest_name_refine": "붕권 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_name_refine": "崩拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -8647,7 +8647,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8661,7 +8661,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv22",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8718,8 +8718,8 @@ var slot_data_KF = {
           "0": "21108"
         },
         "complete_quest_desc": "Item.AcquirePlace.0375",
-        "complete_quest_name_refine": "붕권 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
+        "complete_quest_name_refine": "崩拳 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -8728,7 +8728,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8742,7 +8742,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv33",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8799,8 +8799,8 @@ var slot_data_KF = {
           "0": "21108"
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
-        "complete_quest_name_refine": "붕권 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_name_refine": "崩拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -8809,7 +8809,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     },
@@ -8823,7 +8823,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "43",
         "tooltip_alias": "KungfuMaster_Attack_HeavyPunch_Lv43",
-        "name2_refine": "붕권",
+        "name2_refine": "崩拳",
         "variation_level":
         {
           "0": null,
@@ -8880,8 +8880,8 @@ var slot_data_KF = {
           "0": "21108"
         },
         "complete_quest_desc": "Item.AcquirePlace.0375",
-        "complete_quest_name_refine": "붕권 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
+        "complete_quest_name_refine": "崩拳 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -8890,7 +8890,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_21.png"
       }
     }
@@ -8907,7 +8907,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv11",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -8973,8 +8973,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     },
@@ -8988,7 +8988,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv12",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9054,8 +9054,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     },
@@ -9069,7 +9069,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv21",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9135,8 +9135,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_36.png"
       }
     },
@@ -9150,7 +9150,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv31",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9216,8 +9216,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     },
@@ -9231,7 +9231,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv13",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9297,8 +9297,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     },
@@ -9312,7 +9312,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv22",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9378,8 +9378,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     },
@@ -9393,7 +9393,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv32",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9459,8 +9459,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     },
@@ -9474,7 +9474,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv14",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9540,8 +9540,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_46.png"
       }
     },
@@ -9555,7 +9555,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv23",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9621,8 +9621,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     },
@@ -9636,7 +9636,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "KungfuMaster_Attack_FinalAttack_Lv33",
-        "name2_refine": "철산고",
+        "name2_refine": "鉄山靠",
         "variation_level":
         {
           "0": null,
@@ -9702,8 +9702,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_2.png"
       }
     }
@@ -9720,7 +9720,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv11",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -9787,7 +9787,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -9801,7 +9801,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv12",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -9868,7 +9868,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -9882,7 +9882,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv31",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -9949,7 +9949,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 3초식",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -9963,7 +9963,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv13",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10030,7 +10030,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10044,7 +10044,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv32",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10111,7 +10111,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10125,7 +10125,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "41",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv41",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10192,7 +10192,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10206,7 +10206,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv14",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10273,7 +10273,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10287,7 +10287,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv21",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10354,7 +10354,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10368,7 +10368,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv15",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10425,8 +10425,8 @@ var slot_data_KF = {
           "0": "21111"
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
-        "complete_quest_name_refine": "폭권 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_name_refine": "暴拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -10435,7 +10435,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10449,7 +10449,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv22",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10506,8 +10506,8 @@ var slot_data_KF = {
           "0": "21111"
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
-        "complete_quest_name_refine": "폭권 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_name_refine": "暴拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -10516,7 +10516,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10530,7 +10530,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv33",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10587,8 +10587,8 @@ var slot_data_KF = {
           "0": "21111"
         },
         "complete_quest_desc": "Item.AcquirePlace.0398",
-        "complete_quest_name_refine": "폭권 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
+        "complete_quest_name_refine": "暴拳 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -10597,7 +10597,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     },
@@ -10611,7 +10611,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "42",
         "tooltip_alias": "KungfuMaster_Attack_PowerfulAttack_Lv42",
-        "name2_refine": "폭권",
+        "name2_refine": "暴拳",
         "variation_level":
         {
           "0": null,
@@ -10668,8 +10668,8 @@ var slot_data_KF = {
           "0": "21111"
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
-        "complete_quest_name_refine": "폭권 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_name_refine": "暴拳 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "체술",
@@ -10678,7 +10678,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_kungfufighter_0_41.png"
       }
     }
@@ -10695,7 +10695,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_TripleKick_Lv11",
-        "name2_refine": "삼연각",
+        "name2_refine": "山崩し",
         "variation_level":
         {
           "0": null,
@@ -10761,8 +10761,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_16.png"
       }
     },
@@ -10776,7 +10776,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_TripleKick_Lv12",
-        "name2_refine": "삼연각",
+        "name2_refine": "山崩し",
         "variation_level":
         {
           "0": null,
@@ -10842,8 +10842,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_16.png"
       }
     },
@@ -10923,8 +10923,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_46.png"
       }
     },
@@ -11004,8 +11004,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_46.png"
       }
     },
@@ -11085,8 +11085,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_46.png"
       }
     }
@@ -11170,7 +11170,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_13.png"
       }
     },
@@ -11251,7 +11251,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_13.png"
       }
     },
@@ -11332,7 +11332,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_13.png"
       }
     },
@@ -11413,7 +11413,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_13.png"
       }
     },
@@ -11494,7 +11494,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_0_13.png"
       }
     },
@@ -11575,7 +11575,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_13.png"
       }
     },
@@ -11656,7 +11656,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_40.png"
       }
     }
@@ -11673,7 +11673,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "KungfuMaster_Attack_Commandskill_Right_Lv11",
-        "name2_refine": "파고들기",
+        "name2_refine": "幽歩",
         "variation_level":
         {
           "0": null,
@@ -11740,7 +11740,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_24.png"
       }
     },
@@ -11754,7 +11754,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "KungfuMaster_Attack_Commandskill_Right_Lv12",
-        "name2_refine": "파고들기",
+        "name2_refine": "幽歩",
         "variation_level":
         {
           "0": null,
@@ -11821,7 +11821,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_24.png"
       }
     },
@@ -11835,7 +11835,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "KungfuMaster_Attack_Commandskill_Right_Lv13",
-        "name2_refine": "파고들기",
+        "name2_refine": "幽歩",
         "variation_level":
         {
           "0": null,
@@ -11902,7 +11902,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_24.png"
       }
     },
@@ -11916,7 +11916,7 @@ var slot_data_KF = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "KungfuMaster_Attack_Commandskill_Right_Lv14",
-        "name2_refine": "파고들기",
+        "name2_refine": "幽歩",
         "variation_level":
         {
           "0": null,
@@ -11983,7 +11983,7 @@ var slot_data_KF = {
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_0_24.png"
       }
     }
@@ -12066,8 +12066,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12147,8 +12147,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12228,8 +12228,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12309,8 +12309,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12390,8 +12390,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12471,8 +12471,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12552,8 +12552,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12633,8 +12633,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12714,8 +12714,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12795,8 +12795,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_18.png"
       }
     },
@@ -12876,8 +12876,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_kungfufighter_0_46.png"
       }
     }
@@ -12960,8 +12960,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 붕격 사용 후  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  <br/><img src=\'./img/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 崩勁拳 使用 後  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_43.png"
       }
     },
@@ -13041,8 +13041,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 붕격 사용 후  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  <br/><img src=\'./img/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 崩勁拳 使用 後  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_43.png"
       }
     },
@@ -13122,8 +13122,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 붕격 사용 후  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  <br/><img src=\'./img/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 崩勁拳 使用 後  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_43.png"
       }
     },
@@ -13203,8 +13203,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 붕격 사용 후  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  <br/><img src=\'./img/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 崩勁拳 使用 後  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_kungfufighter_1_43.png"
       }
     },
@@ -13284,8 +13284,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 붕격 사용 후  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  <br/><img src=\'./img/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 崩勁拳 使用 後  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_43.png"
       }
     },
@@ -13365,8 +13365,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 붕격 사용 후  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  <br/><img src=\'./img/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 崩勁拳 使用 後  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_kungfufighter_1_43.png"
       }
     }
@@ -13449,8 +13449,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2초식 사용 후  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2秒식 使用 後  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "buff_debuff_icon_01_38.png"
       }
     },
@@ -13530,8 +13530,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2초식 사용 후  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2秒식 使用 後  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "buff_debuff_icon_01_38.png"
       }
     },
@@ -13611,8 +13611,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2초식 사용 후  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2秒식 使用 後  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "buff_debuff_icon_01_38.png"
       }
     },
@@ -13692,8 +13692,8 @@ var slot_data_KF = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2초식 사용 후  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2秒식 使用 後  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "buff_debuff_icon_01_38.png"
       }
     }

@@ -77,8 +77,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_53.png"
 			}
 		},
@@ -158,8 +158,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_53.png"
 			}
 		},
@@ -239,8 +239,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_58.png"
 			}
 		},
@@ -320,8 +320,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_53.png"
 			}
 		},
@@ -401,8 +401,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_58.png"
 			}
 		},
@@ -482,8 +482,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_56.png"
 			}
 		},
@@ -563,8 +563,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-				"matrix_name": "4급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+				"matrix_name": "4급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_53.png"
 			}
 		},
@@ -644,8 +644,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_56.png"
 			}
 		},
@@ -725,8 +725,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_58.png"
 			}
 		},
@@ -806,8 +806,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "buff_debuff_icon_02_57.png"
 			}
 		},
@@ -887,8 +887,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 4秒식",
 				"training_icon": "skill_icon_blademaster_1_13.png"
 			}
 		}
@@ -971,8 +971,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		},
@@ -1052,8 +1052,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		},
@@ -1133,8 +1133,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		},
@@ -1214,8 +1214,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		},
@@ -1295,8 +1295,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		},
@@ -1368,7 +1368,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
 				"complete_quest_name_refine": "질풍 1편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -1376,8 +1376,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		},
@@ -1449,7 +1449,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0028",
 				"complete_quest_name_refine": "질풍 1편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -1457,8 +1457,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		},
@@ -1530,7 +1530,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0226",
 				"complete_quest_name_refine": "질풍 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -1538,8 +1538,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_1.png"
 			}
 		}
@@ -1622,8 +1622,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_4.png"
 			}
 		},
@@ -1703,8 +1703,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_4.png"
 			}
 		},
@@ -1784,8 +1784,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_4.png"
 			}
 		},
@@ -1865,8 +1865,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_43.png"
 			}
 		},
@@ -1946,8 +1946,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_4.png"
 			}
 		},
@@ -2027,8 +2027,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_4.png"
 			}
 		},
@@ -2108,8 +2108,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_43.png"
 			}
 		},
@@ -2181,7 +2181,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0398",
 				"complete_quest_name_refine": "찌르기 1편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
+				"complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -2189,8 +2189,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_4.png"
 			}
 		},
@@ -2262,7 +2262,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "찌르기 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -2270,8 +2270,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_4.png"
 			}
 		},
@@ -2343,7 +2343,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0114",
 				"complete_quest_name_refine": "찌르기 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -2351,8 +2351,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_43.png"
 			}
 		}
@@ -2435,8 +2435,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -2516,8 +2516,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -2597,8 +2597,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -2678,8 +2678,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -2759,8 +2759,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -2840,8 +2840,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -2921,8 +2921,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -3002,8 +3002,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_54.png"
 			}
 		},
@@ -3083,8 +3083,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -3164,8 +3164,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -3245,8 +3245,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_54.png"
 			}
 		},
@@ -3326,8 +3326,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_5.png"
 			}
 		},
@@ -3407,8 +3407,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_54.png"
 			}
 		}
@@ -3492,7 +3492,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "1급 1초식",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -3573,7 +3573,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "2급 1초식",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -3654,7 +3654,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "2급 3초식",
+				"matrix_name": "2급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -3735,7 +3735,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "3급 1초식",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -3816,7 +3816,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "3급 2초식",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -3897,7 +3897,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "3급 3초식",
+				"matrix_name": "3급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -3978,7 +3978,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "4급 1초식",
+				"matrix_name": "4급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -4059,7 +4059,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "4급 2초식",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -4131,7 +4131,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0119",
 				"complete_quest_name_refine": "막기 1편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
+				"complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -4140,7 +4140,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "5급 1초식",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -4212,7 +4212,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
 				"complete_quest_name_refine": "막기 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -4221,7 +4221,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "5급 2초식",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		},
@@ -4293,7 +4293,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0121",
 				"complete_quest_name_refine": "막기 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -4302,7 +4302,7 @@ var slot_data_BM = {
 				},
 				"tooltip_stance_refine": "",
 				"tooltip_condition_refine": null,
-				"matrix_name": "5급 3초식",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_6.png"
 			}
 		}
@@ -4385,8 +4385,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_9.png"
 			}
 		},
@@ -4466,8 +4466,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_9.png"
 			}
 		},
@@ -4547,8 +4547,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_9.png"
 			}
 		},
@@ -4628,8 +4628,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_9.png"
 			}
 		},
@@ -4709,8 +4709,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_9.png"
 			}
 		},
@@ -4790,8 +4790,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 3秒식",
 				"training_icon": "skill_icon_blademaster_1_12.png"
 			}
 		},
@@ -4871,8 +4871,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_9.png"
 			}
 		},
@@ -4952,8 +4952,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_9.png"
 			}
 		},
@@ -5033,8 +5033,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_1_12.png"
 			}
 		}
@@ -5117,8 +5117,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_10.png"
 			}
 		},
@@ -5198,8 +5198,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_10.png"
 			}
 		},
@@ -5279,8 +5279,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_10.png"
 			}
 		},
@@ -5360,8 +5360,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_10.png"
 			}
 		},
@@ -5441,8 +5441,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_10.png"
 			}
 		}
@@ -5525,8 +5525,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -5606,8 +5606,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압 당한 중  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧 당한 中  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -5687,8 +5687,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -5768,8 +5768,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-				"matrix_name": "3급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+				"matrix_name": "3급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -5849,8 +5849,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-				"matrix_name": "4급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+				"matrix_name": "4급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -5930,8 +5930,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-				"matrix_name": "4급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -6011,8 +6011,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-				"matrix_name": "4급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+				"matrix_name": "4급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -6092,8 +6092,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -6173,8 +6173,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		},
@@ -6254,8 +6254,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_11.png"
 			}
 		}
@@ -6272,7 +6272,7 @@ var slot_data_BM = {
 				"max_variation_level": "1",
 				"variation_id": "11",
 				"tooltip_alias": "BladeMaster_Sword_stamp_LV11",
-				"name2_refine": "밟기",
+				"name2_refine": "踏む",
 				"variation_level": 
 				{
 					"0": null,
@@ -6338,8 +6338,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_15.png"
 			}
 		},
@@ -6353,7 +6353,7 @@ var slot_data_BM = {
 				"max_variation_level": "1",
 				"variation_id": "12",
 				"tooltip_alias": "BladeMaster_Sword_stamp_LV12",
-				"name2_refine": "밟기",
+				"name2_refine": "踏む",
 				"variation_level": 
 				{
 					"0": null,
@@ -6419,8 +6419,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_15.png"
 			}
 		},
@@ -6500,8 +6500,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_1_10.png"
 			}
 		},
@@ -6515,7 +6515,7 @@ var slot_data_BM = {
 				"max_variation_level": "1",
 				"variation_id": "13",
 				"tooltip_alias": "BladeMaster_Sword_stamp_LV13",
-				"name2_refine": "밟기",
+				"name2_refine": "踏む",
 				"variation_level": 
 				{
 					"0": null,
@@ -6581,8 +6581,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_15.png"
 			}
 		},
@@ -6662,8 +6662,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_1_10.png"
 			}
 		},
@@ -6743,8 +6743,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_1_10.png"
 			}
 		}
@@ -6827,8 +6827,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_23.png"
 			}
 		},
@@ -6908,8 +6908,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_23.png"
 			}
 		},
@@ -6989,8 +6989,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_23.png"
 			}
 		},
@@ -7070,8 +7070,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_23.png"
 			}
 		},
@@ -7151,8 +7151,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "4급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_1_11.png"
 			}
 		},
@@ -7232,8 +7232,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_23.png"
 			}
 		},
@@ -7313,8 +7313,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_23.png"
 			}
 		}
@@ -7397,8 +7397,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_35.png"
 			}
 		},
@@ -7478,8 +7478,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_35.png"
 			}
 		},
@@ -7559,8 +7559,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_35.png"
 			}
 		},
@@ -7640,8 +7640,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_35.png"
 			}
 		}
@@ -7724,8 +7724,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_37.png"
 			}
 		},
@@ -7805,8 +7805,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_37.png"
 			}
 		},
@@ -7886,8 +7886,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_37.png"
 			}
 		},
@@ -7967,8 +7967,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_37.png"
 			}
 		},
@@ -8048,8 +8048,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_37.png"
 			}
 		},
@@ -8129,8 +8129,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_37.png"
 			}
 		},
@@ -8210,8 +8210,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_37.png"
 			}
 		}
@@ -8294,8 +8294,8 @@ var slot_data_BM = {
 					"2": "어검술"
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  <br/><img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_47.png"
 			}
 		}
@@ -8378,8 +8378,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -8459,8 +8459,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -8540,8 +8540,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -8621,8 +8621,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -8702,8 +8702,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -8783,8 +8783,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "4급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "4급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -8864,8 +8864,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -8945,8 +8945,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		},
@@ -9026,8 +9026,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_26.png"
 			}
 		}
@@ -9110,8 +9110,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_42.png"
 			}
 		},
@@ -9191,8 +9191,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_42.png"
 			}
 		},
@@ -9272,8 +9272,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_42.png"
 			}
 		},
@@ -9353,8 +9353,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_42.png"
 			}
 		},
@@ -9434,8 +9434,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_42.png"
 			}
 		},
@@ -9515,8 +9515,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_42.png"
 			}
 		},
@@ -9596,8 +9596,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_42.png"
 			}
 		}
@@ -9680,8 +9680,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -9761,8 +9761,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -9842,8 +9842,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -9923,8 +9923,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10004,8 +10004,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10085,8 +10085,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10166,8 +10166,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "4급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "4급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10247,8 +10247,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "4급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10328,8 +10328,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "4급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "4급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10409,8 +10409,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "4급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "4급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10490,8 +10490,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10571,8 +10571,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10652,8 +10652,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		},
@@ -10733,8 +10733,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_19.png"
 			}
 		}
@@ -10817,8 +10817,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -10898,8 +10898,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -10979,8 +10979,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11060,8 +11060,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11141,8 +11141,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11222,8 +11222,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11303,8 +11303,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "4급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "4급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11376,7 +11376,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0020",
 				"complete_quest_name_refine": "번개베기 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -11384,8 +11384,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11457,7 +11457,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0020",
 				"complete_quest_name_refine": "번개베기 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -11465,8 +11465,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11538,7 +11538,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0020",
 				"complete_quest_name_refine": "번개베기 2편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -11546,8 +11546,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		},
@@ -11619,7 +11619,7 @@ var slot_data_BM = {
 				},
 				"complete_quest_desc": "Item.AcquirePlace.0375",
 				"complete_quest_name_refine": "번개베기 1편",
-				"complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
+				"complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
 				"tooltip_stance_type": 
 				{
 					"0": "검술",
@@ -11627,8 +11627,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "5급 4초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  <br/><img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "5급 4秒식",
 				"training_icon": "skill_icon_blademaster_0_21.png"
 			}
 		}
@@ -11711,8 +11711,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_24.png"
 			}
 		},
@@ -11792,8 +11792,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_24.png"
 			}
 		},
@@ -11873,8 +11873,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_24.png"
 			}
 		},
@@ -11954,8 +11954,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_24.png"
 			}
 		}
@@ -12038,8 +12038,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		},
@@ -12119,8 +12119,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		},
@@ -12200,8 +12200,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  ",
-				"matrix_name": "2급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  ",
+				"matrix_name": "2급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		},
@@ -12281,8 +12281,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		},
@@ -12362,8 +12362,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  ",
-				"matrix_name": "3급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  ",
+				"matrix_name": "3급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		},
@@ -12443,8 +12443,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		},
@@ -12524,8 +12524,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 기절 중  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 気絶 中  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		},
@@ -12605,8 +12605,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 중 치명타 시  ",
-				"matrix_name": "5급 3초식",
+				"tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 발도술 中 치명타 時  ",
+				"matrix_name": "5급 3秒식",
 				"training_icon": "skill_icon_blademaster_0_34.png"
 			}
 		}
@@ -12689,8 +12689,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_63.png"
 			}
 		},
@@ -12770,8 +12770,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_63.png"
 			}
 		},
@@ -12851,8 +12851,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/blademaster_sword_batto_1.png\' class=\'icon_in_description\' /> 발도술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_63.png"
 			}
 		}
@@ -12935,8 +12935,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_45.png"
 			}
 		},
@@ -13016,8 +13016,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_45.png"
 			}
 		},
@@ -13097,8 +13097,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "2급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "2급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_45.png"
 			}
 		},
@@ -13178,8 +13178,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_45.png"
 			}
 		},
@@ -13259,8 +13259,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "3급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "3급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_45.png"
 			}
 		},
@@ -13340,8 +13340,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 1秒식",
 				"training_icon": "skill_icon_blademaster_0_45.png"
 			}
 		},
@@ -13421,8 +13421,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": null,
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> 막기 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
-				"matrix_name": "5급 2초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_7.png\' class=\'icon_in_description\' /> 튕기기 성공 時  <br/><img src=\'./img/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> 막기 時  <br/><img src=\'./img/blademaster_batto_sword_1.png\' class=\'icon_in_description\' /> 검술 자세  ",
+				"matrix_name": "5급 2秒식",
 				"training_icon": "skill_icon_blademaster_0_45.png"
 			}
 		}
@@ -13505,8 +13505,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
-				"matrix_name": "1급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
+				"matrix_name": "1급 1秒식",
 				"training_icon": "skill_icon_blademaster_1_4.png"
 			}
 		},
@@ -13586,8 +13586,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
-				"matrix_name": "2급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
+				"matrix_name": "2급 1秒식",
 				"training_icon": "skill_icon_blademaster_1_4.png"
 			}
 		},
@@ -13667,8 +13667,8 @@ var slot_data_BM = {
 					"2": null
 				},
 				"tooltip_stance_refine": "",
-				"tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
-				"matrix_name": "3급 1초식",
+				"tooltip_condition_refine": "<img src=\'./img/skill_icon_blademaster_0_53.png\' class=\'icon_in_description\' /> 어검술 자세  ",
+				"matrix_name": "3급 1秒식",
 				"training_icon": "skill_icon_blademaster_1_4.png"
 			}
 		}

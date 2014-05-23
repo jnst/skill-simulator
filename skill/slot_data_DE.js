@@ -11,7 +11,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Protection_Judgement_1000",
-        "name2_refine": "심판",
+        "name2_refine": "審判",
         "variation_level":
         {
           "0": null,
@@ -72,13 +72,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_31.png"
       }
     },
@@ -92,7 +92,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Protection_Judgement_2000",
-        "name2_refine": "심판",
+        "name2_refine": "審判",
         "variation_level":
         {
           "0": null,
@@ -153,13 +153,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_31.png"
       }
     },
@@ -234,13 +234,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_1_39.png"
       }
     },
@@ -254,7 +254,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Destroyer_Protection_Judgement_3000",
-        "name2_refine": "심판",
+        "name2_refine": "審判",
         "variation_level":
         {
           "0": null,
@@ -315,13 +315,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_0_31.png"
       }
     },
@@ -335,7 +335,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Destroyer_Protection_Judgement_4000",
-        "name2_refine": "심판",
+        "name2_refine": "審判",
         "variation_level":
         {
           "0": null,
@@ -396,13 +396,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_31.png"
       }
     },
@@ -477,13 +477,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_1_39.png"
       }
     },
@@ -558,13 +558,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_destroyer_1_39.png"
       }
     },
@@ -578,7 +578,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Protection_Judgement_5000",
-        "name2_refine": "심판",
+        "name2_refine": "審判",
         "variation_level":
         {
           "0": null,
@@ -635,17 +635,17 @@ var slot_data_DE = {
           "0": "24001"
         },
         "complete_quest_desc": "Item.AcquirePlace.0028",
-        "complete_quest_name_refine": "심판 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+        "complete_quest_name_refine": "審判 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_31.png"
       }
     },
@@ -716,17 +716,17 @@ var slot_data_DE = {
           "0": "24001"
         },
         "complete_quest_desc": "Item.AcquirePlace.0028",
-        "complete_quest_name_refine": "심판 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+        "complete_quest_name_refine": "審判 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_1_39.png"
       }
     },
@@ -797,17 +797,17 @@ var slot_data_DE = {
           "0": "24001"
         },
         "complete_quest_desc": "Item.AcquirePlace.0226",
-        "complete_quest_name_refine": "심판 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
+        "complete_quest_name_refine": "審判 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_1_39.png"
       }
     }
@@ -824,7 +824,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_1000",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -885,13 +885,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -905,7 +905,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_2000",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -966,13 +966,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -986,7 +986,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_0200",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1047,13 +1047,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -1067,7 +1067,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_3000",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1128,13 +1128,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -1148,7 +1148,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_4000",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1209,13 +1209,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -1229,7 +1229,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "24",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_0400",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1290,13 +1290,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -1310,7 +1310,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "34",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_0040",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1371,13 +1371,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_destroyer_1_40.png"
       }
     },
@@ -1391,7 +1391,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_5000",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1448,17 +1448,17 @@ var slot_data_DE = {
           "0": "24010"
         },
         "complete_quest_desc": "Item.AcquirePlace.0119",
-        "complete_quest_name_refine": "광풍 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
+        "complete_quest_name_refine": "旋風打撃 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -1472,7 +1472,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_0500",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1529,17 +1529,17 @@ var slot_data_DE = {
           "0": "24010"
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
-        "complete_quest_name_refine": "광풍 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_name_refine": "旋風打撃 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_29.png"
       }
     },
@@ -1553,7 +1553,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "35",
         "tooltip_alias": "Destroyer_Protection_Raging_Wind_0050",
-        "name2_refine": "광풍",
+        "name2_refine": "旋風打撃",
         "variation_level":
         {
           "0": null,
@@ -1610,17 +1610,17 @@ var slot_data_DE = {
           "0": "24010"
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
-        "complete_quest_name_refine": "광풍 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_name_refine": "旋風打撃 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_1_40.png"
       }
     }
@@ -1637,7 +1637,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_1000",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -1698,13 +1698,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_46.png"
       }
     },
@@ -1718,7 +1718,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_2000",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -1779,13 +1779,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_31.png"
       }
     },
@@ -1799,7 +1799,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_0200",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -1860,13 +1860,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_46.png"
       }
     },
@@ -1880,7 +1880,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_3000",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -1941,13 +1941,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_1_31.png"
       }
     },
@@ -1961,7 +1961,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_0300",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -2022,13 +2022,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_0_46.png"
       }
     },
@@ -2042,7 +2042,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_4000",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -2103,13 +2103,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_1_31.png"
       }
     },
@@ -2123,7 +2123,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "24",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_0400",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -2184,13 +2184,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_0_46.png"
       }
     },
@@ -2204,7 +2204,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "34",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_0040",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -2265,13 +2265,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_destroyer_0_46.png"
       }
     },
@@ -2285,7 +2285,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_5000",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -2342,17 +2342,17 @@ var slot_data_DE = {
           "0": "24030"
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
-        "complete_quest_name_refine": "파괴 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_name_refine": "天誅 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_1_41.png"
       }
     },
@@ -2366,7 +2366,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_0500",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -2423,17 +2423,17 @@ var slot_data_DE = {
           "0": "24030"
         },
         "complete_quest_desc": "Item.AcquirePlace.0398",
-        "complete_quest_name_refine": "파괴 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
+        "complete_quest_name_refine": "天誅 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_46.png"
       }
     },
@@ -2447,7 +2447,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "35",
         "tooltip_alias": "Destroyer_Protection_Axe_Chop_0050",
-        "name2_refine": "파괴",
+        "name2_refine": "天誅",
         "variation_level":
         {
           "0": null,
@@ -2504,17 +2504,17 @@ var slot_data_DE = {
           "0": "24030"
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
-        "complete_quest_name_refine": "파괴 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_name_refine": "天誅 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_0_46.png"
       }
     }
@@ -2592,13 +2592,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_47.png"
       }
     },
@@ -2673,13 +2673,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_47.png"
       }
     },
@@ -2754,13 +2754,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_47.png"
       }
     },
@@ -2835,13 +2835,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 3초식",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_destroyer_1_42.png"
       }
     },
@@ -2916,13 +2916,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_0_47.png"
       }
     },
@@ -2997,13 +2997,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_0_47.png"
       }
     },
@@ -3078,13 +3078,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_1_42.png"
       }
     },
@@ -3159,13 +3159,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "skill_icon_destroyer_1_42.png"
       }
     }
@@ -3182,7 +3182,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_1000",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3243,13 +3243,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3263,7 +3263,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_2000",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3324,13 +3324,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3344,7 +3344,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_0020",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3405,13 +3405,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 3초식",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3425,7 +3425,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_0030",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3486,13 +3486,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3506,7 +3506,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_4000",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3567,13 +3567,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3587,7 +3587,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "24",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_0400",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3648,13 +3648,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3668,7 +3668,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "34",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_0040",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3729,13 +3729,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3749,7 +3749,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_5000",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3810,13 +3810,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3830,7 +3830,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_0500",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3891,13 +3891,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     },
@@ -3911,7 +3911,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "35",
         "tooltip_alias": "Destroyer_Protection_ChargeDash_0050",
-        "name2_refine": "격돌",
+        "name2_refine": "突撃",
         "variation_level":
         {
           "0": null,
@@ -3972,13 +3972,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_0_13.png"
       }
     }
@@ -4056,13 +4056,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4137,13 +4137,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 4초식",
+        "matrix_name": "2급 4秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4218,13 +4218,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4299,13 +4299,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4380,13 +4380,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4461,13 +4461,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4542,13 +4542,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4623,13 +4623,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4704,13 +4704,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 4초식",
+        "matrix_name": "4급 4秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4785,13 +4785,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4866,13 +4866,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -4947,13 +4947,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     },
@@ -5028,13 +5028,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_destroyer_0_24.png"
       }
     }
@@ -5112,13 +5112,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5193,13 +5193,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5274,13 +5274,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5355,13 +5355,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 3초식",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5436,13 +5436,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 4초식",
+        "matrix_name": "2급 4秒식",
         "training_icon": "skill_icon_destroyer_1_44.png"
       }
     },
@@ -5517,13 +5517,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5598,13 +5598,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5679,13 +5679,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5760,13 +5760,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "skill_icon_destroyer_1_44.png"
       }
     },
@@ -5838,16 +5838,16 @@ var slot_data_DE = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "발구르기 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -5919,16 +5919,16 @@ var slot_data_DE = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "발구르기 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -6000,16 +6000,16 @@ var slot_data_DE = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "발구르기 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_1_43.png"
       }
     },
@@ -6081,16 +6081,16 @@ var slot_data_DE = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0375",
         "complete_quest_name_refine": "발구르기 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_destroyer_1_44.png"
       }
     }
@@ -6168,13 +6168,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_1_5.png"
       }
     },
@@ -6249,13 +6249,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_5.png"
       }
     },
@@ -6330,13 +6330,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_23.png"
       }
     },
@@ -6411,13 +6411,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_1_5.png"
       }
     },
@@ -6492,13 +6492,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_0_22.png"
       }
     },
@@ -6573,13 +6573,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_0_23.png"
       }
     },
@@ -6654,13 +6654,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_destroyer_0_23.png"
       }
     },
@@ -6735,13 +6735,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_1_5.png"
       }
     },
@@ -6816,13 +6816,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_22.png"
       }
     },
@@ -6897,13 +6897,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_0_23.png"
       }
     }
@@ -6981,13 +6981,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_1_45.png"
       }
     },
@@ -7062,13 +7062,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_11.png"
       }
     },
@@ -7143,13 +7143,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_1_19.png"
       }
     },
@@ -7224,13 +7224,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_1_45.png"
       }
     },
@@ -7305,13 +7305,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_1_19.png"
       }
     },
@@ -7386,13 +7386,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_1_19.png"
       }
     },
@@ -7467,13 +7467,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "skill_icon_destroyer_1_19.png"
       }
     },
@@ -7548,13 +7548,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_1_45.png"
       }
     },
@@ -7629,13 +7629,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_1_19.png"
       }
     },
@@ -7710,13 +7710,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_1_19.png"
       }
     },
@@ -7791,13 +7791,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_destroyer_1_19.png"
       }
     }
@@ -7875,13 +7875,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_60.png"
       }
     },
@@ -7956,13 +7956,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_60.png"
       }
     },
@@ -8037,13 +8037,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_60.png"
       }
     },
@@ -8118,13 +8118,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_0_60.png"
       }
     },
@@ -8199,13 +8199,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_60.png"
       }
     },
@@ -8280,13 +8280,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_60.png"
       }
     },
@@ -8361,13 +8361,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_60.png"
       }
     }
@@ -8384,7 +8384,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Catch_1000",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -8445,13 +8445,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -8465,7 +8465,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Catch_2000",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -8526,13 +8526,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -8546,7 +8546,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Destroyer_Catch_0200",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -8607,13 +8607,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -8627,7 +8627,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Destroyer_Catch_0300",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -8688,13 +8688,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -8708,7 +8708,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "Destroyer_Catch_0030",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -8769,13 +8769,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -8789,7 +8789,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Destroyer_Catch_4000",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -8850,13 +8850,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -8870,7 +8870,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Catch_5000",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -8931,13 +8931,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -8951,7 +8951,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Destroyer_Catch_0500",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -9012,13 +9012,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -9032,7 +9032,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "35",
         "tooltip_alias": "Destroyer_Catch_0050",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -9093,13 +9093,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     },
@@ -9113,7 +9113,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "45",
         "tooltip_alias": "Destroyer_Catch_0005",
-        "name2_refine": "장악",
+        "name2_refine": "掴み上げ",
         "variation_level":
         {
           "0": null,
@@ -9174,13 +9174,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  ",
-        "matrix_name": "5급 4초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  ",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_destroyer_1_4.png"
       }
     }
@@ -9197,7 +9197,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Protection_KneelKick_1000",
-        "name2_refine": "무릎차기",
+        "name2_refine": "膝蹴り",
         "variation_level":
         {
           "0": null,
@@ -9258,13 +9258,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 시  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 時  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_59.png"
       }
     },
@@ -9278,7 +9278,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Protection_KneelKick_2000",
-        "name2_refine": "무릎차기",
+        "name2_refine": "膝蹴り",
         "variation_level":
         {
           "0": null,
@@ -9339,13 +9339,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 시  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 時  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_59.png"
       }
     },
@@ -9359,7 +9359,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Destroyer_Protection_KneelKick_0200",
-        "name2_refine": "무릎차기",
+        "name2_refine": "膝蹴り",
         "variation_level":
         {
           "0": null,
@@ -9420,13 +9420,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 회피 시  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 회피 時  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_59.png"
       }
     },
@@ -9440,7 +9440,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Destroyer_Protection_KneelKick_3000",
-        "name2_refine": "무릎차기",
+        "name2_refine": "膝蹴り",
         "variation_level":
         {
           "0": null,
@@ -9501,13 +9501,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 시  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 時  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_0_59.png"
       }
     },
@@ -9521,7 +9521,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "24",
         "tooltip_alias": "Destroyer_Protection_KneelKick_0400",
-        "name2_refine": "무릎차기",
+        "name2_refine": "膝蹴り",
         "variation_level":
         {
           "0": null,
@@ -9582,13 +9582,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 회피 시  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 회피 時  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_0_59.png"
       }
     },
@@ -9602,7 +9602,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Protection_KneelKick_5000",
-        "name2_refine": "무릎차기",
+        "name2_refine": "膝蹴り",
         "variation_level":
         {
           "0": null,
@@ -9663,13 +9663,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 시  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 치명타 時  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_59.png"
       }
     },
@@ -9683,7 +9683,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Destroyer_Protection_KneelKick_0500_Dash",
-        "name2_refine": "무릎차기",
+        "name2_refine": "膝蹴り",
         "variation_level":
         {
           "0": null,
@@ -9744,13 +9744,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 회피 시  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 회피 時  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_59.png"
       }
     }
@@ -9828,13 +9828,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_62.png"
       }
     },
@@ -9909,13 +9909,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_62.png"
       }
     },
@@ -9990,13 +9990,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_62.png"
       }
     },
@@ -10071,13 +10071,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_0_62.png"
       }
     },
@@ -10152,13 +10152,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_0_62.png"
       }
     },
@@ -10233,13 +10233,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_62.png"
       }
     },
@@ -10314,13 +10314,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_62.png"
       }
     }
@@ -10398,13 +10398,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_1_3.png"
       }
     },
@@ -10479,13 +10479,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_3.png"
       }
     },
@@ -10560,13 +10560,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_1_3.png"
       }
     },
@@ -10641,13 +10641,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_1_3.png"
       }
     },
@@ -10722,13 +10722,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_1_3.png"
       }
     },
@@ -10803,13 +10803,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_1_3.png"
       }
     },
@@ -10884,13 +10884,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_1_3.png"
       }
     }
@@ -10968,13 +10968,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_63.png"
       }
     },
@@ -11049,13 +11049,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_63.png"
       }
     },
@@ -11130,13 +11130,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_63.png"
       }
     },
@@ -11211,13 +11211,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_63.png"
       }
     }
@@ -11234,7 +11234,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_1000",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11295,13 +11295,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11315,7 +11315,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_3000",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11376,13 +11376,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압 당한 중  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧 당한 中  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11396,7 +11396,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_0300",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11457,13 +11457,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11477,7 +11477,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_0030",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11538,13 +11538,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11558,7 +11558,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_4000",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11619,13 +11619,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11639,7 +11639,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "24",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_0400",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11700,13 +11700,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11720,7 +11720,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "34",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_0040",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11781,13 +11781,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11801,7 +11801,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_5000",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11862,13 +11862,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11882,7 +11882,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_0500",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -11943,13 +11943,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     },
@@ -11963,7 +11963,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "35",
         "tooltip_alias": "Destroyer_Protection_Escape_RagingWind_0050",
-        "name2_refine": "탈출광풍",
+        "name2_refine": "脱出旋風",
         "variation_level":
         {
           "0": null,
@@ -12024,13 +12024,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_0_48.png"
       }
     }
@@ -12108,13 +12108,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_1_46.png"
       }
     },
@@ -12189,13 +12189,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_46.png"
       }
     },
@@ -12270,13 +12270,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_1_46.png"
       }
     }
@@ -12293,7 +12293,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Protection_Earthquake_1000",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12354,13 +12354,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12374,7 +12374,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Protection_Earthquake_2000",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12435,13 +12435,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12455,7 +12455,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Destroyer_Protection_Earthquake_0200",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12516,13 +12516,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12536,7 +12536,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "Destroyer_Protection_Earthquake_0020",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12597,13 +12597,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 3초식",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12617,7 +12617,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Destroyer_Protection_Earthquake_0300",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12678,13 +12678,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12698,7 +12698,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "Destroyer_Protection_Earthquake_0030",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12759,13 +12759,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12779,7 +12779,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Destroyer_Protection_Earthquake_4000",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12840,13 +12840,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12860,7 +12860,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Destroyer_Protection_Earthquake_5000",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -12921,13 +12921,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -12941,7 +12941,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Destroyer_Protection_Earthquake_0500",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -13002,13 +13002,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     },
@@ -13022,7 +13022,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "35",
         "tooltip_alias": "Destroyer_Protection_Earthquake_0050",
-        "name2_refine": "지진",
+        "name2_refine": "地震",
         "variation_level":
         {
           "0": null,
@@ -13083,13 +13083,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_destroyer_0_5.png"
       }
     }
@@ -13106,7 +13106,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Destroyer_Catch_Rcombo_1000",
-        "name2_refine": "쐐기",
+        "name2_refine": "くさび",
         "variation_level":
         {
           "0": null,
@@ -13167,13 +13167,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 사용 시  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  <br/><img src=\'./img/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 使用 時  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_destroyer_1_18.png"
       }
     },
@@ -13187,7 +13187,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Destroyer_Catch_Rcombo_2000",
-        "name2_refine": "쐐기",
+        "name2_refine": "くさび",
         "variation_level":
         {
           "0": null,
@@ -13248,13 +13248,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 사용 시  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  <br/><img src=\'./img/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 使用 時  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_destroyer_1_18.png"
       }
     },
@@ -13268,7 +13268,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Destroyer_Catch_Rcombo_0200",
-        "name2_refine": "쐐기",
+        "name2_refine": "くさび",
         "variation_level":
         {
           "0": null,
@@ -13329,13 +13329,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 사용 시  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  <br/><img src=\'./img/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 使用 時  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_destroyer_1_18.png"
       }
     },
@@ -13349,7 +13349,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Destroyer_Catch_Rcombo_3000",
-        "name2_refine": "쐐기",
+        "name2_refine": "くさび",
         "variation_level":
         {
           "0": null,
@@ -13410,13 +13410,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 사용 시  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  <br/><img src=\'./img/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 使用 時  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_destroyer_1_18.png"
       }
     },
@@ -13430,7 +13430,7 @@ var slot_data_DE = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Destroyer_Catch_Rcombo_0300",
-        "name2_refine": "쐐기",
+        "name2_refine": "くさび",
         "variation_level":
         {
           "0": null,
@@ -13491,13 +13491,13 @@ var slot_data_DE = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "파괴",
+          "0": "天誅",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 장악 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 사용 시  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_destroyer_1_4.png\' class=\'icon_in_description\' /> 掴み上げ 中  <br/><img src=\'./img/skill_icon_destroyer_0_24.png\' class=\'icon_in_description\' /> 철벽 使用 時  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_destroyer_1_18.png"
       }
     }

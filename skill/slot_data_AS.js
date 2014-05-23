@@ -11,7 +11,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv11",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -77,8 +77,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -92,7 +92,7 @@ var slot_data_AS = {
         "max_variation_level": "2",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv12",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -158,8 +158,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       },
       "2":
@@ -170,7 +170,7 @@ var slot_data_AS = {
         "max_variation_level": "2",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv13",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -236,8 +236,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -251,7 +251,7 @@ var slot_data_AS = {
         "max_variation_level": "2",
         "variation_id": "21",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv21",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -317,8 +317,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       },
       "2":
@@ -329,7 +329,7 @@ var slot_data_AS = {
         "max_variation_level": "2",
         "variation_id": "22",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv22",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -395,8 +395,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -410,7 +410,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv14",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -476,8 +476,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -491,7 +491,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv23",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -557,8 +557,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -572,7 +572,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv15",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -638,8 +638,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -653,7 +653,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "24",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv24",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -719,8 +719,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -734,7 +734,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "16",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv16",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -791,8 +791,8 @@ var slot_data_AS = {
           "0": "25000"
         },
         "complete_quest_desc": "Item.AcquirePlace.0028",
-        "complete_quest_name_refine": "안개베기 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
+        "complete_quest_name_refine": "霧斬り 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 나선의 미궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
@@ -800,8 +800,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     },
@@ -815,7 +815,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "25",
         "tooltip_alias": "Assassin_Disturb_MistSlash_Lv25",
-        "name2_refine": "안개베기",
+        "name2_refine": "霧斬り",
         "variation_level":
         {
           "0": null,
@@ -872,8 +872,8 @@ var slot_data_AS = {
           "0": "25000"
         },
         "complete_quest_desc": "Item.AcquirePlace.0226",
-        "complete_quest_name_refine": "안개베기 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
+        "complete_quest_name_refine": "霧斬り 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 희생의 무덤 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
@@ -881,8 +881,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_4.png"
       }
     }
@@ -899,7 +899,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv11",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -961,12 +961,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -980,7 +980,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv12",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1042,12 +1042,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -1061,7 +1061,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv31",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1123,12 +1123,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 3초식",
+        "matrix_name": "2급 3秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -1142,7 +1142,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv13",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1204,12 +1204,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -1285,12 +1285,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_50.png"
       }
     },
@@ -1304,7 +1304,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv32",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1366,12 +1366,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -1385,7 +1385,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv14",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1447,12 +1447,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -1528,12 +1528,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_50.png"
       }
     },
@@ -1547,7 +1547,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv33",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1609,12 +1609,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -1628,7 +1628,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv15",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1685,17 +1685,17 @@ var slot_data_AS = {
           "0": "25003"
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
-        "complete_quest_name_refine": "심장찌르기편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_name_refine": "刺心편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     },
@@ -1767,16 +1767,16 @@ var slot_data_AS = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0398",
         "complete_quest_name_refine": "진천뢰편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 부유도 계급 전용상인",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_50.png"
       }
     },
@@ -1790,7 +1790,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "34",
         "tooltip_alias": "Assassin_Disturb_HeartStab_Lv34",
-        "name2_refine": "심장찌르기",
+        "name2_refine": "刺心",
         "variation_level":
         {
           "0": null,
@@ -1847,17 +1847,17 @@ var slot_data_AS = {
           "0": "25003"
         },
         "complete_quest_desc": "Item.AcquirePlace.0114",
-        "complete_quest_name_refine": "심장찌르기편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
+        "complete_quest_name_refine": "刺心편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 비탄의 설옥궁 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_8.png"
       }
     }
@@ -1874,7 +1874,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv11",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -1936,12 +1936,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -1955,7 +1955,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv12",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2017,12 +2017,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2036,7 +2036,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv21",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2098,12 +2098,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2117,7 +2117,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv31",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2179,12 +2179,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2198,7 +2198,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv13",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2260,12 +2260,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2279,7 +2279,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv22",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2341,12 +2341,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2360,7 +2360,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv32",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2422,12 +2422,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2441,7 +2441,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv14",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2498,17 +2498,17 @@ var slot_data_AS = {
           "0": "25005"
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
-        "complete_quest_name_refine": "나무토막 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_name_refine": "変わり身の術 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2522,7 +2522,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv23",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2579,17 +2579,17 @@ var slot_data_AS = {
           "0": "25005"
         },
         "complete_quest_desc": "Item.AcquirePlace.0121",
-        "complete_quest_name_refine": "나무토막 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
+        "complete_quest_name_refine": "変わり身の術 2편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 설인의 동굴 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     },
@@ -2603,7 +2603,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "Assassin_Disturb_WoodBlock_Lv33",
-        "name2_refine": "나무토막",
+        "name2_refine": "変わり身の術",
         "variation_level":
         {
           "0": null,
@@ -2660,17 +2660,17 @@ var slot_data_AS = {
           "0": "25005"
         },
         "complete_quest_desc": "Item.AcquirePlace.0119",
-        "complete_quest_name_refine": "나무토막 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
+        "complete_quest_name_refine": "変わり身の術 1편",
+        "complete_quest_desc_refine": "<img src=\"./img/map_npc_merchant.png\" class=\"icon_in_description\" /> 선두 교환원",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_17.png"
       }
     }
@@ -2687,7 +2687,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Hide_Mine_Lv11",
-        "name2_refine": "지뢰",
+        "name2_refine": "地雷",
         "variation_level":
         {
           "0": null,
@@ -2749,12 +2749,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_28.png"
       }
     },
@@ -2768,7 +2768,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Hide_Mine_Lv12",
-        "name2_refine": "지뢰",
+        "name2_refine": "地雷",
         "variation_level":
         {
           "0": null,
@@ -2830,12 +2830,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_28.png"
       }
     },
@@ -2849,7 +2849,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "Assassin_Hide_Mine_Lv21",
-        "name2_refine": "투척 지뢰",
+        "name2_refine": "투척 地雷",
         "variation_level":
         {
           "0": null,
@@ -2911,12 +2911,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_64.png"
       }
     },
@@ -2992,12 +2992,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 4초식",
+        "matrix_name": "2급 4秒식",
         "training_icon": "skill_icon_assassin_0_13.png"
       }
     },
@@ -3011,7 +3011,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Hide_Mine_Lv13",
-        "name2_refine": "지뢰",
+        "name2_refine": "地雷",
         "variation_level":
         {
           "0": null,
@@ -3073,12 +3073,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_28.png"
       }
     },
@@ -3092,7 +3092,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Assassin_Hide_Mine_Lv22",
-        "name2_refine": "투척 지뢰",
+        "name2_refine": "투척 地雷",
         "variation_level":
         {
           "0": null,
@@ -3154,12 +3154,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_64.png"
       }
     },
@@ -3173,7 +3173,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "Assassin_Hide_Mine_Lv31",
-        "name2_refine": "투척 지뢰",
+        "name2_refine": "투척 地雷",
         "variation_level":
         {
           "0": null,
@@ -3235,12 +3235,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_64.png"
       }
     },
@@ -3316,12 +3316,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 4초식",
+        "matrix_name": "3급 4秒식",
         "training_icon": "skill_icon_assassin_0_13.png"
       }
     },
@@ -3397,12 +3397,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 4초식",
+        "matrix_name": "4급 4秒식",
         "training_icon": "skill_icon_assassin_0_13.png"
       }
     },
@@ -3416,7 +3416,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Hide_Mine_Lv14",
-        "name2_refine": "지뢰",
+        "name2_refine": "地雷",
         "variation_level":
         {
           "0": null,
@@ -3478,12 +3478,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_28.png"
       }
     },
@@ -3497,7 +3497,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Assassin_Hide_Mine_Lv23",
-        "name2_refine": "투척 지뢰",
+        "name2_refine": "투척 地雷",
         "variation_level":
         {
           "0": null,
@@ -3559,12 +3559,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_64.png"
       }
     },
@@ -3578,7 +3578,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "Assassin_Hide_Mine_Lv32",
-        "name2_refine": "투척 지뢰",
+        "name2_refine": "투척 地雷",
         "variation_level":
         {
           "0": null,
@@ -3640,12 +3640,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_64.png"
       }
     },
@@ -3721,12 +3721,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_assassin_0_13.png"
       }
     }
@@ -3805,12 +3805,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -3886,12 +3886,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -3967,12 +3967,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 2초식",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4048,12 +4048,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       },
       "2":
@@ -4126,12 +4126,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4207,12 +4207,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4288,12 +4288,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4369,12 +4369,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4450,12 +4450,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4531,12 +4531,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4608,16 +4608,16 @@ var slot_data_AS = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "그림자베기 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4689,16 +4689,16 @@ var slot_data_AS = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0375",
         "complete_quest_name_refine": "그림자베기 1편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 부유도 고대용의 무덤 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     },
@@ -4770,16 +4770,16 @@ var slot_data_AS = {
         },
         "complete_quest_desc": "Item.AcquirePlace.0020",
         "complete_quest_name_refine": "그림자베기 2편",
-        "complete_quest_desc_refine": "<img src=\"http://static.plaync.co.kr/powerbook/bns/ui_resource/item_tooltip/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
+        "complete_quest_desc_refine": "<img src=\"./img/map_unit_partycamp.png\" class=\"icon_in_description\" /> 귀문관의 악몽 4인 파티",
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_12.png"
       }
     }
@@ -4796,7 +4796,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_Dash_Lv11",
-        "name2_refine": "잠입",
+        "name2_refine": "ハイド",
         "variation_level":
         {
           "0": null,
@@ -4858,12 +4858,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_33.png"
       }
     },
@@ -4877,7 +4877,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_Dash_Lv12",
-        "name2_refine": "잠입",
+        "name2_refine": "ハイド",
         "variation_level":
         {
           "0": null,
@@ -4939,12 +4939,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_33.png"
       }
     },
@@ -5020,12 +5020,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_1.png"
       }
     },
@@ -5039,7 +5039,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_Dash_Lv13",
-        "name2_refine": "잠입",
+        "name2_refine": "ハイド",
         "variation_level":
         {
           "0": null,
@@ -5101,12 +5101,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_33.png"
       }
     },
@@ -5182,12 +5182,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_1.png"
       }
     },
@@ -5263,12 +5263,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_1.png"
       }
     },
@@ -5282,7 +5282,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_Dash_Lv14",
-        "name2_refine": "잠입",
+        "name2_refine": "ハイド",
         "variation_level":
         {
           "0": null,
@@ -5344,12 +5344,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_33.png"
       }
     },
@@ -5425,12 +5425,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_1.png"
       }
     },
@@ -5506,12 +5506,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_1.png"
       }
     },
@@ -5525,7 +5525,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Assassin_Disturb_Dash_Lv15",
-        "name2_refine": "잠입",
+        "name2_refine": "ハイド",
         "variation_level":
         {
           "0": null,
@@ -5587,12 +5587,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_33.png"
       }
     },
@@ -5668,12 +5668,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_1.png"
       }
     },
@@ -5749,12 +5749,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_1.png"
       }
     }
@@ -5771,7 +5771,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv11",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -5834,12 +5834,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -5853,7 +5853,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv12",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -5916,12 +5916,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -5935,7 +5935,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv13",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -5998,12 +5998,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6017,7 +6017,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv21",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -6080,12 +6080,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6162,12 +6162,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6181,7 +6181,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv14",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -6244,12 +6244,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6263,7 +6263,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv22",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -6326,12 +6326,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6408,12 +6408,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6489,13 +6489,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "4급 4초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "4급 4秒식",
         "training_icon": "skill_icon_assassin_1_8.png"
       }
     },
@@ -6509,7 +6509,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv15",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -6572,12 +6572,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6591,7 +6591,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Assassin_Disturb_ShadowDance_Lv23",
-        "name2_refine": "연화난무",
+        "name2_refine": "연화乱舞",
         "variation_level":
         {
           "0": null,
@@ -6654,12 +6654,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6736,12 +6736,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_60.png"
       }
     },
@@ -6817,13 +6817,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "5급 4초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_assassin_1_8.png"
       }
     }
@@ -6902,12 +6902,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -6983,12 +6983,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7064,12 +7064,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7145,12 +7145,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7226,12 +7226,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7307,12 +7307,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7388,12 +7388,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7469,12 +7469,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7550,12 +7550,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     },
@@ -7631,12 +7631,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_31.png"
       }
     }
@@ -7653,7 +7653,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_PoisonBreath_Lv11",
-        "name2_refine": "풍독술",
+        "name2_refine": "毒霧",
         "variation_level":
         {
           "0": null,
@@ -7719,8 +7719,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_41.png"
       }
     },
@@ -7734,7 +7734,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_PoisonBreath_Lv12",
-        "name2_refine": "풍독술",
+        "name2_refine": "毒霧",
         "variation_level":
         {
           "0": null,
@@ -7800,8 +7800,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_41.png"
       }
     },
@@ -7815,7 +7815,7 @@ var slot_data_AS = {
         "max_variation_level": "2",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_PoisonBreath_Lv13",
-        "name2_refine": "풍독술",
+        "name2_refine": "毒霧",
         "variation_level":
         {
           "0": null,
@@ -7881,8 +7881,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_41.png"
       },
       "2":
@@ -7893,7 +7893,7 @@ var slot_data_AS = {
         "max_variation_level": "2",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_PoisonBreath_Lv14",
-        "name2_refine": "풍독술",
+        "name2_refine": "毒霧",
         "variation_level":
         {
           "0": null,
@@ -7959,8 +7959,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_41.png"
       }
     },
@@ -8040,8 +8040,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_59.png"
       }
     },
@@ -8055,7 +8055,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Assassin_Disturb_PoisonBreath_Lv15",
-        "name2_refine": "풍독술",
+        "name2_refine": "毒霧",
         "variation_level":
         {
           "0": null,
@@ -8121,8 +8121,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_41.png"
       }
     },
@@ -8202,8 +8202,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_59.png"
       }
     },
@@ -8217,7 +8217,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "16",
         "tooltip_alias": "Assassin_Disturb_PoisonBreath_Lv16",
-        "name2_refine": "풍독술",
+        "name2_refine": "毒霧",
         "variation_level":
         {
           "0": null,
@@ -8283,8 +8283,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_41.png"
       }
     },
@@ -8364,8 +8364,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_59.png"
       }
     }
@@ -8382,7 +8382,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_Shunpo_Lv11",
-        "name2_refine": "순보",
+        "name2_refine": "瞬歩",
         "variation_level":
         {
           "0": null,
@@ -8444,12 +8444,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_1_6.png"
       }
     },
@@ -8463,7 +8463,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_Shunpo_Lv12",
-        "name2_refine": "순보",
+        "name2_refine": "瞬歩",
         "variation_level":
         {
           "0": null,
@@ -8525,12 +8525,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_1_6.png"
       }
     },
@@ -8606,12 +8606,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_1_7.png"
       }
     },
@@ -8625,7 +8625,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_Shunpo_Lv13",
-        "name2_refine": "순보",
+        "name2_refine": "瞬歩",
         "variation_level":
         {
           "0": null,
@@ -8687,12 +8687,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_1_6.png"
       }
     },
@@ -8768,12 +8768,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_1_7.png"
       }
     },
@@ -8787,7 +8787,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_Shunpo_Lv14",
-        "name2_refine": "순보",
+        "name2_refine": "瞬歩",
         "variation_level":
         {
           "0": null,
@@ -8849,12 +8849,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_1_6.png"
       }
     },
@@ -8868,7 +8868,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "Assassin_Disturb_Shunpo_Lv21",
-        "name2_refine": "순보",
+        "name2_refine": "瞬歩",
         "variation_level":
         {
           "0": null,
@@ -8930,12 +8930,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_1_6.png"
       }
     },
@@ -9011,12 +9011,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_1_7.png"
       }
     }
@@ -9033,7 +9033,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_Shuriken_Lv11",
-        "name2_refine": "수리검",
+        "name2_refine": "手裏剣",
         "variation_level":
         {
           "0": null,
@@ -9097,12 +9097,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_7.png"
       }
     },
@@ -9116,7 +9116,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_Shuriken_Lv12",
-        "name2_refine": "수리검",
+        "name2_refine": "手裏剣",
         "variation_level":
         {
           "0": null,
@@ -9180,12 +9180,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_1_1.png"
       }
     },
@@ -9199,7 +9199,7 @@ var slot_data_AS = {
         "max_variation_level": "0",
         "variation_id": "1",
         "tooltip_alias": "Assassin_Disturb_ShadowShuriken_Lv1",
-        "name2_refine": "그림자 수리검",
+        "name2_refine": "影手裏剣",
         "variation_level":
         {
           "0": null,
@@ -9263,12 +9263,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_13.png\' class=\'icon_in_description\' /> 적 그림자  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_13.png\' class=\'icon_in_description\' /> 적 影 ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_1_11.png"
       }
     },
@@ -9282,7 +9282,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_Shuriken_Lv13",
-        "name2_refine": "수리검",
+        "name2_refine": "手裏剣",
         "variation_level":
         {
           "0": null,
@@ -9346,12 +9346,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_1_1.png"
       }
     },
@@ -9365,7 +9365,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "Assassin_Disturb_ShadowStep_Lv21",
-        "name2_refine": "그림자 밟기",
+        "name2_refine": "影踏み",
         "variation_level":
         {
           "0": null,
@@ -9429,12 +9429,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_1_12.png"
       }
     },
@@ -9448,7 +9448,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "Assassin_Disturb_Shuriken_Lv31",
-        "name2_refine": "수리검",
+        "name2_refine": "手裏剣",
         "variation_level":
         {
           "0": null,
@@ -9512,12 +9512,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_7.png"
       }
     },
@@ -9531,7 +9531,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_Shuriken_Lv14",
-        "name2_refine": "수리검",
+        "name2_refine": "手裏剣",
         "variation_level":
         {
           "0": null,
@@ -9595,12 +9595,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_1_1.png"
       }
     },
@@ -9614,7 +9614,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Assassin_Disturb_ShadowStep_Lv22",
-        "name2_refine": "그림자 밟기",
+        "name2_refine": "影踏み",
         "variation_level":
         {
           "0": null,
@@ -9678,12 +9678,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_1_12.png"
       }
     },
@@ -9697,7 +9697,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "Assassin_Disturb_ShadowStep_Lv31",
-        "name2_refine": "그림자 밟기",
+        "name2_refine": "影踏み",
         "variation_level":
         {
           "0": null,
@@ -9761,12 +9761,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_1_12.png"
       }
     }
@@ -9783,7 +9783,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Disturb_HideEscape_Down_Lv11",
-        "name2_refine": "은신",
+        "name2_refine": "閃光",
         "variation_level":
         {
           "0": null,
@@ -9849,8 +9849,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_2.png"
       }
     },
@@ -9864,7 +9864,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Disturb_HideEscape_Down_Lv12",
-        "name2_refine": "은신",
+        "name2_refine": "閃光",
         "variation_level":
         {
           "0": null,
@@ -9930,8 +9930,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_2.png"
       }
     },
@@ -9945,7 +9945,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Disturb_HideEscape_Down_Lv13",
-        "name2_refine": "은신",
+        "name2_refine": "閃光",
         "variation_level":
         {
           "0": null,
@@ -10011,8 +10011,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_2.png"
       }
     },
@@ -10026,7 +10026,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Disturb_HideEscape_Down_Lv14",
-        "name2_refine": "은신",
+        "name2_refine": "閃光",
         "variation_level":
         {
           "0": null,
@@ -10092,8 +10092,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_2.png"
       }
     },
@@ -10107,7 +10107,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Assassin_Disturb_HideEscape_Down_Lv15",
-        "name2_refine": "은신",
+        "name2_refine": "閃光",
         "variation_level":
         {
           "0": null,
@@ -10173,8 +10173,8 @@ var slot_data_AS = {
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 기절, 그로기, 혼절 중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶, グロッキー, 気絶 中  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_2.png"
       }
     }
@@ -10252,13 +10252,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_22.png"
       }
     },
@@ -10333,13 +10333,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_22.png"
       }
     },
@@ -10414,13 +10414,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_22.png"
       }
     },
@@ -10495,13 +10495,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_22.png"
       }
     },
@@ -10576,13 +10576,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_22.png"
       }
     },
@@ -10657,13 +10657,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_22.png"
       }
     },
@@ -10738,13 +10738,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_22.png"
       }
     }
@@ -10761,7 +10761,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "11",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv11",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -10822,13 +10822,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "1급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -10842,7 +10842,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "12",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv12",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -10903,13 +10903,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "2급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -10923,7 +10923,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "21",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv21",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -10984,13 +10984,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "2급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "2급 2秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11004,7 +11004,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "13",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv13",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11065,13 +11065,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "3급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11085,7 +11085,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "22",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv22",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11146,13 +11146,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "3급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11166,7 +11166,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "31",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv31",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11227,13 +11227,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "3급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11247,7 +11247,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "14",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv14",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11308,13 +11308,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "4급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11328,7 +11328,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "23",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv23",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11389,13 +11389,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "4급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11409,7 +11409,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "32",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv32",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11470,13 +11470,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "4급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11490,7 +11490,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "15",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv15",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11551,13 +11551,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "5급 1초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11571,7 +11571,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "24",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv24",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11632,13 +11632,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "5급 2초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     },
@@ -11652,7 +11652,7 @@ var slot_data_AS = {
         "max_variation_level": "1",
         "variation_id": "33",
         "tooltip_alias": "Assassin_Hide_SpineStab_Lv33",
-        "name2_refine": "척추찌르기",
+        "name2_refine": "背刺",
         "variation_level":
         {
           "0": null,
@@ -11713,13 +11713,13 @@ var slot_data_AS = {
         "complete_quest_desc_refine": null,
         "tooltip_stance_type":
         {
-          "0": "은신",
+          "0": "閃光",
           "1": null,
           "2": null
         },
         "tooltip_stance_refine": "",
-        "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  ",
-        "matrix_name": "5급 3초식",
+        "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  ",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_21.png"
       }
     }
@@ -11798,12 +11798,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "1급 1초식",
+        "matrix_name": "1급 1秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -11879,12 +11879,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "2급 1초식",
+        "matrix_name": "2급 1秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -11960,12 +11960,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 1초식",
+        "matrix_name": "3급 1秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -12041,12 +12041,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 2초식",
+        "matrix_name": "3급 2秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -12122,12 +12122,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "3급 3초식",
+        "matrix_name": "3급 3秒식",
         "training_icon": "skill_icon_assassin_0_55.png"
       }
     },
@@ -12203,12 +12203,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 1초식",
+        "matrix_name": "4급 1秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -12284,12 +12284,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 2초식",
+        "matrix_name": "4급 2秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -12365,12 +12365,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "4급 3초식",
+        "matrix_name": "4급 3秒식",
         "training_icon": "skill_icon_assassin_0_55.png"
       }
     },
@@ -12446,12 +12446,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 1초식",
+        "matrix_name": "5급 1秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -12527,12 +12527,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 2초식",
+        "matrix_name": "5급 2秒식",
         "training_icon": "skill_icon_assassin_0_42.png"
       }
     },
@@ -12608,12 +12608,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 3초식",
+        "matrix_name": "5급 3秒식",
         "training_icon": "skill_icon_assassin_0_55.png"
       }
     },
@@ -12689,12 +12689,12 @@ var slot_data_AS = {
         "tooltip_stance_type":
         {
           "0": "교란",
-          "1": "은신",
+          "1": "閃光",
           "2": null
         },
         "tooltip_stance_refine": null,
         "tooltip_condition_refine": null,
-        "matrix_name": "5급 4초식",
+        "matrix_name": "5급 4秒식",
         "training_icon": "skill_icon_assassin_1_9.png"
       }
     }

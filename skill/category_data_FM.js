@@ -194,7 +194,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_1.png\' class=\'icon_in_description\' /> 중력장 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_1_1.png\' class=\'icon_in_description\' /> 중력장 使用 後  "
   },
   "22300":
   {
@@ -253,7 +253,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "22312":
   {
@@ -277,7 +277,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "22239":
   {
@@ -305,13 +305,13 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
   },
   "22136":
   {
     "skill_id": "22136",
     "tree_id": "1",
-    "name2_refine": "뒤구르기",
+    "name2_refine": "後転",
     "pc_level": "12",
     "pc_mastery_level": "0",
     "complete_quest": null,
@@ -329,7 +329,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 그로기, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, グロッキー, 気絶 中  "
   },
   "22237":
   {
@@ -357,7 +357,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
   },
   "22117":
   {
@@ -381,7 +381,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> 질주 점프, 활강 중  "
+    "tooltip_condition_refine": "<img src=\'./img/default_icon_00_24.png\' class=\'icon_in_description\' /> 질주 점프, 활강 中  "
   },
   "22243":
   {
@@ -438,7 +438,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
   },
   "22380":
   {
@@ -472,7 +472,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  "
   },
   "22241":
   {
@@ -506,7 +506,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
   },
   "22265":
   {
@@ -540,7 +540,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 한기 계열 무공 치명타 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  <br/><img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 한기 계열 무공 치명타 時  "
   },
   "22381":
   {
@@ -568,7 +568,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 화기 계열 무공 치명타 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  <br/><img src=\'./img/buff_debuff_icon_01_1.png\' class=\'icon_in_description\' /> 화기 계열 무공 치명타 時  "
   },
   "22141":
   {
@@ -592,7 +592,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  "
   },
   "22266":
   {
@@ -623,7 +623,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
   },
   "22110":
   {
@@ -657,7 +657,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
   },
   "22221":
   {
@@ -681,7 +681,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "22238":
   {
@@ -719,7 +719,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
   },
   "22244":
   {
@@ -791,7 +791,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "22249":
   {
@@ -823,7 +823,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
   },
   "22250":
   {
@@ -852,7 +852,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  "
   },
   "22260":
   {
@@ -881,7 +881,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_30.png\' class=\'icon_in_description\' /> 결빙공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_60.png\' class=\'icon_in_description\' /> 한기 운용 자세  <br/><img src=\'./img/skill_icon_forcemaster_0_30.png\' class=\'icon_in_description\' /> 결빙공 中  "
   },
   "22345":
   {
@@ -905,7 +905,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_0_1.png\' class=\'icon_in_description\' /> 흡공 中  "
   },
   "22120":
   {
@@ -932,7 +932,7 @@ var category_data_FM = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_59.png\' class=\'icon_in_description\' /> 화기 운용 자세  "
   },
   "22125":
   {
@@ -963,7 +963,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  <br/><img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "22392":
   {
@@ -987,7 +987,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_3.png\' class=\'icon_in_description\' /> 빙옥 3 중첩  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_1_3.png\' class=\'icon_in_description\' /> 빙옥 3 중첩  "
   },
   "22390":
   {
@@ -1011,7 +1011,7 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_2.png\' class=\'icon_in_description\' /> 염옥 3 중첩  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_1_2.png\' class=\'icon_in_description\' /> 염옥 3 중첩  "
   },
   "22394":
   {
@@ -1035,6 +1035,6 @@ var category_data_FM = {
       "2": "화기"
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 염옥, 빙옥 3 중첩  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_forcemaster_1_4.png\' class=\'icon_in_description\' /> 염옥, 빙옥 3 중첩  "
   }
 };

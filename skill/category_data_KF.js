@@ -3,7 +3,7 @@ var category_data_KF = {
   {
     "skill_id": "21000",
     "tree_id": "21000",
-    "name2_refine": "정권",
+    "name2_refine": "正拳",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -38,7 +38,7 @@ var category_data_KF = {
   {
     "skill_id": "21005",
     "tree_id": "21005",
-    "name2_refine": "반격",
+    "name2_refine": "截拳",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -76,7 +76,7 @@ var category_data_KF = {
   {
     "skill_id": "21111",
     "tree_id": "21111",
-    "name2_refine": "폭권",
+    "name2_refine": "暴拳",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -112,7 +112,7 @@ var category_data_KF = {
   {
     "skill_id": "21019",
     "tree_id": "1",
-    "name2_refine": "밟기",
+    "name2_refine": "踏む",
     "pc_level": "4",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -130,7 +130,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 적 탈진  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_11.png\' class=\'icon_in_description\' /> 적 탈진  "
   },
   "21115":
   {
@@ -167,7 +167,7 @@ var category_data_KF = {
   {
     "skill_id": "21009",
     "tree_id": "21009",
-    "name2_refine": "제압",
+    "name2_refine": "制圧",
     "pc_level": "6",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -194,7 +194,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절, 다운, 혼절  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶, ダウン, 気絶  "
   },
   "21106":
   {
@@ -247,13 +247,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "21142":
   {
     "skill_id": "21142",
     "tree_id": "1",
-    "name2_refine": "연타",
+    "name2_refine": "連打",
     "pc_level": "6",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -271,7 +271,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "21143":
   {
@@ -295,7 +295,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "21158":
   {
@@ -321,7 +321,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  "
   },
   "21406":
   {
@@ -347,7 +347,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 장악, 흡공  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 掴み上げ, 흡공  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  "
   },
   "21055":
   {
@@ -410,13 +410,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 다운, 혼절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, ダウン, 気絶  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "21107":
   {
     "skill_id": "21107",
     "tree_id": "21107",
-    "name2_refine": "후방이동",
+    "name2_refine": "後方移動",
     "pc_level": "8",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -443,7 +443,7 @@ var category_data_KF = {
   {
     "skill_id": "21007",
     "tree_id": "1",
-    "name2_refine": "전질보",
+    "name2_refine": "迅歩拳",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -467,7 +467,7 @@ var category_data_KF = {
   {
     "skill_id": "21110",
     "tree_id": "21110",
-    "name2_refine": "철산고",
+    "name2_refine": "鉄山靠",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -495,13 +495,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 반격 성공 시  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_7.png\' class=\'icon_in_description\' /> 截拳 성공 時  "
   },
   "21200":
   {
     "skill_id": "21200",
     "tree_id": "21200",
-    "name2_refine": "파고들기",
+    "name2_refine": "幽歩",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -529,7 +529,7 @@ var category_data_KF = {
   {
     "skill_id": "21201",
     "tree_id": "21200",
-    "name2_refine": "횡이동",
+    "name2_refine": "鬼歩",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -557,7 +557,7 @@ var category_data_KF = {
   {
     "skill_id": "21108",
     "tree_id": "21108",
-    "name2_refine": "붕권",
+    "name2_refine": "崩拳",
     "pc_level": "12",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -594,7 +594,7 @@ var category_data_KF = {
   {
     "skill_id": "21133",
     "tree_id": "1",
-    "name2_refine": "뒤구르기",
+    "name2_refine": "後転",
     "pc_level": "12",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -612,13 +612,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 그로기, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, グロッキー, 気絶 中  "
   },
   "21285":
   {
     "skill_id": "21285",
     "tree_id": "1",
-    "name2_refine": "날아차기",
+    "name2_refine": "流星迂月",
     "pc_level": "12",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -637,13 +637,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> 경공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/default_icon_00_24.png\' class=\'icon_in_description\' /> 경공 中  "
   },
   "21112":
   {
     "skill_id": "21112",
     "tree_id": "21112",
-    "name2_refine": "삼연각",
+    "name2_refine": "山崩し",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -666,13 +666,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  "
   },
   "21125":
   {
     "skill_id": "21125",
     "tree_id": "1",
-    "name2_refine": "붕격",
+    "name2_refine": "崩勁拳",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -690,7 +690,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_46.png\' class=\'icon_in_description\' /> 삼연각, 화염각 사용 후  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> 막기 시  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_46.png\' class=\'icon_in_description\' /> 山崩し, 화염각 使用 後  <br/><img src=\'./img/buff_debuff_icon_00_29.png\' class=\'icon_in_description\' /> 막기 時  "
   },
   "21132":
   {
@@ -714,7 +714,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "21175":
   {
@@ -738,7 +738,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 掴み上げ, 吸功を受けている最中  "
   },
   "21205":
   {
@@ -773,13 +773,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  "
   },
   "21030":
   {
     "skill_id": "21030",
     "tree_id": "21030",
-    "name2_refine": "회천각",
+    "name2_refine": "回天脚",
     "pc_level": "16",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -802,13 +802,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 使用 後  "
   },
   "21134":
   {
     "skill_id": "21134",
     "tree_id": "1",
-    "name2_refine": "반달차기",
+    "name2_refine": "半月蹴り",
     "pc_level": "16",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -826,7 +826,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "21145":
   {
@@ -880,13 +880,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 붕격 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_0_44.png\' class=\'icon_in_description\' /> 崩勁拳 使用 後  "
   },
   "21256":
   {
     "skill_id": "21256",
     "tree_id": "1",
-    "name2_refine": "돌려차기",
+    "name2_refine": "迅火脚",
     "pc_level": "18",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -904,13 +904,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_3.png\' class=\'icon_in_description\' /> 통배권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 철산고 3급 2초식 사용 후  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_0_63.png\' class=\'icon_in_description\' /> 맹호장 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_kungfufighter_1_3.png\' class=\'icon_in_description\' /> 통배권 치명타 時  <br/><img src=\'./img/skill_icon_kungfufighter_0_2.png\' class=\'icon_in_description\' /> 鉄山靠 3급 2秒식 使用 後  <br/><img src=\'./img/skill_icon_kungfufighter_0_63.png\' class=\'icon_in_description\' /> 맹호장 使用 後  "
   },
   "21166":
   {
     "skill_id": "21166",
     "tree_id": "1",
-    "name2_refine": "비상격",
+    "name2_refine": "飛天脚",
     "pc_level": "20",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -928,7 +928,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  "
   },
   "21180":
   {
@@ -952,7 +952,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  "
   },
   "21181":
   {
@@ -976,7 +976,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "21182":
   {
@@ -1000,13 +1000,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "21136":
   {
     "skill_id": "21136",
     "tree_id": "1",
-    "name2_refine": "조르기",
+    "name2_refine": "鎖喉",
     "pc_level": "26",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -1024,7 +1024,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "21070":
   {
@@ -1056,7 +1056,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동, 뒤구르기 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  <br/><img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動, 後転 使用 後  "
   },
   "21146":
   {
@@ -1080,7 +1080,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> 회피 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> 회피 時  "
   },
   "21385":
   {
@@ -1104,7 +1104,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動 使用 後  "
   },
   "21060":
   {
@@ -1196,7 +1196,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "21144":
   {
@@ -1220,7 +1220,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "21114":
   {
@@ -1244,13 +1244,13 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "21090":
   {
     "skill_id": "21090",
     "tree_id": "1",
-    "name2_refine": "공중제압",
+    "name2_refine": "공중制圧",
     "pc_level": "42",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -1268,7 +1268,7 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "21609":
   {
@@ -1296,6 +1296,6 @@ var category_data_KF = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 후방이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 파고들기, 횡이동으로 저항 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 시  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2초식 사용 후  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 권무, 後方移動으로 抵抗 時  <br/><img src=\'./img/buff_debuff_icon_03_33.png\' class=\'icon_in_description\' /> 幽歩, 鬼歩으로 抵抗 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_24.png\' class=\'icon_in_description\' /> 통배권 명중 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_43.png\' class=\'icon_in_description\' /> 진격권 치명타 時  <br/><img src=\'./img/skill_icon_kungfufighter_1_41.png\' class=\'icon_in_description\' /> 발목강타 4급 2秒식 使用 後  "
   }
 };

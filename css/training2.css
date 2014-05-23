@@ -2,6 +2,40 @@
 em{font-style:normal;}
 dl,dt,dd,ul,li,p{margin:0;padding:0;}
 ul{list-style:none;}
+
+.wrap_mytraining {
+  background: none repeat scroll 0 0 #F3F3F3;
+  border-radius: 2px 2px 2px 2px;
+  margin: 0px auto;
+  position: relative;
+}
+.wrap_mytraining:before, .wrap_mytraining:after {
+  background: none repeat scroll 0 0 #777777;
+  bottom: 18px;
+  box-shadow: 0 15px 10px #777777;
+  content: "";
+  left: 10px;
+  max-width: 800px;
+  position: absolute;
+  top: 80%;
+  transform: rotate(-6deg);
+  -webkit-transform: rotate(-6deg);
+  -moz-transform: rotate(-6deg);
+  -ms-transform: rotate(-6deg);
+  -o-transform: rotate(-6deg);
+  width: 50%;
+  z-index: -1;
+}
+.wrap_mytraining:after {
+  left: auto;
+  right: 10px;
+  transform: rotate(6deg);
+  -webkit-transform: rotate(6deg);
+  -moz-transform: rotate(6deg);
+  -ms-transform: rotate(6deg);
+  -o-transform: rotate(6deg);
+}
+
 .trWrap{width:800px;overflow:auto;background:url('../img/bg_tree.png') #1b2637 no-repeat 217px bottom;}
 .trWrap .header{height:30px;background:#0c131d;border-bottom:1px solid #000;}
 .trWrap .categoryWrap, .treeWrap, .tooltipWrap{float:left;min-height:493px;}
@@ -136,8 +170,7 @@ ul{list-style:none;}
 .tree_arrow .able .end{background-position:0px -530px}
 
 
-/* 헤더 */
-.trWrap .header{width:auto;position:relative;height:35px;background:#000;opacity:0.8;z-index:60;}
+.trWrap .header{width:auto;position:relative;height:35px;background:#000;z-index:60;}
 .trWrap .header span{font-family:Meiryo, Gulim, Dotum;font-size:12px;font-weight:bold; }
 .trWrap .header .job{float:left;margin:8px 0 0 20px;color:#eab614;font-size:12px;}
 .trWrap .header .level{float:left;margin:8px 0 0 15px;color:#eab614;font-size:12px;}
@@ -149,12 +182,10 @@ ul{list-style:none;}
 .trWrap .header .mastery_level .ly_level{left:67px;width:48px;}
 .trWrap .header .ly_level li{list-style:none;height:16px;overflow:hidden;font-size:11px;padding:0 0 0 10px;border:1px solid #000;}
 .trWrap .header .ly_level li:hover{color:#fff;background-color:#333;font-size:12px;}
-.trWrap .header .btn_level{display:inline-block;width:20px;height:12px;vertical-align:middle;background:url('http://static.plaync.co.kr/powerbook/bs1/tr/layout/ico_down.gif') no-repeat center 2px;}
+.trWrap .header .btn_level{display:inline-block;width:20px;height:12px;vertical-align:middle;background:url('../img/ico_down.gif') no-repeat center 2px;}
 
 .tooltipWrap{height:400px;overflow-y:auto;}
-/* 디테일 레이어 */
-.tooltipWrap .tooltip{width:240px;margin:10px 0 0 10px;font-family:Meiryo;color:#fff;z-index:9999;}
-.tooltipWrap .tooltip *{font-family:Meiryo;}
+.tooltipWrap .tooltip{width:240px;margin:10px 0 0 10px;color:#fff;z-index:9999;}
 .tooltip section{position:relative;}
 .tooltip img{vertical-align:middle;}
 .tooltip .consumed_sp{position:absolute;right:10px;top:17px;margin:0;font-size:11px;color:#fff;}

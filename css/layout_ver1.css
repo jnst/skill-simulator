@@ -1,31 +1,24 @@
 @charset "utf-8";
 
-* {-webkit-text-size-adjust:none} /* 아이폰 가로보기 글자 크기 변경 방지 */
-/*html, body {height:100%;}*/
+* {-webkit-text-size-adjust:none}
 html {overflow-y:scroll; overflow:-moz-scrollbars-verticals;}
-body {margin:0; padding:0; font-size:12px; font-family:Meiryo,Gulim,굴림,AppleGothic,sans-serif; color:#444;}  /*   696969 */
-/*
-11px dotum,돋움 사용
-회색 #989898
-녹색 #457285
-주황 #D26919
-*/
+body {margin:0; padding:0; font-size:12px; color:#444;}
+
 img, fieldset {border:0 none}
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display:block;}
 
 img {-ms-interpolation-mode:bicubic;} /* ie7 */
 
-form, input, select, textarea, button {margin:0; padding:0; font-size:12px; font-family:Meiryo,Gulim,굴림,AppleGothic,sans-serif; color:#444; /*resize:none;outline:none*/}
-table {border-collapse:separate; table-layout:fixed; margin:0; padding:0; border:0;} /* border-collapse:collapse; 보더충돌 우려 */
+form, input, select, textarea, button {margin:0; padding:0; font-size:12px;}
+table {border-collapse:separate; table-layout:fixed; margin:0; padding:0; border:0;}
 a, a:link, a:active {color:#444; text-decoration:none;}
 a:visited {color:#444;}
 a:hover {text-decoration:underline;}
 .pointer {cursor:pointer;}
 
-button {padding:0; border:0; cursor:pointer; *overflow:visible; background:transparent;} /* *overflow:visible 텍스트에 비해 버튼 폭이 커지는 ie6,7 버그 핵 */
+button {padding:0; border:0; cursor:pointer; *overflow:visible; background:transparent;}
 hr {display:none;}
 .clear {clear:both;}
-/* reset webkit search input styles */
 input[type=search] {
   -webkit-appearance: none;
   outline: none;
@@ -36,7 +29,6 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 .ellipsis {white-space:nowrap;text-overflow:ellipsis;-o-text-overow:ellipsis;overflow:hidden;}
 
-/* 등급 색 */
 .grade_1 {color:#6c6c6c !important;}
 .grade_2 {color:#3f3f3f !important;}
 .grade_3 {color:#008746 !important;}
@@ -44,11 +36,13 @@ input[type="search"]::-webkit-search-cancel-button {
 .grade_5 {color:#a847bd !important;}
 .grade_6 {color:#c34812 !important;}
 
-/***** layout *****/
-body {background:#efefef;}
-#wrap_container {min-width:1100px; margin:0; padding:0;  overflow:hidden;}
+body {
+  background: #efefef;
+  font-family: "メイリオ","Meirio","ＭＳ Ｐゴシック","MS PGothic","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3",Sans-Serif;
+}
+#wrap_container {min-width:800px; margin:0; padding:0; overflow:hidden;}
 
-#container {position:relative; width:800px; padding:0; *zoom:1;}
+#container {position:relative; width:800px; padding:0; margin: 0 auto; *zoom:1;}
 #container:after {display:block; clear:both; content:"";}
 
 /* header */

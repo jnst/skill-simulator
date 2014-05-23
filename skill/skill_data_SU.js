@@ -4,7 +4,7 @@ var skill_data_SU = {
     "id": "26000",
     "name": "고양이의 폭력성",
     "icon": "skill_icon_summon_0_38.png",
-    "main_info1": "소환수 공격 능력 증가",
+    "main_info1": "소환수 공격 능력 増加",
     "main_info2": null,
     "sub_info": "보스 몬스터가 사용하는 광역 공격에 대해 10% 추가 방어 상승",
     "consume_sp": null,
@@ -19,7 +19,7 @@ var skill_data_SU = {
     "id": "26001",
     "name": "재주넘는 고양이",
     "icon": "skill_icon_summon_0_37.png",
-    "main_info1": "소환수 방어 능력 증가",
+    "main_info1": "소환수 방어 능력 増加",
     "main_info2": null,
     "sub_info": "보스 몬스터가 사용하는 광역 공격에 대해 25% 추가 방어 상승",
     "consume_sp": null,
@@ -36,34 +36,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_1.png",
     "main_info1": "소환수 부활",
     "main_info2": null,
-    "sub_info": "시전 중 피격 시  취소",
+    "sub_info": "詠唱中にダメージを受けた時  취소",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "5초"
+        "value": "5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -72,7 +72,7 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "12~14의 피해",
+    "main_info1": "12~14のダメージ",
     "main_info2": null,
     "sub_info": "독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
@@ -81,27 +81,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -110,7 +110,7 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
     "sub_info": "독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
@@ -119,27 +119,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -148,7 +148,7 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
     "sub_info": "발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
@@ -157,27 +157,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -186,36 +186,36 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
-    "sub_info": "반격, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "截拳, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -224,36 +224,36 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
-    "sub_info": "치명타 시  말벌 즉시 시전<br/>반격, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "치명타 時  말벌 即時 時전<br/>截拳, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -262,22 +262,22 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "명중 시 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "명중 時 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -285,13 +285,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -300,22 +300,22 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "명중 시 마다  독 1 중첩<br/>치명타 시  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "명중 時 마다  독 1 중첩<br/>치명타 時  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -323,13 +323,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -338,22 +338,22 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "연쇄 명중 시마다 공격력의 15%씩 피해량 증가<br/>명중 시 마다  독 1 중첩<br/>치명타 시  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "연쇄 명중 時마다 공격력의 15%씩 피해량 増加<br/>명중 時 마다  독 1 중첩<br/>치명타 時  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -361,13 +361,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -376,22 +376,22 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>명중 시 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>명중 時 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -399,13 +399,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -414,22 +414,22 @@ var skill_data_SU = {
     "id": "26101",
     "name": "장미",
     "icon": "skill_icon_summon_0_2.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>연쇄 명중 시 마다  피해량의 2% 씩 생명력 흡수량 증가<br/>명중 시 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>연쇄 명중 時 마다  피해량의 2% 씩 생명력 흡수량 増加<br/>명중 時 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -437,13 +437,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -452,7 +452,7 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "12~14의 피해",
+    "main_info1": "12~14のダメージ",
     "main_info2": null,
     "sub_info": "독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
@@ -461,27 +461,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -490,7 +490,7 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
     "sub_info": "독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
@@ -499,27 +499,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -528,7 +528,7 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
     "sub_info": "발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
@@ -537,27 +537,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -566,36 +566,36 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
-    "sub_info": "반격, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "截拳, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -604,36 +604,36 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "14~17의 피해",
+    "main_info1": "14~17のダメージ",
     "main_info2": null,
-    "sub_info": "치명타 시  말벌 즉시 시전<br/>반격, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "치명타 時  말벌 即時 時전<br/>截拳, 튕기기 불가<br/>발사체 속도 상승<br/>독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -642,22 +642,22 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "명중 시 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "명중 時 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -665,13 +665,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -680,22 +680,22 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "명중 시 마다  독 1 중첩<br/>치명타 시  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "명중 時 마다  독 1 중첩<br/>치명타 時  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -703,13 +703,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -718,22 +718,22 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "연쇄 명중 시마다 공격력의 15%씩 피해량 증가<br/>명중 시 마다  독 1 중첩<br/>치명타 시  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "연쇄 명중 時마다 공격력의 15%씩 피해량 増加<br/>명중 時 마다  독 1 중첩<br/>치명타 時  독 2 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -741,13 +741,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -756,22 +756,22 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>명중 시 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>명중 時 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -779,13 +779,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -794,22 +794,22 @@ var skill_data_SU = {
     "id": "26102",
     "name": "나비",
     "icon": "skill_icon_summon_0_3.png",
-    "main_info1": "최대 5명의 적에게 연속하여 14~17의 피해",
+    "main_info1": "최대 5명의 적에게 연속하여 14~17のダメージ",
     "main_info2": null,
-    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>연쇄 명중 시 마다  피해량의 2% 씩 생명력 흡수량 증가<br/>명중 시 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
+    "sub_info": "피격된 적 만큼 피해량의 2% 생명력 흡수<br/>연쇄 명중 時 마다  피해량의 2% 씩 생명력 흡수량 増加<br/>명중 時 마다  독 1 중첩<br/>독 중첩 당  방어 10% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": "1",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -817,13 +817,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -832,36 +832,36 @@ var skill_data_SU = {
     "id": "26103",
     "name": "휘감기",
     "icon": "skill_icon_summon_0_4.png",
-    "main_info1": "3초간 다운",
+    "main_info1": "3秒間 ダウン",
     "main_info2": null,
-    "sub_info": "12~14의 피해",
+    "sub_info": "12~14のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -870,36 +870,36 @@ var skill_data_SU = {
     "id": "26104",
     "name": "응원",
     "icon": "skill_icon_summon_0_7.png",
-    "main_info1": "소환수 5초간 생명력 20% 회복",
+    "main_info1": "소환수 5秒間 생명력 20% 회복",
     "main_info2": null,
-    "sub_info": "생명력 11% 이하 시  생명력 전송 불가",
+    "sub_info": "생명력 11% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -908,36 +908,36 @@ var skill_data_SU = {
     "id": "26104",
     "name": "응원",
     "icon": "skill_icon_summon_0_7.png",
-    "main_info1": "소환수 4.2초간 생명력 20% 회복",
+    "main_info1": "소환수 4.2秒間 생명력 20% 회복",
     "main_info2": null,
-    "sub_info": "생명력 11% 이하 시  생명력 전송 불가",
+    "sub_info": "생명력 11% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -946,36 +946,36 @@ var skill_data_SU = {
     "id": "26104",
     "name": "응원",
     "icon": "skill_icon_summon_0_7.png",
-    "main_info1": "소환수 4.2초간 생명력 40% 회복",
+    "main_info1": "소환수 4.2秒間 생명력 40% 회복",
     "main_info2": null,
-    "sub_info": "생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -984,36 +984,36 @@ var skill_data_SU = {
     "id": "26104",
     "name": "응원",
     "icon": "skill_icon_summon_0_7.png",
-    "main_info1": "소환수 4.2초간 생명력 40% 회복",
+    "main_info1": "소환수 4.2秒間 생명력 40% 회복",
     "main_info2": null,
-    "sub_info": "응원 효과마다 소환수 방어 10% 증가<br/>방어증가 최대 5 중첩<br/>생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "응원 효과마다 소환수 방어 10% 増加<br/>방어増加 최대 5 중첩<br/>생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1022,36 +1022,36 @@ var skill_data_SU = {
     "id": "26104",
     "name": "응원",
     "icon": "skill_icon_summon_0_7.png",
-    "main_info1": "소환수 4.2초간 생명력 40% 회복",
+    "main_info1": "소환수 4.2秒間 생명력 40% 회복",
     "main_info2": null,
-    "sub_info": "응원 효과 모두 받은 소환수 생명력 5%의 보호막 생성<br/>응원 효과마다 소환수 방어 10% 증가<br/>방어증가 최대 5 중첩<br/>생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "응원 효과 모두 받은 소환수 생명력 5%의 보호막 생성<br/>응원 효과마다 소환수 방어 10% 増加<br/>방어増加 최대 5 중첩<br/>생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1060,36 +1060,36 @@ var skill_data_SU = {
     "id": "26104",
     "name": "응원",
     "icon": "skill_icon_summon_0_7.png",
-    "main_info1": "소환수 4.2초간 생명력 40% 회복",
+    "main_info1": "소환수 4.2秒間 생명력 40% 회복",
     "main_info2": null,
-    "sub_info": "응원 효과마다 소환수 치명 3% 증가<br/>치명증가 최대 5 중첩<br/>생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "응원 효과마다 소환수 치명 3% 増加<br/>치명増加 최대 5 중첩<br/>생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1098,36 +1098,36 @@ var skill_data_SU = {
     "id": "26104",
     "name": "응원",
     "icon": "skill_icon_summon_0_7.png",
-    "main_info1": "소환수 4.2초간 생명력 40% 회복",
+    "main_info1": "소환수 4.2秒間 생명력 40% 회복",
     "main_info2": null,
-    "sub_info": "소환수 치명 증가 효과 적용 중 치명타 시 소환사 내력 1 회복<br/>응원 효과마다 소환수 치명 3% 증가<br/>치명증가 최대 5 중첩<br/>생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "소환수 치명 増加 효과 적용 中 치명타 時 소환사 내력 1 회복<br/>응원 효과마다 소환수 치명 3% 増加<br/>치명増加 최대 5 중첩<br/>생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1145,27 +1145,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1183,27 +1183,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1221,27 +1221,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1259,27 +1259,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1297,27 +1297,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1335,27 +1335,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1373,27 +1373,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -1404,34 +1404,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_41.png",
     "main_info1": "소환수 생명력 10% 소환사에게 전송",
     "main_info2": null,
-    "sub_info": "내력 3 회복<br/>소환수 생명력 11% 이하 시  생명력 전송 불가",
+    "sub_info": "내력 3 회복<br/>소환수 생명력 11% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1442,34 +1442,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_41.png",
     "main_info1": "소환수 생명력 10% 소환사에게 전송",
     "main_info2": null,
-    "sub_info": "소환수 0.8초 상태이상 저항<br/>내력 3 회복<br/>소환수 생명력 11% 이하 시  생명력 전송 불가",
+    "sub_info": "소환수 0.8秒 状態이상 抵抗<br/>내력 3 회복<br/>소환수 생명력 11% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1480,34 +1480,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_41.png",
     "main_info1": "소환수 생명력 20% 소환사에게 전송",
     "main_info2": null,
-    "sub_info": "소환수 0.8초 상태이상 저항<br/>내력 3 회복<br/>소환수 생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "소환수 0.8秒 状態이상 抵抗<br/>내력 3 회복<br/>소환수 생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1518,34 +1518,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_41.png",
     "main_info1": "소환수 생명력 20% 소환사에게 전송",
     "main_info2": null,
-    "sub_info": "소환수 상태이상 중  사용 가능<br/>소환수 0.8초 상태이상 저항<br/>내력 3 회복<br/>소환수 생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "소환수 状態이상 中  使用 가능<br/>소환수 0.8秒 状態이상 抵抗<br/>내력 3 회복<br/>소환수 생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1556,34 +1556,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_41.png",
     "main_info1": "소환수 생명력 20% 소환사에게 전송",
     "main_info2": null,
-    "sub_info": "10초간 소환사 생명력 5% 보호막 생성<br/>소환수 상태이상 중  사용 가능<br/>소환수 0.8초 상태이상 저항<br/>내력 3 회복<br/>소환수 생명력 21% 이하 시  생명력 전송 불가",
+    "sub_info": "10秒間 소환사 생명력 5% 보호막 생성<br/>소환수 状態이상 中  使用 가능<br/>소환수 0.8秒 状態이상 抵抗<br/>내력 3 회복<br/>소환수 생명력 21% 이하 時  생명력 전송 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1592,36 +1592,36 @@ var skill_data_SU = {
     "id": "26304",
     "name": "우정",
     "icon": "skill_icon_summon_0_41.png",
-    "main_info1": "소환사, 소환수 5초간 피해 및 상태이상 저항",
+    "main_info1": "소환사, 소환수 5秒間 ダメージおよび状態異常に抵抗",
     "main_info2": null,
-    "sub_info": "사용 중  소환사, 소환수 이동 및 행동 불가<br/>소환수 생명력 21% 이하 시  사용 불가",
+    "sub_info": "사용 中  소환사, 소환수 이동 및 행동 불가<br/>소환수 생명력 21% 이하 時  使用 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -1630,36 +1630,36 @@ var skill_data_SU = {
     "id": "26304",
     "name": "우정",
     "icon": "skill_icon_summon_0_41.png",
-    "main_info1": "소환사, 소환수 5초간 피해 및 상태이상 저항",
+    "main_info1": "소환사, 소환수 5秒間 ダメージおよび状態異常に抵抗",
     "main_info2": null,
-    "sub_info": "저항 시  생명력 1% 회복<br/>소환수 저항 시  소환수 생명력 1% 회복<br/>사용 중  소환사, 소환수 이동 및 행동 불가<br/>소환수 생명력 21% 이하 시  사용 불가",
+    "sub_info": "抵抗 時  생명력 1% 회복<br/>소환수 抵抗 時  소환수 생명력 1% 회복<br/>사용 中  소환사, 소환수 이동 및 행동 불가<br/>소환수 생명력 21% 이하 時  使用 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -1677,27 +1677,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1715,27 +1715,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1753,27 +1753,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1791,27 +1791,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1829,27 +1829,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1867,27 +1867,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1905,27 +1905,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1943,27 +1943,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -1981,27 +1981,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2019,27 +2019,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2057,27 +2057,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2095,27 +2095,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2133,27 +2133,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2171,27 +2171,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2209,27 +2209,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2247,27 +2247,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2285,27 +2285,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2323,27 +2323,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2361,27 +2361,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2399,27 +2399,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2437,27 +2437,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2475,27 +2475,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2513,27 +2513,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2551,27 +2551,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2589,27 +2589,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2627,27 +2627,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2665,27 +2665,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2703,27 +2703,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2741,27 +2741,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2779,27 +2779,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2817,27 +2817,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2855,27 +2855,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2893,27 +2893,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2931,27 +2931,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2969,27 +2969,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -2998,8 +2998,8 @@ var skill_data_SU = {
     "id": "26419",
     "name": "우당탕",
     "icon": "skill_icon_summon_0_43.png",
-    "main_info1": "소환사, 소환수 우정 저항 효과 해제",
-    "main_info2": "11~13의 피해",
+    "main_info1": "소환사, 소환수 우정 抵抗 효과 해제",
+    "main_info2": "11~13のダメージ",
     "sub_info": "소환사, 소환수 이동 및 행동 가능",
     "consume_sp": null,
     "ui_sp_heal_value": null,
@@ -3007,13 +3007,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -3021,13 +3021,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -3036,22 +3036,22 @@ var skill_data_SU = {
     "id": "26105",
     "name": "덩굴손",
     "icon": "skill_icon_summon_0_8.png",
-    "main_info1": "8초간 이동 불가",
+    "main_info1": "8秒間 이동 불가",
     "main_info2": null,
-    "sub_info": "23~27의 피해",
+    "sub_info": "23~27のダメージ",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -3059,13 +3059,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -3074,22 +3074,22 @@ var skill_data_SU = {
     "id": "26105",
     "name": "덩굴손",
     "icon": "skill_icon_summon_0_8.png",
-    "main_info1": "8초간 이동 불가",
+    "main_info1": "8秒間 이동 불가",
     "main_info2": null,
-    "sub_info": "23~27의 피해<br/>이동속도 40% 감소",
+    "sub_info": "23~27のダメージ<br/>移動速度 40% 감소",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -3097,13 +3097,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -3112,22 +3112,22 @@ var skill_data_SU = {
     "id": "26105",
     "name": "덩굴손",
     "icon": "skill_icon_summon_0_8.png",
-    "main_info1": "8초간 이동 불가",
+    "main_info1": "8秒間 이동 불가",
     "main_info2": null,
-    "sub_info": "23~27의 피해<br/>민들레씨 무공으로 반격 성공 시  재사용 시간 초기화<br/>8초간 내력 40% 피해<br/>이동속도 40% 감소",
+    "sub_info": "23~27のダメージ<br/>민들레씨 무공으로 截拳 성공 時  재사용 時간 秒기화<br/>8秒間 내력 40% 피해<br/>移動速度 40% 감소",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -3135,13 +3135,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -3150,22 +3150,22 @@ var skill_data_SU = {
     "id": "26105",
     "name": "덩굴손",
     "icon": "skill_icon_summon_0_8.png",
-    "main_info1": "8초간 이동 불가",
+    "main_info1": "8秒間 이동 불가",
     "main_info2": null,
-    "sub_info": "적 주변 효과 발동<br/>23~27의 피해<br/>민들레씨 무공으로 반격 성공 시  재사용 시간 초기화<br/>8초간 내력 40% 피해<br/>이동속도 40% 감소",
+    "sub_info": "적 주변 효과 발동<br/>23~27のダメージ<br/>민들레씨 무공으로 截拳 성공 時  재사용 時간 秒기화<br/>8秒間 내력 40% 피해<br/>移動速度 40% 감소",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -3173,13 +3173,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -3188,36 +3188,36 @@ var skill_data_SU = {
     "id": "26105",
     "name": "담쟁이덩굴",
     "icon": "skill_icon_summon_0_39.png",
-    "main_info1": "최대 5명의 적 8초간 이동 불가",
+    "main_info1": "최대 5명의 적 8秒間 이동 불가",
     "main_info2": null,
-    "sub_info": "46~53의 피해<br/>민들레씨 무공으로 반격 성공 시  재사용 시간 초기화<br/>8초간 내력 40% 피해<br/>이동속도 40% 감소",
+    "sub_info": "46~53のダメージ<br/>민들레씨 무공으로 截拳 성공 時  재사용 時간 秒기화<br/>8秒間 내력 40% 피해<br/>移動速度 40% 감소",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "0.1초"
+        "value": "0.1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -3226,22 +3226,22 @@ var skill_data_SU = {
     "id": "26105",
     "name": "덩굴손",
     "icon": "skill_icon_summon_0_8.png",
-    "main_info1": "8초간 이동 불가",
+    "main_info1": "8秒間 이동 불가",
     "main_info2": null,
-    "sub_info": "23~27의 피해<br/>민들레씨 무공으로 반격 성공 시  재사용 시간 초기화<br/>8초간 내력 40% 피해<br/>이동속도 40% 감소",
+    "sub_info": "23~27のダメージ<br/>민들레씨 무공으로 截拳 성공 時  재사용 時간 秒기화<br/>8秒間 내력 40% 피해<br/>移動速度 40% 감소",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -3249,13 +3249,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -3264,22 +3264,22 @@ var skill_data_SU = {
     "id": "26105",
     "name": "덩굴손",
     "icon": "skill_icon_summon_0_8.png",
-    "main_info1": "8초간 이동 불가",
+    "main_info1": "8秒間 이동 불가",
     "main_info2": null,
-    "sub_info": "23~27의 피해<br/>덩굴손에 당한 적이 공격 성공 시마다 내력 10% 전송<br/>민들레씨 무공으로 반격 성공 시  재사용 시간 초기화<br/>8초간 내력 40% 피해<br/>이동속도 40% 감소",
+    "sub_info": "23~27のダメージ<br/>덩굴손에 당한 적이 공격 성공 時마다 내력 10% 전송<br/>민들레씨 무공으로 截拳 성공 時  재사용 時간 秒기화<br/>8秒間 내력 40% 피해<br/>移動速度 40% 감소",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -3287,13 +3287,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -3302,7 +3302,7 @@ var skill_data_SU = {
     "id": "26106",
     "name": "흡수",
     "icon": "skill_icon_summon_0_9.png",
-    "main_info1": "19~22의 피해",
+    "main_info1": "19~22のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
     "sub_info": null,
     "consume_sp": "3",
@@ -3311,13 +3311,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X5m"
       },
@@ -3325,13 +3325,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3340,22 +3340,22 @@ var skill_data_SU = {
     "id": "26106",
     "name": "흡수",
     "icon": "skill_icon_summon_0_9.png",
-    "main_info1": "19~22의 피해",
+    "main_info1": "19~22のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
-    "sub_info": "기절, 그로기, 장악, 흡공 당한 적 피해량의 200% 생명력 흡수",
+    "sub_info": "気絶, グロッキー, 掴み上げ, 흡공 당한 적 피해량의 200% 생명력 흡수",
     "consume_sp": "3",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X5m"
       },
@@ -3363,13 +3363,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3378,22 +3378,22 @@ var skill_data_SU = {
     "id": "26106",
     "name": "흡수",
     "icon": "skill_icon_summon_0_9.png",
-    "main_info1": "19~22의 피해",
+    "main_info1": "19~22のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
-    "sub_info": "기절, 그로기, 장악, 흡공 당한 적 피해량의 200% 생명력 흡수",
+    "sub_info": "気絶, グロッキー, 掴み上げ, 흡공 당한 적 피해량의 200% 생명력 흡수",
     "consume_sp": "3",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3401,13 +3401,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3416,22 +3416,22 @@ var skill_data_SU = {
     "id": "26106",
     "name": "흡수",
     "icon": "skill_icon_summon_0_9.png",
-    "main_info1": "19~22의 피해",
+    "main_info1": "19~22のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
-    "sub_info": "적 발사체 공격에 맞춰 사용 시 전방 막기<br/>적 발사체 막기 성공 시 생명력 5% 회복<br/>기절, 그로기, 장악, 흡공 당한 적 피해량의 200% 생명력 흡수",
+    "sub_info": "적 발사체 공격에 맞춰 使用 時 전방 막기<br/>적 발사체 막기 성공 時 생명력 5% 회복<br/>気絶, グロッキー, 掴み上げ, 흡공 당한 적 피해량의 200% 생명력 흡수",
     "consume_sp": "3",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3439,13 +3439,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3454,22 +3454,22 @@ var skill_data_SU = {
     "id": "26106",
     "name": "흡수",
     "icon": "skill_icon_summon_0_9.png",
-    "main_info1": "19~22의 피해",
+    "main_info1": "19~22のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
-    "sub_info": "치명타 시  즉시 시전<br/>적 발사체 공격에 맞춰 사용 시 전방 막기<br/>적 발사체 막기 성공 시 생명력 5% 회복<br/>기절, 그로기, 장악, 흡공 당한 적 피해량의 200% 생명력 흡수",
+    "sub_info": "치명타 時  即時 時전<br/>적 발사체 공격에 맞춰 使用 時 전방 막기<br/>적 발사체 막기 성공 時 생명력 5% 회복<br/>気絶, グロッキー, 掴み上げ, 흡공 당한 적 피해량의 200% 생명력 흡수",
     "consume_sp": "3",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3477,13 +3477,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3492,22 +3492,22 @@ var skill_data_SU = {
     "id": "26106",
     "name": "흡수",
     "icon": "skill_icon_summon_0_9.png",
-    "main_info1": "5초간 96~112의 피해",
+    "main_info1": "5秒間 96~112のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
-    "sub_info": "치명타 시  즉시 시전<br/>적 발사체 공격에 맞춰 사용 시 전방 막기<br/>적 발사체 막기 성공 시 생명력 5% 회복<br/>기절, 그로기, 장악, 흡공 당한 적 피해량의 200% 생명력 흡수",
+    "sub_info": "치명타 時  即時 時전<br/>적 발사체 공격에 맞춰 使用 時 전방 막기<br/>적 발사체 막기 성공 時 생명력 5% 회복<br/>気絶, グロッキー, 掴み上げ, 흡공 당한 적 피해량의 200% 생명력 흡수",
     "consume_sp": "3",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3515,13 +3515,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3530,8 +3530,8 @@ var skill_data_SU = {
     "id": "26106",
     "name": "가시덩굴",
     "icon": "skill_icon_summon_0_40.png",
-    "main_info1": "54~63의 피해",
-    "main_info2": "적 후방 명중 시  30~35의 추가 피해",
+    "main_info1": "54~63のダメージ",
+    "main_info2": "적 後방 명중 時  30~35의 추가 피해",
     "sub_info": null,
     "consume_sp": "3",
     "ui_sp_heal_value": null,
@@ -3539,27 +3539,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
-        "value": "2X10m"
+        "value": "2x10m"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -3568,8 +3568,8 @@ var skill_data_SU = {
     "id": "26106",
     "name": "가시덩굴",
     "icon": "skill_icon_summon_0_40.png",
-    "main_info1": "54~63의 피해",
-    "main_info2": "적 후방 명중 시  84~98의 피해",
+    "main_info1": "54~63のダメージ",
+    "main_info2": "적 後방 명중 時  84~98のダメージ",
     "sub_info": "독 5중첩 적 18~21의 추가 피해<br/>독 5중첩되지 않은 적 독 3중첩 추가",
     "consume_sp": "3",
     "ui_sp_heal_value": null,
@@ -3577,27 +3577,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
-        "value": "2X10m"
+        "value": "2x10m"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -3606,36 +3606,36 @@ var skill_data_SU = {
     "id": "26106",
     "name": "가시덩굴",
     "icon": "skill_icon_summon_0_40.png",
-    "main_info1": "54~63의 피해",
-    "main_info2": "적 후방 명중 시  30~35의 추가 피해",
-    "sub_info": "독 5중첩 적 18~21의 추가 피해<br/>최대 2회 연속 시전<br/>독 5중첩되지 않은 적 독 3중첩 추가",
+    "main_info1": "54~63のダメージ",
+    "main_info2": "적 後방 명중 時  30~35의 추가 피해",
+    "sub_info": "독 5중첩 적 18~21의 추가 피해<br/>최대 2회 연속 時전<br/>독 5중첩되지 않은 적 독 3중첩 추가",
     "consume_sp": "3",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
-        "value": "2X10m"
+        "value": "2x10m"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -3653,13 +3653,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X5m"
       },
@@ -3667,13 +3667,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3691,13 +3691,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X5m"
       },
@@ -3705,13 +3705,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3729,13 +3729,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3743,13 +3743,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3767,13 +3767,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3781,13 +3781,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -3805,13 +3805,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3819,13 +3819,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -3843,13 +3843,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
         "value": "4X8m"
       },
@@ -3857,13 +3857,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -3881,27 +3881,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
-        "value": "2X10m"
+        "value": "2x10m"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -3919,27 +3919,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
-        "value": "2X10m"
+        "value": "2x10m"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -3957,27 +3957,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_1",
-        "value": "2X10m"
+        "value": "2x10m"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -3986,22 +3986,22 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 60~70의 피해",
+    "main_info1": "10秒間 60~70のダメージ",
     "main_info2": null,
-    "sub_info": "반격, 튕기기 불가",
+    "sub_info": "截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4009,13 +4009,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4024,22 +4024,22 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 60~70의 피해",
+    "main_info1": "10秒間 60~70のダメージ",
     "main_info2": null,
-    "sub_info": "은신 중  즉시 시전<br/>반격, 튕기기 불가",
+    "sub_info": "閃光 中  即時 時전<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4047,13 +4047,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4062,22 +4062,22 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 60~70의 피해",
+    "main_info1": "10秒間 60~70のダメージ",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>은신 중  즉시 시전<br/>반격, 튕기기 불가",
+    "sub_info": "출혈 최대 5 중첩<br/>閃光 中  即時 時전<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4085,13 +4085,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4100,22 +4100,22 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 60~70의 피해",
+    "main_info1": "10秒間 60~70のダメージ",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>독 5중첩 적 12~14의 추가 피해<br/>은신 중  즉시 시전<br/>반격, 튕기기 불가",
+    "sub_info": "출혈 최대 5 중첩<br/>독 5중첩 적 12~14의 추가 피해<br/>閃光 中  即時 時전<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4123,13 +4123,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4138,22 +4138,22 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 60~70의 피해",
+    "main_info1": "10秒間 60~70のダメージ",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>이동 중  사용 가능<br/>시전 중  이동속도 40% 감소<br/>독 10초간 유지<br/>독 5중첩 적 12~14의 추가 피해<br/>은신 중  즉시 시전<br/>반격, 튕기기 불가",
+    "sub_info": "출혈 최대 5 중첩<br/>이동 中  使用 가능<br/>시전 中  移動速度 40% 감소<br/>독 10秒間 維持<br/>독 5중첩 적 12~14의 추가 피해<br/>閃光 中  即時 時전<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4161,13 +4161,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4176,36 +4176,36 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 168~196의 피해",
+    "main_info1": "10秒間 168~196のダメージ",
     "main_info2": null,
-    "sub_info": "은신 중  시전 시간 1초로 감소<br/>반격, 튕기기 불가",
+    "sub_info": "閃光 中  時전 時간 1秒로 감소<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "2.5초"
+        "value": "2.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4214,36 +4214,36 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 168~196의 피해",
+    "main_info1": "10秒間 168~196のダメージ",
     "main_info2": null,
-    "sub_info": "시전 중 은신 유지<br/>은신 중  시전 시간 1초로 감소<br/>반격, 튕기기 불가",
+    "sub_info": "시전 中 閃光 維持<br/>閃光 中  時전 時간 1秒로 감소<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "2.5초"
+        "value": "2.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4252,36 +4252,36 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 168~196의 피해",
+    "main_info1": "10秒間 168~196のダメージ",
     "main_info2": null,
-    "sub_info": "장악, 흡공 당한 적 즉시 시전<br/>시전 중 은신 유지<br/>은신 중  시전 시간 1초로 감소<br/>반격, 튕기기 불가",
+    "sub_info": "掴み上げ, 흡공 당한 적 即時 時전<br/>시전 中 閃光 維持<br/>閃光 中  時전 時간 1秒로 감소<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "2.5초"
+        "value": "2.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4290,36 +4290,36 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "10초간 168~196의 피해",
+    "main_info1": "10秒間 168~196のダメージ",
     "main_info2": null,
-    "sub_info": "말벌 피격 중인 적 충격 명중 시 소환수 공격력 50% 추가 피해<br/>시전 중 은신 유지<br/>장악, 흡공 당한 적 즉시 시전<br/>은신 중  시전 시간 1초로 감소<br/>반격, 튕기기 불가",
+    "sub_info": "말벌 피격 중인 적 충격 명중 時 소환수 공격력 50% 추가 피해<br/>시전 中 閃光 維持<br/>掴み上げ, 흡공 당한 적 即時 時전<br/>閃光 中  時전 時간 1秒로 감소<br/>截拳, 튕기기 불가",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "2.5초"
+        "value": "2.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4328,36 +4328,36 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "126~147의 피해",
+    "main_info1": "126~147のダメージ",
     "main_info2": null,
-    "sub_info": "은신 중  시전 시간 1초로 감소<br/>말벌 무공으로 적 처치 시  말벌 재사용 시간 초기화",
+    "sub_info": "閃光 中  時전 時간 1秒로 감소<br/>말벌 무공으로 적 처치 時  말벌 재사용 時간 秒기화",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "2.5초"
+        "value": "2.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4366,36 +4366,36 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "126~147의 피해",
+    "main_info1": "126~147のダメージ",
     "main_info2": null,
-    "sub_info": "치명타 시  즉시 시전<br/>은신 중  시전 시간 1초로 감소<br/>말벌 무공으로 적 처치 시  말벌 재사용 시간 초기화",
+    "sub_info": "치명타 時  即時 時전<br/>閃光 中  時전 時간 1秒로 감소<br/>말벌 무공으로 적 처치 時  말벌 재사용 時간 秒기화",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "2.5초"
+        "value": "2.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4404,36 +4404,36 @@ var skill_data_SU = {
     "id": "26107",
     "name": "말벌",
     "icon": "skill_icon_summon_0_10.png",
-    "main_info1": "126~147의 피해",
+    "main_info1": "126~147のダメージ",
     "main_info2": null,
-    "sub_info": "치명타 시  즉시 시전<br/>말벌 연계 시 내력 2 소모<br/>은신 중  시전 시간 1초로 감소<br/>말벌 무공으로 적 처치 시  말벌 재사용 시간 초기화",
+    "sub_info": "치명타 時  即時 時전<br/>말벌 연계 時 내력 2 소모<br/>閃光 中  時전 時간 1秒로 감소<br/>말벌 무공으로 적 처치 時  말벌 재사용 時간 秒기화",
     "consume_sp": "4",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "2.5초"
+        "value": "2.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4451,13 +4451,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4465,13 +4465,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4489,13 +4489,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4503,13 +4503,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4527,13 +4527,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4541,13 +4541,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4565,13 +4565,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4579,13 +4579,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4603,13 +4603,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4617,13 +4617,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4641,27 +4641,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1초"
+        "value": "1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4679,27 +4679,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1초"
+        "value": "1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4717,27 +4717,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1초"
+        "value": "1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4755,27 +4755,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1초"
+        "value": "1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -4793,27 +4793,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1초"
+        "value": "1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4831,27 +4831,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1초"
+        "value": "1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4869,27 +4869,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1초"
+        "value": "1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -4907,13 +4907,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4921,13 +4921,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "7초"
+        "value": "7秒"
       }
     }
   },
@@ -4945,13 +4945,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4959,13 +4959,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "7초"
+        "value": "7秒"
       }
     }
   },
@@ -4983,13 +4983,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -4997,13 +4997,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "7초"
+        "value": "7秒"
       }
     }
   },
@@ -5021,13 +5021,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5035,13 +5035,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "7초"
+        "value": "7秒"
       }
     }
   },
@@ -5059,13 +5059,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5073,13 +5073,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5097,13 +5097,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5111,13 +5111,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "7초"
+        "value": "7秒"
       }
     }
   },
@@ -5135,13 +5135,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5149,13 +5149,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "1.5초"
+        "value": "1.5秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "7초"
+        "value": "7秒"
       }
     }
   },
@@ -5173,27 +5173,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -5211,27 +5211,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -5249,27 +5249,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5287,27 +5287,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -5325,27 +5325,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -5363,13 +5363,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5377,13 +5377,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5401,13 +5401,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5415,13 +5415,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5439,13 +5439,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5453,13 +5453,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5477,13 +5477,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5491,13 +5491,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5515,13 +5515,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -5529,13 +5529,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5553,27 +5553,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -5591,27 +5591,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -5629,27 +5629,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -5667,27 +5667,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -5705,27 +5705,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5743,27 +5743,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5781,27 +5781,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -5810,36 +5810,36 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 38~45의 피해",
+    "main_info1": "5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피해량의 20% 생명력 흡수<br/>5초간 내력 5 회복",
+    "sub_info": "피해량의 20% 생명력 흡수<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -5848,22 +5848,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 38~45의 피해",
+    "main_info1": "5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피해량의 20% 생명력 흡수<br/>이동 중  사용 가능<br/>사용 중  이동속도 40% 감소<br/>5초간 내력 5 회복",
+    "sub_info": "피해량의 20% 생명력 흡수<br/>이동 中  使用 가능<br/>사용 中  移動速度 40% 감소<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -5871,13 +5871,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -5886,22 +5886,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 38~45의 피해",
+    "main_info1": "5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피해량의 20% 생명력 흡수<br/>영역 내 소환수 5초간 생명력 10% 회복<br/>이동 중  사용 가능<br/>사용 중  이동속도 40% 감소<br/>5초간 내력 5 회복",
+    "sub_info": "피해량의 20% 생명력 흡수<br/>範囲 내 소환수 5秒間 생명력 10% 회복<br/>이동 中  使用 가능<br/>사용 中  移動速度 40% 감소<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -5909,13 +5909,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -5924,22 +5924,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "영역 내 대상 5초간 38~45의 피해",
+    "main_info1": "範囲 내 対象 5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피격된 적 만큼 피해량의 40% 생명력 흡수<br/>영역 내 소환수 5초간 생명력 10% 회복<br/>이동 중  사용 가능<br/>사용 중  이동속도 40% 감소<br/>5초간 내력 5 회복",
+    "sub_info": "피격된 적 만큼 피해량의 40% 생명력 흡수<br/>範囲 내 소환수 5秒間 생명력 10% 회복<br/>이동 中  使用 가능<br/>사용 中  移動速度 40% 감소<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "8m"
       },
@@ -5947,13 +5947,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -5962,22 +5962,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "영역 내 대상 5초간 38~45의 피해",
+    "main_info1": "範囲 내 対象 5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피격된 적 만큼 피해량의 40% 생명력 흡수<br/>모두 적중 시 최대 생명력 5%의 보호막 생성<br/>영역 내 소환수 5초간 생명력 10% 회복<br/>이동 중  사용 가능<br/>사용 중  이동속도 40% 감소<br/>5초간 내력 5 회복",
+    "sub_info": "피격된 적 만큼 피해량의 40% 생명력 흡수<br/>모두 적중 時 최대 생명력 5%의 보호막 생성<br/>範囲 내 소환수 5秒間 생명력 10% 회복<br/>이동 中  使用 가능<br/>사용 中  移動速度 40% 감소<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "8m"
       },
@@ -5985,13 +5985,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -6000,22 +6000,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 38~45의 피해",
+    "main_info1": "5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피해량의 20% 생명력 흡수<br/>생명력 흡수 중 다른 행동 가능<br/>영역 내 소환수 5초간 생명력 10% 회복<br/>이동 중  사용 가능<br/>5초간 내력 5 회복",
+    "sub_info": "피해량의 20% 생명력 흡수<br/>생명력 흡수 中 다른 행동 가능<br/>範囲 내 소환수 5秒間 생명력 10% 회복<br/>이동 中  使用 가능<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6023,13 +6023,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -6038,22 +6038,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 38~45의 피해",
+    "main_info1": "5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피해량의 20% 생명력 흡수<br/>나팔꽃 흡수 당하는 적에게 다른 무공 생명력 흡수 효율 2배<br/>생명력 흡수 중 다른 행동 가능<br/>영역 내 소환수 5초간 생명력 10% 회복<br/>이동 중  사용 가능<br/>5초간 내력 5 회복",
+    "sub_info": "피해량의 20% 생명력 흡수<br/>나팔꽃 흡수 당하는 적에게 다른 무공 생명력 흡수 효율 2배<br/>생명력 흡수 中 다른 행동 가능<br/>範囲 내 소환수 5秒間 생명력 10% 회복<br/>이동 中  使用 가능<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6061,13 +6061,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -6076,22 +6076,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 38~45의 피해",
+    "main_info1": "5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피해량의 20% 생명력 흡수<br/>아군 내력 10% 회복<br/>영역 내 소환수 5초간 생명력 10% 회복<br/>이동 중  사용 가능<br/>사용 중  이동속도 40% 감소<br/>5초간 내력 5 회복",
+    "sub_info": "피해량의 20% 생명력 흡수<br/>아군 내력 10% 회복<br/>範囲 내 소환수 5秒間 생명력 10% 회복<br/>이동 中  使用 가능<br/>사용 中  移動速度 40% 감소<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6099,13 +6099,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -6114,22 +6114,22 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 38~45의 피해",
+    "main_info1": "5秒間 38~45のダメージ",
     "main_info2": null,
-    "sub_info": "피해량의 20% 생명력 흡수<br/>나팔꽃 흡수 중인 적 명중 시 내력 10% 회복<br/>아군 내력 10% 회복<br/>영역 내 소환수 5초간 생명력 10% 회복<br/>이동 중  사용 가능<br/>사용 중  이동속도 40% 감소<br/>5초간 내력 5 회복",
+    "sub_info": "피해량의 20% 생명력 흡수<br/>나팔꽃 흡수 중인 적 명중 時 내력 10% 회복<br/>아군 내력 10% 회복<br/>範囲 내 소환수 5秒間 생명력 10% 회복<br/>이동 中  使用 가능<br/>사용 中  移動速度 40% 감소<br/>5秒間 내력 5 회복",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6137,13 +6137,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -6152,36 +6152,36 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 96~112의 피해",
+    "main_info1": "5秒間 96~112のダメージ",
     "main_info2": null,
-    "sub_info": "5초간 내력 5 회복<br/>이동 중  사용 가능",
+    "sub_info": "5秒間 내력 5 회복<br/>이동 中  使用 가능",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6190,36 +6190,36 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 96~112의 피해",
+    "main_info1": "5秒間 96~112のダメージ",
     "main_info2": null,
-    "sub_info": "나팔꽃 흡수 당하는 적 소환수 기본 무공 피격 시 공격력 50% 추가 피해<br/>5초간 내력 5 회복<br/>이동 중  사용 가능",
+    "sub_info": "나팔꽃 흡수 당하는 적 소환수 기본 무공 피격 時 공격력 50% 추가 피해<br/>5秒間 내력 5 회복<br/>이동 中  使用 가능",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6228,36 +6228,36 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 96~112의 피해",
+    "main_info1": "5秒間 96~112のダメージ",
     "main_info2": null,
-    "sub_info": "치명타 시  내력 20% 회복<br/>나팔꽃 흡수 당하는 적 소환수 기본 무공 피격 시 공격력 50% 추가 피해<br/>5초간 내력 5 회복<br/>이동 중  사용 가능",
+    "sub_info": "치명타 時  내력 20% 회복<br/>나팔꽃 흡수 당하는 적 소환수 기본 무공 피격 時 공격력 50% 추가 피해<br/>5秒間 내력 5 회복<br/>이동 中  使用 가능",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6266,36 +6266,36 @@ var skill_data_SU = {
     "id": "26108",
     "name": "나팔꽃 흡수",
     "icon": "skill_icon_summon_0_11.png",
-    "main_info1": "5초간 96~112의 피해",
+    "main_info1": "5秒間 96~112のダメージ",
     "main_info2": null,
-    "sub_info": "치명타 시  말벌 즉시 시전<br/>치명타 시  내력 20% 회복<br/>나팔꽃 흡수 당하는 적 소환수 기본 무공 피격 시 공격력 50% 추가 피해<br/>5초간 내력 5 회복<br/>이동 중  사용 가능",
+    "sub_info": "치명타 時  말벌 即時 時전<br/>치명타 時  내력 20% 회복<br/>나팔꽃 흡수 당하는 적 소환수 기본 무공 피격 時 공격력 50% 추가 피해<br/>5秒間 내력 5 회복<br/>이동 中  使用 가능",
     "consume_sp": null,
     "ui_sp_heal_value": "5",
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6306,20 +6306,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -6327,13 +6327,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -6344,20 +6344,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6365,13 +6365,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -6382,20 +6382,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>아군 생명력 최대 20% 회복<br/>꽃가루 태우기 무공으로 적 명중 시 내상 효과 해제<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>아군 생명력 최대 20% 회복<br/>꽃가루 태우기 무공으로 적 명중 時 내상 효과 해제<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6403,13 +6403,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -6420,20 +6420,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>아군 생명력 최대 20% 회복<br/>꽃가루 태우기 무공으로 적 명중 시 내상 효과 해제<br/>아군 방어 20% 증가<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>아군 생명력 최대 20% 회복<br/>꽃가루 태우기 무공으로 적 명중 時 내상 효과 해제<br/>아군 방어 20% 増加<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6441,13 +6441,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -6458,20 +6458,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>아군 생명력 최대 20% 회복<br/>꽃가루 태우기 무공으로 적 명중 시 내상 효과 해제<br/>운기조식 중인 아군 피해 및 상태이상 저항<br/>아군 운기조식 시간 6초 감소<br/>아군 방어 20% 증가<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>아군 생명력 최대 20% 회복<br/>꽃가루 태우기 무공으로 적 명중 時 내상 효과 해제<br/>운기조식 중인 아군 ダメージおよび状態異常に抵抗<br/>아군 운기조식 時간 6秒 감소<br/>아군 방어 20% 増加<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6479,13 +6479,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -6496,20 +6496,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6517,13 +6517,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -6534,20 +6534,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>꽃가루 안의 적 독 최대 5 중첩<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>꽃가루 안의 적 독 최대 5 중첩<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6555,13 +6555,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -6572,20 +6572,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>소환수 치명 5% 증가<br/>아군 치명 5% 증가<br/>꽃가루 안의 적 독 최대 5 중첩<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>소환수 치명 5% 増加<br/>아군 치명 5% 増加<br/>꽃가루 안의 적 독 최대 5 중첩<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6593,13 +6593,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -6610,20 +6610,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_16.png",
     "main_info1": "아군에게 발사체 회피 효과",
     "main_info2": null,
-    "sub_info": "아군에게 원거리 공격 보호 효과<br/>꽃가루 태우기 무공으로 적 처치 시  재사용 시간 초기화<br/>소환수 치명 5% 증가<br/>아군 치명 5% 증가<br/>꽃가루 안의 적 독 최대 5 중첩<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
+    "sub_info": "아군에게 원距離 공격 보호 효과<br/>꽃가루 태우기 무공으로 적 처치 時  재사용 時간 秒기화<br/>소환수 치명 5% 増加<br/>아군 치명 5% 増加<br/>꽃가루 안의 적 독 최대 5 중첩<br/>적 주변 효과 발동<br/>꽃가루 안의 적 막기, 회피 불가",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -6631,13 +6631,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -6646,7 +6646,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제",
     "consume_sp": "0",
@@ -6655,27 +6655,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6684,7 +6684,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제",
     "consume_sp": "0",
@@ -6693,27 +6693,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6722,7 +6722,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제<br/>내상 효과 해제",
     "consume_sp": "0",
@@ -6731,27 +6731,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6760,7 +6760,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제<br/>내상 효과 해제",
     "consume_sp": "0",
@@ -6769,27 +6769,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6798,7 +6798,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제<br/>내상 효과 해제",
     "consume_sp": "0",
@@ -6807,27 +6807,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6836,7 +6836,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제",
     "consume_sp": "0",
@@ -6845,27 +6845,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6874,7 +6874,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제",
     "consume_sp": "0",
@@ -6883,27 +6883,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6912,7 +6912,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제",
     "consume_sp": "0",
@@ -6921,27 +6921,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6950,7 +6950,7 @@ var skill_data_SU = {
     "id": "26130",
     "name": "꽃가루 태우기",
     "icon": "skill_icon_assassin_0_64.png",
-    "main_info1": "꽃가루에 접촉한 적 10초간 90~105의 피해",
+    "main_info1": "꽃가루에 접촉한 적 10秒間 90~105のダメージ",
     "main_info2": null,
     "sub_info": "꽃가루 해제",
     "consume_sp": "0",
@@ -6959,27 +6959,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -6988,36 +6988,36 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "1.5초간 반격",
+    "main_info1": "1.5秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>성공 時  내력 4 회복",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7026,36 +7026,36 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "2초간 반격",
+    "main_info1": "2秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>반격 불가한 공격 피격 시  피해 50% 감소<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>截拳 불가한 공격 피격 時  피해 50% 감소<br/>성공 時  내력 4 회복",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7064,36 +7064,36 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "2초간 반격",
+    "main_info1": "2秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>반격 불가한 공격 피격 시  피해 50% 감소<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>截拳 불가한 공격 피격 時  피해 50% 감소<br/>성공 時  내력 4 회복",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7102,36 +7102,36 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "2초간 반격",
+    "main_info1": "2秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>은신 중  피해 50% 감소<br/>반격 불가한 공격 피격 시  피해 50% 감소<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>閃光 中  피해 50% 감소<br/>截拳 불가한 공격 피격 時  피해 50% 감소<br/>성공 時  내력 4 회복",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7140,36 +7140,36 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "2초간 반격",
+    "main_info1": "2秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>성공 시  말벌 재사용 시간 초기화<br/>은신 중  피해 50% 감소<br/>반격 불가한 공격 피격 시  피해 50% 감소<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>성공 時  말벌 재사용 時간 秒기화<br/>閃光 中  피해 50% 감소<br/>截拳 불가한 공격 피격 時  피해 50% 감소<br/>성공 時  내력 4 회복",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7178,22 +7178,22 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "2초간 반격",
+    "main_info1": "2秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>아군 민들레씨 효과<br/>보호한 아군 수만큼 생명력 1% 회복<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>반격 불가한 공격 피격 시  피해 50% 감소<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>아군 민들레씨 효과<br/>보호한 아군 수만큼 생명력 1% 회복<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>截拳 불가한 공격 피격 時  피해 50% 감소<br/>성공 時  내력 4 회복",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "30m"
       },
@@ -7201,13 +7201,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7216,22 +7216,22 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "2초간 반격",
+    "main_info1": "2秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>아군 민들레씨 효과<br/>보호한 아군 수만큼 생명력 1% 회복<br/>은신 중  기절, 그로기, 넉백 상태이상 저항<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>반격 불가한 공격 피격 시  피해 50% 감소<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>아군 민들레씨 효과<br/>보호한 아군 수만큼 생명력 1% 회복<br/>閃光 中  気絶, グロッキー, 넉백 状態이상 抵抗<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>截拳 불가한 공격 피격 時  피해 50% 감소<br/>성공 時  내력 4 회복",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "30m"
       },
@@ -7239,13 +7239,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7254,22 +7254,22 @@ var skill_data_SU = {
     "id": "26112",
     "name": "민들레씨",
     "icon": "skill_icon_summon_0_17.png",
-    "main_info1": "2초간 반격",
+    "main_info1": "2秒間 截拳",
     "main_info2": null,
-    "sub_info": "성공 시  6초간 은신<br/>성공 시  생명력 4% 회복<br/>아군 민들레씨 효과<br/>아군 민들레씨 효과 중 저항 시 생명력 4% 회복<br/>보호한 아군 수만큼 생명력 1% 회복<br/>은신 중  기절, 그로기, 넉백 상태이상 저항<br/>성공 시  1.5초간 피해 및 상태이상 저항<br/>반격 불가한 공격 피격 시  피해 50% 감소<br/>성공 시  내력 4 회복",
+    "sub_info": "성공 時  6秒間 閃光<br/>성공 時  생명력 4% 회복<br/>아군 민들레씨 효과<br/>아군 민들레씨 효과 中 抵抗 時 생명력 4% 회복<br/>보호한 아군 수만큼 생명력 1% 회복<br/>閃光 中  気絶, グロッキー, 넉백 状態이상 抵抗<br/>성공 時  1.5秒間 ダメージおよび状態異常に抵抗<br/>截拳 불가한 공격 피격 時  피해 50% 감소<br/>성공 時  내력 4 회복",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "30m"
       },
@@ -7277,13 +7277,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "8초"
+        "value": "8秒"
       }
     }
   },
@@ -7301,27 +7301,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7339,27 +7339,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7377,27 +7377,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7415,27 +7415,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7453,27 +7453,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7491,27 +7491,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7529,27 +7529,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7567,27 +7567,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -7596,43 +7596,43 @@ var skill_data_SU = {
     "id": "26114",
     "name": "교체",
     "icon": "skill_icon_summon_0_24.png",
-    "main_info1": "다운 상태 탈출",
+    "main_info1": "ダウン 状態 탈출",
     "main_info2": null,
-    "sub_info": "소환수와 위치 바꾸기<br/>시전 중 피격 시  3초간 다운",
+    "sub_info": "소환수와 위치 바꾸기<br/>詠唱中にダメージを受けた時  3秒間 ダウン",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "50m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
   "Summoner_Summon_StaffSmack_Lv1":
   {
     "id": "26115",
-    "name": "밟기",
+    "name": "踏む",
     "icon": "skill_icon_summon_0_33.png",
     "main_info1": null,
     "main_info2": null,
@@ -7643,34 +7643,34 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1.1초"
+        "value": "1.1秒"
       }
     }
   },
   "Summoner_Summon_StaffSmack_Hidden1_Lv1":
   {
     "id": "26139",
-    "name": "밟기",
+    "name": "踏む",
     "icon": "skill_icon_summon_0_33.png",
     "main_info1": null,
     "main_info2": null,
@@ -7681,27 +7681,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1.1초"
+        "value": "1.1秒"
       }
     }
   },
@@ -7719,27 +7719,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -7757,27 +7757,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -7795,27 +7795,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -7826,34 +7826,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_36.png",
     "main_info1": "후방 10m 이동",
     "main_info2": null,
-    "sub_info": "적 공격에 맞추어 사용 시  제압, 장악, 흡공 상태 탈출",
+    "sub_info": "적 공격에 맞추어 使用 時  制圧, 掴み上げ, 흡공 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -7871,27 +7871,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -7909,27 +7909,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -7947,27 +7947,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -7985,27 +7985,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "6초"
+        "value": "6秒"
       }
     }
   },
@@ -8023,27 +8023,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -8061,27 +8061,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -8099,27 +8099,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "6초"
+        "value": "6秒"
       }
     }
   },
@@ -8130,34 +8130,34 @@ var skill_data_SU = {
     "icon": "skill_icon_forcemaster_0_56.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "피해 및 상태이상 저항",
+    "sub_info": "ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -8168,20 +8168,20 @@ var skill_data_SU = {
     "icon": "skill_icon_forcemaster_0_56.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "이동속도 50% 감소<br/>10초간 30~35의 피해<br/>피해 및 상태이상 저항",
+    "sub_info": "移動速度 50% 감소<br/>10秒間 30~35のダメージ<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8189,13 +8189,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -8206,20 +8206,20 @@ var skill_data_SU = {
     "icon": "skill_icon_forcemaster_0_56.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "10초간 내력 50% 피해<br/>이동속도 50% 감소<br/>10초간 30~35의 피해<br/>피해 및 상태이상 저항",
+    "sub_info": "10秒間 내력 50% 피해<br/>移動速度 50% 감소<br/>10秒間 30~35のダメージ<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8227,13 +8227,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -8244,20 +8244,20 @@ var skill_data_SU = {
     "icon": "skill_icon_forcemaster_0_56.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "영역 내 대상 이동 무공 사용 불가<br/>10초간 내력 50% 피해<br/>이동속도 50% 감소<br/>10초간 30~35의 피해<br/>피해 및 상태이상 저항",
+    "sub_info": "範囲 내 対象 이동 무공 使用 불가<br/>10秒間 내력 50% 피해<br/>移動速度 50% 감소<br/>10秒間 30~35のダメージ<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8265,13 +8265,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -8282,20 +8282,20 @@ var skill_data_SU = {
     "icon": "skill_icon_forcemaster_0_56.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>이동속도 50% 감소<br/>10초간 120~140의 피해<br/>피해 및 상태이상 저항",
+    "sub_info": "출혈 최대 5 중첩<br/>移動速度 50% 감소<br/>10秒間 120~140のダメージ<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8303,13 +8303,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -8320,20 +8320,20 @@ var skill_data_SU = {
     "icon": "skill_icon_forcemaster_0_56.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>이동속도 50% 감소<br/>10초간 120~140의 피해<br/>피해 및 상태이상 저항",
+    "sub_info": "출혈 최대 5 중첩<br/>移動速度 50% 감소<br/>10秒間 120~140のダメージ<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8341,75 +8341,75 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
   "Summoner_Summon_BackwardRoll_Lv1":
   {
     "id": "26113",
-    "name": "뒤구르기",
+    "name": "後転",
     "icon": "skill_icon_summon_0_23.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "다운, 그로기, 혼절 상태 탈출<br/>피해 및 상태이상 저항",
+    "sub_info": "ダウン、グロッキー、昏倒状態から脱出<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
   "Summoner_Summon_BackwardRoll_1000":
   {
     "id": "26113",
-    "name": "뒤구르기",
+    "name": "後転",
     "icon": "skill_icon_summon_0_23.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "이동속도 50% 감소<br/>10초간 30~35의 피해<br/>다운, 그로기, 혼절 상태 탈출<br/>피해 및 상태이상 저항",
+    "sub_info": "移動速度 50% 감소<br/>10秒間 30~35のダメージ<br/>ダウン、グロッキー、昏倒状態から脱出<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8417,37 +8417,37 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
   "Summoner_Summon_BackwardRoll_2000":
   {
     "id": "26113",
-    "name": "뒤구르기",
+    "name": "後転",
     "icon": "skill_icon_summon_0_23.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "10초간 내력 50% 피해<br/>이동속도 50% 감소<br/>10초간 30~35의 피해<br/>다운, 그로기, 혼절 상태 탈출<br/>피해 및 상태이상 저항",
+    "sub_info": "10秒間 내력 50% 피해<br/>移動速度 50% 감소<br/>10秒間 30~35のダメージ<br/>ダウン、グロッキー、昏倒状態から脱出<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8455,37 +8455,37 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
   "Summoner_Summon_BackwardRoll_3000":
   {
     "id": "26113",
-    "name": "뒤구르기",
+    "name": "後転",
     "icon": "skill_icon_summon_0_23.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "영역 내 대상 이동 무공 사용 불가<br/>10초간 내력 50% 피해<br/>이동속도 50% 감소<br/>10초간 30~35의 피해<br/>다운, 그로기, 혼절 상태 탈출<br/>피해 및 상태이상 저항",
+    "sub_info": "範囲 내 対象 이동 무공 使用 불가<br/>10秒間 내력 50% 피해<br/>移動速度 50% 감소<br/>10秒間 30~35のダメージ<br/>ダウン、グロッキー、昏倒状態から脱出<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8493,37 +8493,37 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
   "Summoner_Summon_BackwardRoll_0200":
   {
     "id": "26113",
-    "name": "뒤구르기",
+    "name": "後転",
     "icon": "skill_icon_summon_0_23.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>이동속도 50% 감소<br/>10초간 120~140의 피해<br/>다운, 그로기, 혼절 상태 탈출<br/>피해 및 상태이상 저항",
+    "sub_info": "출혈 최대 5 중첩<br/>移動速度 50% 감소<br/>10秒間 120~140のダメージ<br/>ダウン、グロッキー、昏倒状態から脱出<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8531,37 +8531,37 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
   "Summoner_Summon_BackwardRoll_0300":
   {
     "id": "26113",
-    "name": "뒤구르기",
+    "name": "後転",
     "icon": "skill_icon_summon_0_23.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>이동속도 50% 감소<br/>10초간 120~140의 피해<br/>다운, 그로기, 혼절 상태 탈출<br/>피해 및 상태이상 저항",
+    "sub_info": "출혈 최대 5 중첩<br/>移動速度 50% 감소<br/>10秒間 120~140のダメージ<br/>ダウン、グロッキー、昏倒状態から脱出<br/>ダメージおよび状態異常に抵抗",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8569,13 +8569,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -8584,22 +8584,22 @@ var skill_data_SU = {
     "id": "26110",
     "name": "밤송이",
     "icon": "skill_icon_summon_0_15.png",
-    "main_info1": "이동속도 50% 감소",
+    "main_info1": "移動速度 50% 감소",
     "main_info2": null,
-    "sub_info": "10초간 30~35의 피해",
+    "sub_info": "10秒間 30~35のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8607,13 +8607,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8622,22 +8622,22 @@ var skill_data_SU = {
     "id": "26110",
     "name": "밤송이",
     "icon": "skill_icon_summon_0_15.png",
-    "main_info1": "이동속도 50% 감소",
+    "main_info1": "移動速度 50% 감소",
     "main_info2": null,
-    "sub_info": "10초간 30~35의 피해",
+    "sub_info": "10秒間 30~35のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8645,13 +8645,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8660,22 +8660,22 @@ var skill_data_SU = {
     "id": "26110",
     "name": "밤송이",
     "icon": "skill_icon_summon_0_15.png",
-    "main_info1": "이동속도 50% 감소",
+    "main_info1": "移動速度 50% 감소",
     "main_info2": null,
-    "sub_info": "10초간 내력 50% 피해<br/>10초간 30~35의 피해",
+    "sub_info": "10秒間 내력 50% 피해<br/>10秒間 30~35のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8683,13 +8683,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8698,22 +8698,22 @@ var skill_data_SU = {
     "id": "26110",
     "name": "밤송이",
     "icon": "skill_icon_summon_0_15.png",
-    "main_info1": "이동속도 50% 감소",
+    "main_info1": "移動速度 50% 감소",
     "main_info2": null,
-    "sub_info": "영역 내 대상 이동 무공 사용 불가<br/>10초간 내력 50% 피해<br/>10초간 30~35의 피해",
+    "sub_info": "範囲 내 対象 이동 무공 使用 불가<br/>10秒間 내력 50% 피해<br/>10秒間 30~35のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8721,13 +8721,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8736,22 +8736,22 @@ var skill_data_SU = {
     "id": "26110",
     "name": "밤송이",
     "icon": "skill_icon_summon_0_15.png",
-    "main_info1": "이동속도 50% 감소",
+    "main_info1": "移動速度 50% 감소",
     "main_info2": null,
-    "sub_info": "출혈 최대 5 중첩<br/>10초간 120~140의 피해",
+    "sub_info": "출혈 최대 5 중첩<br/>10秒間 120~140のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8759,13 +8759,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -8774,22 +8774,22 @@ var skill_data_SU = {
     "id": "26110",
     "name": "밤송이",
     "icon": "skill_icon_summon_0_15.png",
-    "main_info1": "이동속도 50% 감소",
+    "main_info1": "移動速度 50% 감소",
     "main_info2": null,
-    "sub_info": "다운, 제압된 적 타깃팅 시 적 위치 중심으로 밤송이 살포<br/>출혈 최대 5 중첩<br/>10초간 120~140의 피해",
+    "sub_info": "ダウン, 制圧된 적 타깃팅 時 적 위치 중심으로 밤송이 살포<br/>출혈 최대 5 중첩<br/>10秒間 120~140のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8797,13 +8797,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -8821,13 +8821,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8835,13 +8835,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8859,13 +8859,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8873,13 +8873,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8897,13 +8897,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8911,13 +8911,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8935,13 +8935,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8949,13 +8949,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -8973,13 +8973,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -8987,13 +8987,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -9011,13 +9011,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "16m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -9025,13 +9025,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "24초"
+        "value": "24秒"
       }
     }
   },
@@ -9041,21 +9041,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9063,13 +9063,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -9079,21 +9079,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "적 4명 이상 명중 시  회피 재사용 시간 초기화<br/>소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "적 4명 이상 명중 時  회피 재사용 時간 秒기화<br/>소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9101,13 +9101,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -9117,21 +9117,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "10m 넉백<br/>적 4명 이상 명중 시  회피 재사용 시간 초기화<br/>소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "10m 넉백<br/>적 4명 이상 명중 時  회피 재사용 時간 秒기화<br/>소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9139,13 +9139,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -9155,21 +9155,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "소환사 상태이상 중  사용 가능<br/>소환사 상태이상 중 사용 시 재사용시간 60초 적용<br/>재사용시간 동안 강아지풀 기본 무공 사용 가능<br/>호출 중 소환수 상태이상 저항<br/>소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림<br/>10m 넉백<br/>적 4명 이상 명중 시  회피 재사용 시간 초기화",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "소환사 状態이상 中  使用 가능<br/>소환사 状態이상 中 使用 時 재사용시간 60秒 적용<br/>재사용시간 동안 강아지풀 기본 무공 使用 가능<br/>호출 中 소환수 状態이상 抵抗<br/>소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림<br/>10m 넉백<br/>적 4명 이상 명중 時  회피 재사용 時간 秒기화",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9177,13 +9177,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -9193,21 +9193,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "소환사 상태이상 해제<br/>소환사 상태이상 중  사용 가능<br/>소환사 상태이상 중 사용 시 재사용시간 60초 적용<br/>재사용시간 동안 강아지풀 기본 무공 사용 가능<br/>호출 중 소환수 상태이상 저항<br/>소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림<br/>10m 넉백<br/>적 4명 이상 명중 시  회피 재사용 시간 초기화",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "소환사 状態이상 해제<br/>소환사 状態이상 中  使用 가능<br/>소환사 状態이상 中 使用 時 재사용시간 60秒 적용<br/>재사용시간 동안 강아지풀 기본 무공 使用 가능<br/>호출 中 소환수 状態이상 抵抗<br/>소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림<br/>10m 넉백<br/>적 4명 이상 명중 時  회피 재사용 時간 秒기화",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9215,13 +9215,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -9231,21 +9231,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "끌어당겨 3초간 다운<br/>적 4명 이상 명중 시  회피 재사용 시간 초기화<br/>소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "끌어당겨 3秒間 ダウン<br/>적 4명 이상 명중 時  회피 재사용 時간 秒기화<br/>소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9253,13 +9253,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -9269,21 +9269,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "8초간 방어 무공 사용 불가<br/>끌어당겨 3초간 다운<br/>적 4명 이상 명중 시  회피 재사용 시간 초기화<br/>소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "8秒間 방어 무공 使用 불가<br/>끌어당겨 3秒間 ダウン<br/>적 4명 이상 명중 時  회피 재사용 時간 秒기화<br/>소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9291,13 +9291,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -9307,21 +9307,21 @@ var skill_data_SU = {
     "name": "강아지풀",
     "icon": "skill_icon_summon_0_14.png",
     "main_info1": "소환수 호출",
-    "main_info2": "11~13의 피해",
-    "sub_info": "최대 2회 연속 시전<br/>8초간 방어 무공 사용 불가<br/>끌어당겨 3초간 다운<br/>적 4명 이상 명중 시  회피 재사용 시간 초기화<br/>소환수 상태이상 해제. 기절, 다운, 그로기, 혼절, 공중, 장악, 흡공, 제압 제외<br/>돌아온 소환수는 다음 명령을 기다림",
+    "main_info2": "11~13のダメージ",
+    "sub_info": "최대 2회 연속 時전<br/>8秒間 방어 무공 使用 불가<br/>끌어당겨 3秒間 ダウン<br/>적 4명 이상 명중 時  회피 재사용 時간 秒기화<br/>소환수 状態이상 해제. 気絶, ダウン, グロッキー, 気絶, 공중, 掴み上げ, 흡공, 制圧 제외<br/>돌아온 소환수는 다음 명령을 기다림",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9329,13 +9329,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -9353,27 +9353,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -9391,27 +9391,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -9429,21 +9429,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9467,13 +9467,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9481,7 +9481,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9505,13 +9505,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9519,7 +9519,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9543,21 +9543,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9581,21 +9581,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9619,13 +9619,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9633,13 +9633,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -9657,27 +9657,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -9695,27 +9695,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -9733,21 +9733,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9771,13 +9771,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9785,7 +9785,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9809,13 +9809,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -9823,7 +9823,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9847,21 +9847,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9885,21 +9885,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9923,21 +9923,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -9961,27 +9961,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -9999,27 +9999,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -10037,21 +10037,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10075,13 +10075,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -10089,7 +10089,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10113,13 +10113,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -10127,7 +10127,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10151,21 +10151,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10189,21 +10189,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10227,21 +10227,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10265,27 +10265,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -10303,27 +10303,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -10341,21 +10341,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10379,13 +10379,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -10393,7 +10393,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10417,13 +10417,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -10431,7 +10431,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10455,21 +10455,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10493,21 +10493,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10531,21 +10531,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10569,27 +10569,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -10607,27 +10607,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -10645,21 +10645,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10683,13 +10683,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -10697,7 +10697,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10721,13 +10721,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -10735,7 +10735,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10759,21 +10759,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10797,21 +10797,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10835,21 +10835,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10873,27 +10873,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -10911,27 +10911,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -10949,21 +10949,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -10987,13 +10987,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -11001,7 +11001,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -11025,13 +11025,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -11039,7 +11039,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -11063,21 +11063,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -11101,21 +11101,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -11139,21 +11139,21 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
@@ -11177,13 +11177,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -11191,13 +11191,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -11208,34 +11208,34 @@ var skill_data_SU = {
     "icon": "skill_icon_kungfufighter_1_2.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "다운, 혼절 상태 탈출",
+    "sub_info": "ダウン, 気絶 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11246,34 +11246,34 @@ var skill_data_SU = {
     "icon": "skill_icon_kungfufighter_1_2.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "다운, 기절, 그로기, 혼절 상태 탈출",
+    "sub_info": "ダウン, 気絶, グロッキー, 気絶 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11284,34 +11284,34 @@ var skill_data_SU = {
     "icon": "skill_icon_kungfufighter_1_2.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "제압 상태 탈출<br/>다운, 기절, 그로기, 혼절 상태 탈출",
+    "sub_info": "制圧 状態 탈출<br/>ダウン, 気絶, グロッキー, 気絶 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11322,34 +11322,34 @@ var skill_data_SU = {
     "icon": "skill_icon_kungfufighter_1_2.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "제압, 장악, 흡공 상태 탈출<br/>다운, 기절, 그로기, 혼절 상태 탈출",
+    "sub_info": "制圧, 掴み上げ, 흡공 状態 탈출<br/>ダウン, 気絶, グロッキー, 気絶 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11360,34 +11360,34 @@ var skill_data_SU = {
     "icon": "skill_icon_kungfufighter_1_2.png",
     "main_info1": "후방 8m 이동",
     "main_info2": null,
-    "sub_info": "생명력 10% 보호막<br/>제압, 장악, 흡공 상태 탈출<br/>다운, 기절, 그로기, 혼절 상태 탈출",
+    "sub_info": "생명력 10% 보호막<br/>制圧, 掴み上げ, 흡공 状態 탈출<br/>ダウン, 気絶, グロッキー, 気絶 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11405,27 +11405,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11443,27 +11443,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11481,27 +11481,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11519,27 +11519,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11557,27 +11557,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11595,27 +11595,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11633,27 +11633,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11671,27 +11671,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11709,27 +11709,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11747,27 +11747,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11785,27 +11785,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11823,27 +11823,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11861,27 +11861,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11899,27 +11899,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11937,27 +11937,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -11975,27 +11975,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12013,27 +12013,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12051,27 +12051,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12089,27 +12089,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12127,27 +12127,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12158,34 +12158,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_6.png",
     "main_info1": "소환수가 적에게 돌진",
     "main_info2": null,
-    "sub_info": "24~28의 피해",
+    "sub_info": "24~28のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12196,34 +12196,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_6.png",
     "main_info1": "소환수가 적에게 돌진",
     "main_info2": null,
-    "sub_info": "24~28의 피해<br/>돌진 속도 증가",
+    "sub_info": "24~28のダメージ<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12234,34 +12234,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_6.png",
     "main_info1": "소환수가 적에게 돌진",
     "main_info2": null,
-    "sub_info": "접근 중 튕기기<br/>24~28의 피해<br/>재사용시간 동안 달려들기 1급1초식 무공 사용 가능<br/>돌진 속도 증가",
+    "sub_info": "접근 中 튕기기<br/>24~28のダメージ<br/>재사용시간 동안 달려들기 1급1秒식 무공 使用 가능<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12272,34 +12272,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_6.png",
     "main_info1": "소환수가 적에게 돌진",
     "main_info2": null,
-    "sub_info": "접근 중 튕기기<br/>24~28의 피해<br/>이동속도 20% 감소<br/>8초간 이동 무공 사용 불가<br/>재사용시간 동안 달려들기 1급1초식 무공 사용 가능<br/>돌진 속도 증가",
+    "sub_info": "접근 中 튕기기<br/>24~28のダメージ<br/>移動速度 20% 감소<br/>8秒間 이동 무공 使用 불가<br/>재사용시간 동안 달려들기 1급1秒식 무공 使用 가능<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12310,34 +12310,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_6.png",
     "main_info1": "소환수가 적에게 돌진",
     "main_info2": null,
-    "sub_info": "접근 중 튕기기<br/>24~28의 피해<br/>방어 불가<br/>방어 중인 적 2초간 기절<br/>이동속도 20% 감소<br/>8초간 이동 무공 사용 불가<br/>재사용시간 동안 달려들기 1급1초식 무공 사용 가능<br/>돌진 속도 증가",
+    "sub_info": "접근 中 튕기기<br/>24~28のダメージ<br/>방어 불가<br/>방어 중인 적 2秒間 気絶<br/>移動速度 20% 감소<br/>8秒間 이동 무공 使用 불가<br/>재사용시간 동안 달려들기 1급1秒식 무공 使用 가능<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12348,34 +12348,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_42.png",
     "main_info1": "소환수가 연쇄하여 적에게 돌진",
     "main_info2": null,
-    "sub_info": "접근 중 튕기기<br/>최대 5명의 적에게 연속하여 12~14의 피해<br/>재사용시간 동안 달려들기 1급1초식 무공 사용 가능<br/>돌진 속도 증가",
+    "sub_info": "접근 中 튕기기<br/>최대 5명의 적에게 연속하여 12~14のダメージ<br/>재사용시간 동안 달려들기 1급1秒식 무공 使用 가능<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12386,34 +12386,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_42.png",
     "main_info1": "소환수가 연쇄하여 적에게 돌진",
     "main_info2": null,
-    "sub_info": "접근 중 튕기기<br/>최대 5명의 적에게 연속하여 12~14의 피해<br/>최대 2회 연속 시전<br/>재사용시간 동안 달려들기 1급1초식 무공 사용 가능<br/>돌진 속도 증가",
+    "sub_info": "접근 中 튕기기<br/>최대 5명의 적에게 연속하여 12~14のダメージ<br/>최대 2회 연속 時전<br/>재사용시간 동안 달려들기 1급1秒식 무공 使用 가능<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -12423,35 +12423,35 @@ var skill_data_SU = {
     "name": "달려들기",
     "icon": "skill_icon_summon_0_42.png",
     "main_info1": "소환수가 적에게 돌진",
-    "main_info2": "5회에 걸쳐 60~70의 피해",
-    "sub_info": "2회 명중 시  2초간 기절<br/>재사용시간 동안 달려들기 1급1초식 무공 사용 가능<br/>돌진 속도 증가",
+    "main_info2": "5회에 걸쳐 60~70のダメージ",
+    "sub_info": "2회 명중 時  2秒間 気絶<br/>재사용시간 동안 달려들기 1급1秒식 무공 使用 가능<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -12461,35 +12461,35 @@ var skill_data_SU = {
     "name": "달려들기",
     "icon": "skill_icon_summon_0_42.png",
     "main_info1": "소환수가 적에게 돌진",
-    "main_info2": "5회에 걸쳐 60~70의 피해",
-    "sub_info": "적 후방 명중 시  누르기 재사용 시간 초기화<br/>적 후방 명중 시  우다다 재사용 시간 초기화<br/>2회 명중 시  2초간 기절<br/>재사용시간 동안 달려들기 1급1초식 무공 사용 가능<br/>돌진 속도 증가",
+    "main_info2": "5회에 걸쳐 60~70のダメージ",
+    "sub_info": "적 後방 명중 時  누르기 재사용 時간 秒기화<br/>적 後방 명중 時  우다다 재사용 時간 秒기화<br/>2회 명중 時  2秒間 気絶<br/>재사용시간 동안 달려들기 1급1秒식 무공 使用 가능<br/>돌진 속도 増加",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -12507,27 +12507,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12545,27 +12545,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12583,27 +12583,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12621,27 +12621,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12659,27 +12659,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12697,27 +12697,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12735,27 +12735,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12773,27 +12773,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12811,27 +12811,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12849,27 +12849,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -12878,22 +12878,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "하단베기",
     "icon": "skill_icon_summon_0_34.png",
-    "main_info1": "3초간 다운",
+    "main_info1": "3秒間 ダウン",
     "main_info2": null,
-    "sub_info": "18~21의 피해",
+    "sub_info": "18~21のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -12901,13 +12901,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -12916,22 +12916,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "하단베기",
     "icon": "skill_icon_summon_0_34.png",
-    "main_info1": "4초간 다운",
+    "main_info1": "4秒間 ダウン",
     "main_info2": null,
-    "sub_info": "18~21의 피해",
+    "sub_info": "18~21のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -12939,13 +12939,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -12954,22 +12954,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "하단베기",
     "icon": "skill_icon_summon_0_34.png",
-    "main_info1": "4초간 다운",
+    "main_info1": "4秒間 ダウン",
     "main_info2": null,
-    "sub_info": "18~21의 피해<br/>명중 시  충격 최대 가속<br/>충격 1급 1초식 수련 이후 즉시 가속 효과 적용",
+    "sub_info": "18~21のダメージ<br/>명중 時  충격 최대 가속<br/>충격 1급 1秒식 수련 이후 即時 가속 효과 적용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -12977,13 +12977,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -12992,22 +12992,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "하단베기",
     "icon": "skill_icon_summon_0_34.png",
-    "main_info1": "4초간 다운",
+    "main_info1": "4秒間 ダウン",
     "main_info2": null,
-    "sub_info": "18~21의 피해<br/>이동속도 40% 감소<br/>8초간 이동 무공 사용 불가<br/>명중 시  충격 최대 가속<br/>충격 1급 1초식 수련 이후 즉시 가속 효과 적용",
+    "sub_info": "18~21のダメージ<br/>移動速度 40% 감소<br/>8秒間 이동 무공 使用 불가<br/>명중 時  충격 최대 가속<br/>충격 1급 1秒식 수련 이후 即時 가속 효과 적용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -13015,13 +13015,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -13030,22 +13030,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "하단베기",
     "icon": "skill_icon_summon_0_34.png",
-    "main_info1": "4초간 다운",
+    "main_info1": "4秒間 ダウン",
     "main_info2": null,
-    "sub_info": "18~21의 피해<br/>최대 2회 연속 시전<br/>2회 연속 시전 시 재사용시간 12초 증가<br/>충격 1급 1초식 수련 이후 즉시 가속 효과 적용<br/>이동속도 40% 감소<br/>8초간 이동 무공 사용 불가<br/>명중 시  충격 최대 가속",
+    "sub_info": "18~21のダメージ<br/>최대 2회 연속 時전<br/>2회 연속 時전 時 재사용시간 12秒 増加<br/>충격 1급 1秒식 수련 이후 即時 가속 효과 적용<br/>移動速度 40% 감소<br/>8秒間 이동 무공 使用 불가<br/>명중 時  충격 최대 가속",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -13053,13 +13053,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -13068,22 +13068,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "폭탄 설치",
     "icon": "skill_icon_summon_0_26.png",
-    "main_info1": "3초간 다운",
+    "main_info1": "3秒間 ダウン",
     "main_info2": null,
-    "sub_info": "소환수가 폭탄 설치<br/>36~42의 피해",
+    "sub_info": "소환수가 폭탄 설치<br/>36~42のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "1m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -13091,13 +13091,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -13106,22 +13106,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "폭탄 설치",
     "icon": "skill_icon_summon_0_26.png",
-    "main_info1": "3초간 다운",
+    "main_info1": "3秒間 ダウン",
     "main_info2": null,
-    "sub_info": "소환수가 폭탄 설치<br/>36~42의 피해",
+    "sub_info": "소환수가 폭탄 설치<br/>36~42のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -13129,13 +13129,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -13144,22 +13144,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "폭탄 설치",
     "icon": "skill_icon_summon_0_26.png",
-    "main_info1": "3초간 다운",
+    "main_info1": "3秒間 ダウン",
     "main_info2": null,
-    "sub_info": "소환수가 폭탄 설치<br/>즉시 다운 합격 효과 적용<br/>36~42의 피해",
+    "sub_info": "소환수가 폭탄 설치<br/>即時 ダウン 합격 효과 적용<br/>36~42のダメージ",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -13167,13 +13167,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -13182,22 +13182,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "폭탄 설치",
     "icon": "skill_icon_summon_0_26.png",
-    "main_info1": "78~91의 피해",
+    "main_info1": "78~91のダメージ",
     "main_info2": null,
-    "sub_info": "다운, 제압 당한 적 96~112의 추가 피해<br/>소환수가 폭탄 설치",
+    "sub_info": "ダウン, 制圧 당한 적 96~112의 추가 피해<br/>소환수가 폭탄 설치",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "1m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -13205,13 +13205,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -13220,22 +13220,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "폭탄 설치",
     "icon": "skill_icon_summon_0_26.png",
-    "main_info1": "78~91의 피해",
+    "main_info1": "78~91のダメージ",
     "main_info2": null,
-    "sub_info": "다운, 제압 당한 적 96~112의 추가 피해<br/>소환수가 폭탄 설치<br/>소환수 상태이상 중 폭파 가능",
+    "sub_info": "ダウン, 制圧 당한 적 96~112의 추가 피해<br/>소환수가 폭탄 설치<br/>소환수 状態이상 中 폭파 가능",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "1m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -13243,13 +13243,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -13258,22 +13258,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "폭탄발사",
     "icon": "buff_debuff_icon_03_21.png",
-    "main_info1": "120~140의 피해",
+    "main_info1": "120~140のダメージ",
     "main_info2": null,
-    "sub_info": "시전 8초 후 소환수 위치에 피해 발생<br/>방어 불가",
+    "sub_info": "시전 8秒 後 소환수 위치에 피해 발생<br/>방어 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -13281,13 +13281,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -13296,22 +13296,22 @@ var skill_data_SU = {
     "id": "26202",
     "name": "폭탄발사",
     "icon": "buff_debuff_icon_03_21.png",
-    "main_info1": "120~140의 피해",
+    "main_info1": "120~140のダメージ",
     "main_info2": null,
-    "sub_info": "시전 8초 후 소환수 위치에 피해 발생<br/>명중 시 재사용시간 12초 감소<br/>방어 불가",
+    "sub_info": "시전 8秒 後 소환수 위치에 피해 발생<br/>명중 時 재사용시간 12秒 감소<br/>방어 불가",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -13319,13 +13319,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "36초"
+        "value": "36秒"
       }
     }
   },
@@ -13343,13 +13343,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13357,13 +13357,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13381,13 +13381,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13395,13 +13395,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13419,13 +13419,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13433,13 +13433,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13457,13 +13457,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13471,13 +13471,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13495,13 +13495,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13509,13 +13509,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13533,13 +13533,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13547,13 +13547,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13571,13 +13571,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13585,13 +13585,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13609,13 +13609,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13623,13 +13623,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13647,13 +13647,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13661,13 +13661,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13685,13 +13685,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13699,13 +13699,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13723,13 +13723,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13737,13 +13737,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13761,13 +13761,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13775,13 +13775,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13799,13 +13799,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13813,13 +13813,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13837,13 +13837,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13851,13 +13851,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13875,13 +13875,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13889,13 +13889,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13913,13 +13913,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13927,13 +13927,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13951,13 +13951,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -13965,13 +13965,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -13989,13 +13989,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14003,13 +14003,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14027,13 +14027,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14041,13 +14041,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14065,13 +14065,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14079,13 +14079,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14103,13 +14103,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14117,13 +14117,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14141,13 +14141,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14155,13 +14155,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14179,13 +14179,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14193,13 +14193,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14217,13 +14217,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14231,13 +14231,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14255,13 +14255,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14269,13 +14269,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14293,13 +14293,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14307,13 +14307,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14331,13 +14331,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14345,13 +14345,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14369,13 +14369,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14383,13 +14383,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14407,13 +14407,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14421,13 +14421,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14445,13 +14445,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14459,13 +14459,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14483,13 +14483,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14497,13 +14497,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14521,13 +14521,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14535,13 +14535,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14559,13 +14559,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14573,13 +14573,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14597,13 +14597,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14611,13 +14611,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14635,13 +14635,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14649,13 +14649,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14673,13 +14673,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14687,13 +14687,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14711,13 +14711,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14725,13 +14725,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14749,13 +14749,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14763,13 +14763,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14787,13 +14787,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14801,13 +14801,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14825,13 +14825,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14839,13 +14839,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14863,13 +14863,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14877,13 +14877,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14901,13 +14901,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14915,13 +14915,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14939,13 +14939,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14953,13 +14953,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -14977,13 +14977,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -14991,13 +14991,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15015,13 +15015,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15029,13 +15029,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15053,13 +15053,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15067,13 +15067,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15091,13 +15091,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15105,13 +15105,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15129,13 +15129,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15143,13 +15143,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15167,13 +15167,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15181,13 +15181,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15205,13 +15205,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15219,13 +15219,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15243,13 +15243,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15257,13 +15257,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15281,13 +15281,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15295,13 +15295,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15319,13 +15319,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15333,13 +15333,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15357,13 +15357,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15371,13 +15371,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15395,13 +15395,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15409,13 +15409,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15433,13 +15433,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15447,13 +15447,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15471,13 +15471,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15485,13 +15485,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15509,13 +15509,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15523,13 +15523,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15547,13 +15547,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15561,13 +15561,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15585,13 +15585,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15599,13 +15599,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15623,13 +15623,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15637,13 +15637,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15661,13 +15661,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15675,13 +15675,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15699,13 +15699,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15713,13 +15713,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15737,13 +15737,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15751,13 +15751,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15775,13 +15775,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15789,13 +15789,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15813,13 +15813,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15827,13 +15827,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15851,13 +15851,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15865,13 +15865,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15889,13 +15889,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15903,13 +15903,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15927,13 +15927,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15941,13 +15941,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -15965,13 +15965,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -15979,13 +15979,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -16003,13 +16003,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -16017,13 +16017,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -16041,13 +16041,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -16055,13 +16055,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -16079,13 +16079,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16093,13 +16093,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16117,13 +16117,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16131,13 +16131,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16155,13 +16155,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16169,13 +16169,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16193,13 +16193,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16207,13 +16207,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16231,13 +16231,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16245,13 +16245,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -16269,13 +16269,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16283,13 +16283,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16307,13 +16307,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16321,13 +16321,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16345,13 +16345,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16359,13 +16359,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16383,13 +16383,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16397,13 +16397,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16421,13 +16421,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16435,13 +16435,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16459,13 +16459,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16473,13 +16473,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16497,13 +16497,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_5",
         "value": "3m"
       },
@@ -16511,13 +16511,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -16528,20 +16528,20 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_13.png",
     "main_info1": "광역 아군 부활",
     "main_info2": null,
-    "sub_info": "소환 해제<br/>생명력 50% 상태로 부활",
+    "sub_info": "소환 해제<br/>생명력 50% 状態로 부활",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "50m"
       },
@@ -16549,7 +16549,7 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "11초"
+        "value": "11秒"
       },
       "3":
       {
@@ -16564,7 +16564,7 @@ var skill_data_SU = {
     "id": "26201",
     "name": "냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "37~43의 피해",
+    "main_info1": "37~43のダメージ",
     "main_info2": null,
     "sub_info": "소환수가 자동으로 사용",
     "consume_sp": null,
@@ -16573,27 +16573,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -16602,7 +16602,7 @@ var skill_data_SU = {
     "id": "26201",
     "name": "냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "37~43의 피해",
+    "main_info1": "37~43のダメージ",
     "main_info2": null,
     "sub_info": "이동 불가한 적 3~4의 추가 피해<br/>소환수가 자동으로 사용",
     "consume_sp": null,
@@ -16611,27 +16611,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -16640,7 +16640,7 @@ var skill_data_SU = {
     "id": "26201",
     "name": "냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "37~43의 피해",
+    "main_info1": "37~43のダメージ",
     "main_info2": null,
     "sub_info": "출혈 1 중첩<br/>이동 불가한 적 3~4의 추가 피해<br/>소환수가 자동으로 사용",
     "consume_sp": null,
@@ -16649,27 +16649,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -16678,36 +16678,36 @@ var skill_data_SU = {
     "id": "26201",
     "name": "냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "37~43의 피해",
+    "main_info1": "37~43のダメージ",
     "main_info2": null,
-    "sub_info": "야옹~ 무공으로 적 전방에서 치명타 시 적 후방으로 이동<br/>소환수가 자동으로 사용<br/>출혈 1 중첩<br/>이동 불가한 적 3~4의 추가 피해",
+    "sub_info": "야옹~ 무공으로 적 전방에서 치명타 時 적 後방으로 이동<br/>소환수가 자동으로 사용<br/>출혈 1 중첩<br/>이동 불가한 적 3~4의 추가 피해",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -16716,36 +16716,36 @@ var skill_data_SU = {
     "id": "26201",
     "name": "냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "37~43의 피해",
+    "main_info1": "37~43のダメージ",
     "main_info2": null,
-    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 사용 중  기절, 그로기, 넉백, 공중 상태이상 저항<br/>빙글빙글 사용 시  결빙 상태 탈출<br/>이동 불가한 적 3~4의 추가 피해",
+    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 使用 中  気絶, グロッキー, 넉백, 공중 状態이상 抵抗<br/>빙글빙글 使用 時  결빙 状態 탈출<br/>이동 불가한 적 3~4의 추가 피해",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -16754,36 +16754,36 @@ var skill_data_SU = {
     "id": "26201",
     "name": "냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "37~43의 피해",
+    "main_info1": "37~43のダメージ",
     "main_info2": null,
-    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 사용 시  0.5초간 최대 1회 튕기기<br/>빙글빙글 사용 중  기절, 그로기, 넉백, 공중 상태이상 저항<br/>빙글빙글 사용 시  결빙 상태 탈출<br/>이동 불가한 적 3~4의 추가 피해",
+    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 使用 時  0.5秒間 최대 1회 튕기기<br/>빙글빙글 使用 中  気絶, グロッキー, 넉백, 공중 状態이상 抵抗<br/>빙글빙글 使用 時  결빙 状態 탈출<br/>이동 불가한 적 3~4의 추가 피해",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -16792,7 +16792,7 @@ var skill_data_SU = {
     "id": "26204",
     "name": "냐냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "54~63의 피해",
+    "main_info1": "54~63のダメージ",
     "main_info2": null,
     "sub_info": "소환수가 자동으로 사용",
     "consume_sp": null,
@@ -16801,27 +16801,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -16830,7 +16830,7 @@ var skill_data_SU = {
     "id": "26204",
     "name": "냐냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "54~63의 피해",
+    "main_info1": "54~63のダメージ",
     "main_info2": null,
     "sub_info": "3~4의 추가 피해<br/>소환수가 자동으로 사용",
     "consume_sp": null,
@@ -16839,27 +16839,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -16868,7 +16868,7 @@ var skill_data_SU = {
     "id": "26204",
     "name": "냐냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "54~63의 피해",
+    "main_info1": "54~63のダメージ",
     "main_info2": null,
     "sub_info": "출혈 1 중첩<br/>3~4의 추가 피해<br/>소환수가 자동으로 사용",
     "consume_sp": null,
@@ -16877,27 +16877,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -16906,36 +16906,36 @@ var skill_data_SU = {
     "id": "26204",
     "name": "냐냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "54~63의 피해",
+    "main_info1": "54~63のダメージ",
     "main_info2": null,
-    "sub_info": "야옹~ 무공으로 적 전방에서 치명타 시 적 후방으로 이동<br/>소환수가 자동으로 사용<br/>출혈 1 중첩<br/>3~4의 추가 피해",
+    "sub_info": "야옹~ 무공으로 적 전방에서 치명타 時 적 後방으로 이동<br/>소환수가 자동으로 사용<br/>출혈 1 중첩<br/>3~4의 추가 피해",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -16944,36 +16944,36 @@ var skill_data_SU = {
     "id": "26204",
     "name": "냐냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "54~63의 피해",
+    "main_info1": "54~63のダメージ",
     "main_info2": null,
-    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 사용 중  기절, 그로기, 넉백, 공중 상태이상 저항<br/>빙글빙글 사용 시  결빙 상태 탈출<br/>3~4의 추가 피해",
+    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 使用 中  気絶, グロッキー, 넉백, 공중 状態이상 抵抗<br/>빙글빙글 使用 時  결빙 状態 탈출<br/>3~4의 추가 피해",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -16982,36 +16982,36 @@ var skill_data_SU = {
     "id": "26204",
     "name": "냐냥~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "54~63의 피해",
+    "main_info1": "54~63のダメージ",
     "main_info2": null,
-    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 사용 시  0.5초간 최대 1회 튕기기<br/>빙글빙글 사용 중  기절, 그로기, 넉백, 공중 상태이상 저항<br/>빙글빙글 사용 시  결빙 상태 탈출<br/>3~4의 추가 피해",
+    "sub_info": "야옹~ 무공을 빙글빙글 무공으로 교체<br/>소환수가 자동으로 사용<br/>빙글빙글 使用 時  0.5秒間 최대 1회 튕기기<br/>빙글빙글 使用 中  気絶, グロッキー, 넉백, 공중 状態이상 抵抗<br/>빙글빙글 使用 時  결빙 状態 탈출<br/>3~4의 추가 피해",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17020,7 +17020,7 @@ var skill_data_SU = {
     "id": "26205",
     "name": "야옹~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "60~70의 피해",
+    "main_info1": "60~70のダメージ",
     "main_info2": null,
     "sub_info": "소환수가 자동으로 사용",
     "consume_sp": null,
@@ -17029,27 +17029,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17058,7 +17058,7 @@ var skill_data_SU = {
     "id": "26205",
     "name": "야옹~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "60~70의 피해",
+    "main_info1": "60~70のダメージ",
     "main_info2": null,
     "sub_info": "3~4의 추가 피해<br/>소환수가 자동으로 사용",
     "consume_sp": null,
@@ -17067,27 +17067,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17096,7 +17096,7 @@ var skill_data_SU = {
     "id": "26205",
     "name": "야옹~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "60~70의 피해",
+    "main_info1": "60~70のダメージ",
     "main_info2": null,
     "sub_info": "출혈 1 중첩<br/>3~4의 추가 피해<br/>소환수가 자동으로 사용",
     "consume_sp": null,
@@ -17105,27 +17105,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17134,36 +17134,36 @@ var skill_data_SU = {
     "id": "26205",
     "name": "야옹~",
     "icon": "skill_icon_summon_0_28.png",
-    "main_info1": "60~70의 피해",
+    "main_info1": "60~70のダメージ",
     "main_info2": null,
-    "sub_info": "야옹~ 무공으로 적 전방에서 치명타 시 적 후방으로 이동<br/>소환수가 자동으로 사용<br/>출혈 1 중첩<br/>3~4의 추가 피해",
+    "sub_info": "야옹~ 무공으로 적 전방에서 치명타 時 적 後방으로 이동<br/>소환수가 자동으로 사용<br/>출혈 1 중첩<br/>3~4의 추가 피해",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17172,22 +17172,22 @@ var skill_data_SU = {
     "id": "26205",
     "name": "빙글빙글",
     "icon": "skill_icon_summon_0_44.png",
-    "main_info1": "60~70의 피해",
+    "main_info1": "60~70のダメージ",
     "main_info2": null,
-    "sub_info": "이동 불가한 적 3~4의 추가 피해<br/>기절, 그로기, 넉백, 공중 상태이상 저항<br/>결빙 상태 탈출<br/>소환수가 자동으로 사용",
+    "sub_info": "이동 불가한 적 3~4의 추가 피해<br/>気絶, グロッキー, 넉백, 공중 状態이상 抵抗<br/>결빙 状態 탈출<br/>소환수가 자동으로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -17195,13 +17195,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "4초"
+        "value": "4秒"
       }
     }
   },
@@ -17210,22 +17210,22 @@ var skill_data_SU = {
     "id": "26205",
     "name": "빙글빙글",
     "icon": "skill_icon_summon_0_44.png",
-    "main_info1": "60~70의 피해",
+    "main_info1": "60~70のダメージ",
     "main_info2": null,
-    "sub_info": "이동 불가한 적 3~4의 추가 피해<br/>0.5초간 최대 1회 튕기기<br/>기절, 그로기, 넉백, 공중 상태이상 저항<br/>결빙 상태 탈출<br/>소환수가 자동으로 사용",
+    "sub_info": "이동 불가한 적 3~4의 추가 피해<br/>0.5秒間 최대 1회 튕기기<br/>気絶, グロッキー, 넉백, 공중 状態이상 抵抗<br/>결빙 状態 탈출<br/>소환수가 자동으로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -17233,13 +17233,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "4초"
+        "value": "4秒"
       }
     }
   },
@@ -17257,27 +17257,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17295,27 +17295,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17333,27 +17333,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17371,27 +17371,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17409,13 +17409,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -17423,13 +17423,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "4초"
+        "value": "4秒"
       }
     }
   },
@@ -17447,13 +17447,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -17461,13 +17461,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "4초"
+        "value": "4秒"
       }
     }
   },
@@ -17476,7 +17476,7 @@ var skill_data_SU = {
     "id": "26206",
     "name": "누르기",
     "icon": "skill_icon_summon_0_18.png",
-    "main_info1": "3초간 제압",
+    "main_info1": "3秒間 制圧",
     "main_info2": null,
     "sub_info": null,
     "consume_sp": null,
@@ -17485,27 +17485,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -17514,7 +17514,7 @@ var skill_data_SU = {
     "id": "26207",
     "name": "할퀴기",
     "icon": "skill_icon_summon_0_19.png",
-    "main_info1": "114~133의 피해",
+    "main_info1": "114~133のダメージ",
     "main_info2": null,
     "sub_info": null,
     "consume_sp": null,
@@ -17523,27 +17523,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17552,7 +17552,7 @@ var skill_data_SU = {
     "id": "26207",
     "name": "할퀴기",
     "icon": "skill_icon_summon_0_19.png",
-    "main_info1": "114~133의 피해",
+    "main_info1": "114~133のダメージ",
     "main_info2": null,
     "sub_info": "출혈 5 중첩",
     "consume_sp": null,
@@ -17561,27 +17561,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17590,36 +17590,36 @@ var skill_data_SU = {
     "id": "26207",
     "name": "할퀴기",
     "icon": "skill_icon_summon_0_19.png",
-    "main_info1": "114~133의 피해",
+    "main_info1": "114~133のダメージ",
     "main_info2": null,
-    "sub_info": "5초간 회복 50% 감소<br/>출혈 5 중첩",
+    "sub_info": "5秒間 회복 50% 감소<br/>출혈 5 중첩",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17628,36 +17628,36 @@ var skill_data_SU = {
     "id": "26207",
     "name": "할퀴기",
     "icon": "skill_icon_summon_0_19.png",
-    "main_info1": "114~133의 피해",
+    "main_info1": "114~133のダメージ",
     "main_info2": null,
-    "sub_info": "사용 후  박치기 연계 가능<br/>5초간 회복 50% 감소<br/>출혈 5 중첩",
+    "sub_info": "사용 後  박치기 연계 가능<br/>5秒間 회복 50% 감소<br/>출혈 5 중첩",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "4초"
+        "value": "4秒"
       }
     }
   },
@@ -17666,36 +17666,36 @@ var skill_data_SU = {
     "id": "26207",
     "name": "할퀴기",
     "icon": "skill_icon_summon_0_19.png",
-    "main_info1": "114~133의 피해",
+    "main_info1": "114~133のダメージ",
     "main_info2": null,
-    "sub_info": "10초간 방어 무공 사용 불가<br/>10초간 방어 50% 감소<br/>출혈 5 중첩",
+    "sub_info": "10秒間 방어 무공 使用 불가<br/>10秒間 방어 50% 감소<br/>출혈 5 중첩",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17704,36 +17704,36 @@ var skill_data_SU = {
     "id": "26207",
     "name": "할퀴기",
     "icon": "skill_icon_summon_0_19.png",
-    "main_info1": "114~133의 피해",
+    "main_info1": "114~133のダメージ",
     "main_info2": null,
-    "sub_info": "5초간 시각, 청각 마비<br/>10초간 방어 무공 사용 불가<br/>10초간 방어 50% 감소<br/>출혈 5 중첩",
+    "sub_info": "5秒間 時각, 청각 마비<br/>10秒間 방어 무공 使用 불가<br/>10秒間 방어 50% 감소<br/>출혈 5 중첩",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "2초"
+        "value": "2秒"
       }
     }
   },
@@ -17742,7 +17742,7 @@ var skill_data_SU = {
     "id": "26208",
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
-    "main_info1": "42~49의 피해",
+    "main_info1": "42~49のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
     "sub_info": null,
     "consume_sp": "2",
@@ -17751,27 +17751,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "6초"
+        "value": "6秒"
       }
     }
   },
@@ -17780,36 +17780,36 @@ var skill_data_SU = {
     "id": "26208",
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
-    "main_info1": "42~49의 피해",
+    "main_info1": "42~49のダメージ",
     "main_info2": "피해량의 100% 생명력 흡수",
-    "sub_info": "사용 중  피해 및 상태이상 저항",
+    "sub_info": "사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "6초"
+        "value": "6秒"
       }
     }
   },
@@ -17819,35 +17819,35 @@ var skill_data_SU = {
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
     "main_info1": "피해량의 150% 생명력 흡수",
-    "main_info2": "42~49의 피해",
-    "sub_info": "사용 중  피해 및 상태이상 저항",
+    "main_info2": "42~49のダメージ",
+    "sub_info": "사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "6초"
+        "value": "6秒"
       }
     }
   },
@@ -17857,35 +17857,35 @@ var skill_data_SU = {
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
     "main_info1": "피해량의 150% 생명력 흡수",
-    "main_info2": "42~49의 피해",
-    "sub_info": "사용 중  피해 및 상태이상 저항<br/>저항 시  소환수 생명력 4% 회복",
+    "main_info2": "42~49のダメージ",
+    "sub_info": "사용 中  ダメージおよび状態異常に抵抗<br/>抵抗 時  소환수 생명력 4% 회복",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "6초"
+        "value": "6秒"
       }
     }
   },
@@ -17895,35 +17895,35 @@ var skill_data_SU = {
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
     "main_info1": "피해량의 150% 생명력 흡수",
-    "main_info2": "42~49의 피해",
-    "sub_info": "적 처치 시  소환수 생명력 20% 회복<br/>저항 시  소환수 생명력 4% 회복<br/>사용 중  피해 및 상태이상 저항",
+    "main_info2": "42~49のダメージ",
+    "sub_info": "적 처치 時  소환수 생명력 20% 회복<br/>抵抗 時  소환수 생명력 4% 회복<br/>사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "6초"
+        "value": "6秒"
       }
     }
   },
@@ -17932,22 +17932,22 @@ var skill_data_SU = {
     "id": "26208",
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
-    "main_info1": "제압 당한 적 30초간 혼절",
-    "main_info2": "42~49의 피해",
-    "sub_info": "소환수 주변 적 2초간 다운<br/>사용 중  피해 및 상태이상 저항",
+    "main_info1": "制圧 당한 적 30秒間 気絶",
+    "main_info2": "42~49のダメージ",
+    "sub_info": "소환수 주변 적 2秒間 ダウン<br/>사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -17955,13 +17955,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -17970,22 +17970,22 @@ var skill_data_SU = {
     "id": "26208",
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
-    "main_info1": "제압 당한 적 30초간 혼절",
-    "main_info2": "42~49의 피해",
-    "sub_info": "소환수 주변 적 3초간 다운<br/>사용 중  피해 및 상태이상 저항",
+    "main_info1": "制圧 당한 적 30秒間 気絶",
+    "main_info2": "42~49のダメージ",
+    "sub_info": "소환수 주변 적 3秒間 ダウン<br/>사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "3m"
       },
@@ -17993,13 +17993,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -18008,22 +18008,22 @@ var skill_data_SU = {
     "id": "26208",
     "name": "박치기",
     "icon": "skill_icon_summon_0_20.png",
-    "main_info1": "제압 당한 적 30초간 혼절",
-    "main_info2": "42~49의 피해",
-    "sub_info": "소환수 주변 적 3초간 다운<br/>사용 중  피해 및 상태이상 저항",
+    "main_info1": "制圧 당한 적 30秒間 気絶",
+    "main_info2": "42~49のダメージ",
+    "sub_info": "소환수 주변 적 3秒間 ダウン<br/>사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "9m"
       },
@@ -18031,13 +18031,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -18046,7 +18046,7 @@ var skill_data_SU = {
     "id": "26209",
     "name": "웅크리기",
     "icon": "skill_icon_summon_0_21.png",
-    "main_info1": "5초간 피해 90% 감소",
+    "main_info1": "5秒間 피해 90% 감소",
     "main_info2": null,
     "sub_info": "[Q] 키로 사용",
     "consume_sp": null,
@@ -18055,27 +18055,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -18084,36 +18084,36 @@ var skill_data_SU = {
     "id": "26209",
     "name": "웅크리기",
     "icon": "skill_icon_summon_0_21.png",
-    "main_info1": "5초간 피해 90% 감소",
+    "main_info1": "5秒間 피해 90% 감소",
     "main_info2": null,
-    "sub_info": "피격 시  생명력 2% 회복<br/>[Q] 키로 사용",
+    "sub_info": "피격 時  생명력 2% 회복<br/>[Q] 키로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "9초"
+        "value": "9秒"
       }
     }
   },
@@ -18122,36 +18122,36 @@ var skill_data_SU = {
     "id": "26209",
     "name": "웅크리기",
     "icon": "skill_icon_summon_0_21.png",
-    "main_info1": "8초간 피해 90% 감소",
+    "main_info1": "8秒間 피해 90% 감소",
     "main_info2": null,
-    "sub_info": "피격 시  생명력 2% 회복<br/>[Q] 키로 사용",
+    "sub_info": "피격 時  생명력 2% 회복<br/>[Q] 키로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -18160,36 +18160,36 @@ var skill_data_SU = {
     "id": "26209",
     "name": "웅크리기",
     "icon": "skill_icon_summon_0_21.png",
-    "main_info1": "8초간 피해 90% 감소",
+    "main_info1": "8秒間 피해 90% 감소",
     "main_info2": null,
-    "sub_info": "8초간 내력 12 회복<br/>피격 시  생명력 2% 회복<br/>[Q] 키로 사용",
+    "sub_info": "8秒間 내력 12 회복<br/>피격 時  생명력 2% 회복<br/>[Q] 키로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -18198,36 +18198,36 @@ var skill_data_SU = {
     "id": "26209",
     "name": "웅크리기",
     "icon": "skill_icon_summon_0_21.png",
-    "main_info1": "8초간 피해 90% 감소",
+    "main_info1": "8秒間 피해 90% 감소",
     "main_info2": null,
-    "sub_info": "소환사 피격시 마다 소환수 생명력 2%씩 회복<br/>8초간 내력 12 회복<br/>피격 시  생명력 2% 회복<br/>[Q] 키로 사용",
+    "sub_info": "소환사 피격시 마다 소환수 생명력 2%씩 회복<br/>8秒間 내력 12 회복<br/>피격 時  생명력 2% 회복<br/>[Q] 키로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -18236,22 +18236,22 @@ var skill_data_SU = {
     "id": "26209",
     "name": "웅크리기",
     "icon": "skill_icon_summon_0_21.png",
-    "main_info1": "8초간 피해 90% 감소",
+    "main_info1": "8秒間 피해 90% 감소",
     "main_info2": null,
-    "sub_info": "소환수 주변 적 8초간 도발<br/>피격 시  생명력 2% 회복<br/>[Q] 키로 사용",
+    "sub_info": "소환수 주변 적 8秒間 도발<br/>피격 時  생명력 2% 회복<br/>[Q] 키로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -18259,13 +18259,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -18274,22 +18274,22 @@ var skill_data_SU = {
     "id": "26209",
     "name": "웅크리기",
     "icon": "skill_icon_summon_0_21.png",
-    "main_info1": "8초간 피해 90% 감소",
+    "main_info1": "8秒間 피해 90% 감소",
     "main_info2": null,
-    "sub_info": "소환수 주변 아군 최대 생명력 5% 추가 생명력 보호막 생성<br/>소환수 주변 적 8초간 도발<br/>피격 시  생명력 2% 회복<br/>[Q] 키로 사용",
+    "sub_info": "소환수 주변 아군 최대 생명력 5% 추가 생명력 보호막 생성<br/>소환수 주변 적 8秒間 도발<br/>피격 時  생명력 2% 회복<br/>[Q] 키로 사용",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -18297,13 +18297,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "30초"
+        "value": "30秒"
       }
     }
   },
@@ -18312,22 +18312,22 @@ var skill_data_SU = {
     "id": "26210",
     "name": "망치 돌리기",
     "icon": "skill_icon_summon_0_22.png",
-    "main_info1": "다운 상태 탈출",
+    "main_info1": "ダウン 状態 탈출",
     "main_info2": null,
-    "sub_info": "10~11의 피해<br/>시전 중 피격 시  1초간 다운",
+    "sub_info": "10~11のダメージ<br/>詠唱中にダメージを受けた時  1秒間 ダウン",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
-        "value": "시전자 중심"
+        "value": "自分中心"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "4m"
       },
@@ -18335,13 +18335,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "12초"
+        "value": "12秒"
       }
     }
   },
@@ -18350,7 +18350,7 @@ var skill_data_SU = {
     "id": "26211",
     "name": "충격",
     "icon": "skill_icon_summon_0_25.png",
-    "main_info1": "24~28의 피해",
+    "main_info1": "24~28のダメージ",
     "main_info2": null,
     "sub_info": null,
     "consume_sp": "2",
@@ -18359,13 +18359,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18373,13 +18373,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18388,22 +18388,22 @@ var skill_data_SU = {
     "id": "26211",
     "name": "충격",
     "icon": "skill_icon_summon_0_25.png",
-    "main_info1": "24~28의 피해",
+    "main_info1": "24~28のダメージ",
     "main_info2": null,
-    "sub_info": "반복 사용 시 가속",
+    "sub_info": "반복 使用 時 가속",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18411,13 +18411,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18426,22 +18426,22 @@ var skill_data_SU = {
     "id": "26211",
     "name": "충격",
     "icon": "skill_icon_summon_0_25.png",
-    "main_info1": "24~28의 피해",
-    "main_info2": "다운, 제압 당한 적 6~7의 추가 피해",
-    "sub_info": "반복 사용 시 가속",
+    "main_info1": "24~28のダメージ",
+    "main_info2": "ダウン, 制圧 당한 적 6~7의 추가 피해",
+    "sub_info": "반복 使用 時 가속",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18449,13 +18449,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18464,22 +18464,22 @@ var skill_data_SU = {
     "id": "26211",
     "name": "충격",
     "icon": "skill_icon_summon_0_25.png",
-    "main_info1": "24~28의 피해",
-    "main_info2": "다운, 제압 당한 적 6~7의 추가 피해",
-    "sub_info": "반복 사용 시 가속",
+    "main_info1": "24~28のダメージ",
+    "main_info2": "ダウン, 制圧 당한 적 6~7의 추가 피해",
+    "sub_info": "반복 使用 時 가속",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -18487,13 +18487,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18502,22 +18502,22 @@ var skill_data_SU = {
     "id": "26211",
     "name": "충격",
     "icon": "skill_icon_summon_0_25.png",
-    "main_info1": "24~28의 피해",
-    "main_info2": "다운, 제압 당한 적 6~7의 추가 피해",
-    "sub_info": "사용 중 피격 시  다음 무공 치명 확률 100%<br/>반복 사용 시 가속",
+    "main_info1": "24~28のダメージ",
+    "main_info2": "ダウン, 制圧 당한 적 6~7의 추가 피해",
+    "sub_info": "사용 中 피격 時  다음 무공 치명 확률 100%<br/>반복 使用 時 가속",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -18525,13 +18525,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18540,36 +18540,36 @@ var skill_data_SU = {
     "id": "26211",
     "name": "충격",
     "icon": "skill_icon_summon_0_25.png",
-    "main_info1": "48~56의 피해",
-    "main_info2": "다운, 제압 당한 적 6~7의 추가 피해",
-    "sub_info": "반복 사용 시 가속",
+    "main_info1": "48~56のダメージ",
+    "main_info2": "ダウン, 制圧 당한 적 6~7의 추가 피해",
+    "sub_info": "반복 使用 時 가속",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18578,36 +18578,36 @@ var skill_data_SU = {
     "id": "26211",
     "name": "충격",
     "icon": "skill_icon_summon_0_25.png",
-    "main_info1": "48~56의 피해",
+    "main_info1": "48~56のダメージ",
     "main_info2": "독 5중첩 적 12~14의 추가 피해",
-    "sub_info": "다운, 제압 당한 적 6~7의 추가 피해<br/>독 10초간 유지<br/>반복 사용 시 가속",
+    "sub_info": "ダウン, 制圧 당한 적 6~7의 추가 피해<br/>독 10秒間 維持<br/>반복 使用 時 가속",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18625,13 +18625,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18639,13 +18639,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18663,13 +18663,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18677,13 +18677,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18701,13 +18701,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18715,13 +18715,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18739,13 +18739,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -18753,13 +18753,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18777,13 +18777,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -18791,13 +18791,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18815,27 +18815,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18853,27 +18853,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18891,13 +18891,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18905,13 +18905,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18929,13 +18929,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18943,13 +18943,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -18967,13 +18967,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "0m"
       },
@@ -18981,13 +18981,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19005,13 +19005,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -19019,13 +19019,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19043,13 +19043,13 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_4",
         "value": "5m"
       },
@@ -19057,13 +19057,13 @@ var skill_data_SU = {
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19081,27 +19081,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19119,27 +19119,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19148,36 +19148,36 @@ var skill_data_SU = {
     "id": "26430",
     "name": "우다다",
     "icon": "skill_icon_summon_0_45.png",
-    "main_info1": "84~98의 피해",
+    "main_info1": "84~98のダメージ",
     "main_info2": null,
-    "sub_info": "최대 2회 연속 시전",
+    "sub_info": "최대 2회 연속 時전",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "0.1초"
+        "value": "0.1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -19186,36 +19186,36 @@ var skill_data_SU = {
     "id": "26430",
     "name": "우다다",
     "icon": "skill_icon_summon_0_45.png",
-    "main_info1": "84~98의 피해",
+    "main_info1": "84~98のダメージ",
     "main_info2": null,
-    "sub_info": "최대 5회 연속 시전",
+    "sub_info": "최대 5회 연속 時전",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "0.1초"
+        "value": "0.1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -19224,36 +19224,36 @@ var skill_data_SU = {
     "id": "26430",
     "name": "우다다",
     "icon": "skill_icon_summon_0_45.png",
-    "main_info1": "84~98의 피해",
-    "main_info2": "반복 사용 시  18~21의 추가 피해",
-    "sub_info": "최대 5회 연속 시전<br/>위협 없이 사용 가능",
+    "main_info1": "84~98のダメージ",
+    "main_info2": "반복 使用 時  18~21의 추가 피해",
+    "sub_info": "최대 5회 연속 時전<br/>위협 없이 使用 가능",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "0.1초"
+        "value": "0.1秒"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "45초"
+        "value": "45秒"
       }
     }
   },
@@ -19271,27 +19271,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19309,27 +19309,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19347,27 +19347,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19385,27 +19385,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19423,27 +19423,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19461,27 +19461,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19499,27 +19499,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19537,27 +19537,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19575,27 +19575,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19613,27 +19613,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19651,27 +19651,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19689,27 +19689,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19718,7 +19718,7 @@ var skill_data_SU = {
     "id": "26214",
     "name": "터뜨리기",
     "icon": "skill_icon_summon_0_44.png",
-    "main_info1": "독 5중첩 적 66~77의 피해",
+    "main_info1": "독 5중첩 적 66~77のダメージ",
     "main_info2": null,
     "sub_info": "소환수가 자동으로 사용",
     "consume_sp": null,
@@ -19727,27 +19727,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "3초"
+        "value": "3秒"
       }
     }
   },
@@ -19758,34 +19758,34 @@ var skill_data_SU = {
     "icon": "skill_icon_summon_0_29.png",
     "main_info1": "공중으로 띄움",
     "main_info2": null,
-    "sub_info": "30~35의 피해",
+    "sub_info": "30~35のダメージ",
     "consume_sp": "2",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19794,7 +19794,7 @@ var skill_data_SU = {
     "id": "26216",
     "name": "파닥파닥",
     "icon": "skill_icon_summon_0_30.png",
-    "main_info1": "78~91의 피해",
+    "main_info1": "78~91のダメージ",
     "main_info2": null,
     "sub_info": null,
     "consume_sp": "1",
@@ -19803,27 +19803,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19832,36 +19832,36 @@ var skill_data_SU = {
     "id": "26216",
     "name": "파닥파닥",
     "icon": "skill_icon_summon_0_30.png",
-    "main_info1": "78~91의 피해",
+    "main_info1": "78~91のダメージ",
     "main_info2": null,
-    "sub_info": "사용 중  피해 및 상태이상 저항",
+    "sub_info": "사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19870,36 +19870,36 @@ var skill_data_SU = {
     "id": "26216",
     "name": "파닥파닥",
     "icon": "skill_icon_summon_0_30.png",
-    "main_info1": "78~91의 피해",
+    "main_info1": "78~91のダメージ",
     "main_info2": null,
-    "sub_info": "치명타 시  최대 2회 연속 시전<br/>사용 중  피해 및 상태이상 저항",
+    "sub_info": "치명타 時  최대 2회 연속 時전<br/>사용 中  ダメージおよび状態異常に抵抗",
     "consume_sp": "1",
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19917,27 +19917,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19955,27 +19955,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -19993,27 +19993,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -20022,36 +20022,36 @@ var skill_data_SU = {
     "id": "26217",
     "name": "경호",
     "icon": "skill_icon_summon_0_31.png",
-    "main_info1": "운기조식 중  피해 및 상태이상 저항",
+    "main_info1": "운기조식 中  ダメージおよび状態異常に抵抗",
     "main_info2": null,
-    "sub_info": "운기조식 중인 소환사를 소환수가 보호<br/>결빙 상태 탈출",
+    "sub_info": "운기조식 중인 소환사를 소환수가 보호<br/>결빙 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -20060,7 +20060,7 @@ var skill_data_SU = {
     "id": "26218",
     "name": "때리기",
     "icon": "skill_icon_summon_0_32.png",
-    "main_info1": "31~36의 피해",
+    "main_info1": "31~36のダメージ",
     "main_info2": null,
     "sub_info": "피해량의 20% 생명력 흡수",
     "consume_sp": null,
@@ -20069,27 +20069,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -20107,27 +20107,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "5m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -20136,7 +20136,7 @@ var skill_data_SU = {
     "id": "26219",
     "name": "뿌잉뿌잉",
     "icon": "skill_icon_summon_0_5.png",
-    "main_info1": "운기조식 중인 아군 운기조식 시간 6초 감소",
+    "main_info1": "운기조식 중인 아군 운기조식 時간 6秒 감소",
     "main_info2": null,
     "sub_info": null,
     "consume_sp": null,
@@ -20145,27 +20145,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -20174,36 +20174,36 @@ var skill_data_SU = {
     "id": "26220",
     "name": "심폐소생술",
     "icon": "skill_icon_summon_0_12.png",
-    "main_info1": "실신 대상 부활",
+    "main_info1": "실신 対象 부활",
     "main_info2": null,
-    "sub_info": "사용 중  상태이상 저항<br/>사용 중  방어 100% 감소",
+    "sub_info": "사용 中  状態이상 抵抗<br/>사용 中  방어 100% 감소",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "30m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "1초"
+        "value": "1秒"
       }
     }
   },
@@ -20221,27 +20221,27 @@ var skill_data_SU = {
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "18초"
+        "value": "18秒"
       }
     }
   },
@@ -20250,36 +20250,36 @@ var skill_data_SU = {
     "id": "26402",
     "name": "샤샥",
     "icon": "skill_icon_summon_0_46.png",
-    "main_info1": "적 이동불가 시 적 너머로 이동",
+    "main_info1": "적 이동불가 時 적 너머로 이동",
     "main_info2": null,
-    "sub_info": "결빙 상태 탈출",
+    "sub_info": "결빙 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   },
@@ -20288,36 +20288,36 @@ var skill_data_SU = {
     "id": "26412",
     "name": "샤샥",
     "icon": "skill_icon_summon_0_46.png",
-    "main_info1": "소환수가 적 후방으로 이동",
+    "main_info1": "소환수가 적 後방으로 이동",
     "main_info2": null,
-    "sub_info": "결빙 상태 탈출",
+    "sub_info": "결빙 状態 탈출",
     "consume_sp": null,
     "ui_sp_heal_value": null,
     "skill_info":
     {
       "0":
       {
-        "name": "거리",
+        "name": "距離",
         "type": "meter",
         "value": "3m"
       },
       "1":
       {
-        "name": "영역",
+        "name": "範囲",
         "type": "range_0",
-        "value": "대상"
+        "value": "対象"
       },
       "2":
       {
         "name": "시전",
         "type": "casting_time",
-        "value": "즉시"
+        "value": "即時"
       },
       "3":
       {
         "name": "재사용",
         "type": "recycle_time",
-        "value": "즉시"
+        "value": "即時"
       }
     }
   }

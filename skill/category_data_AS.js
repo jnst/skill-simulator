@@ -3,7 +3,7 @@ var category_data_AS = {
   {
     "skill_id": "25000",
     "tree_id": "25000",
-    "name2_refine": "안개베기",
+    "name2_refine": "霧斬り",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -32,13 +32,13 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
   },
   "25006":
   {
     "skill_id": "25006",
     "tree_id": "25006",
-    "name2_refine": "지뢰",
+    "name2_refine": "地雷",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -65,7 +65,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -75,7 +75,7 @@ var category_data_AS = {
   {
     "skill_id": "25008",
     "tree_id": "25008",
-    "name2_refine": "잠입",
+    "name2_refine": "ハイド",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -101,17 +101,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
   },
   "25021":
   {
     "skill_id": "25021",
     "tree_id": "1",
-    "name2_refine": "낙엽 밟기",
+    "name2_refine": "落葉踏み",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -125,17 +125,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  "
   },
   "25120":
   {
     "skill_id": "25120",
     "tree_id": "25120",
-    "name2_refine": "척추찌르기",
+    "name2_refine": "背刺",
     "pc_level": "1",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -160,18 +160,18 @@ var category_data_AS = {
     },
     "tooltip_stance_type":
     {
-      "0": "은신",
+      "0": "閃光",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  "
   },
   "25003":
   {
     "skill_id": "25003",
     "tree_id": "25003",
-    "name2_refine": "심장찌르기",
+    "name2_refine": "刺心",
     "pc_level": "4",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -197,7 +197,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -207,7 +207,7 @@ var category_data_AS = {
   {
     "skill_id": "25005",
     "tree_id": "25005",
-    "name2_refine": "나무토막",
+    "name2_refine": "変わり身の術",
     "pc_level": "4",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -231,7 +231,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -268,7 +268,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": "",
@@ -278,7 +278,7 @@ var category_data_AS = {
   {
     "skill_id": "25016",
     "tree_id": "25016",
-    "name2_refine": "수리검",
+    "name2_refine": "手裏剣",
     "pc_level": "6",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -297,7 +297,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -331,17 +331,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 제압  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  <br/><img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 적 制圧  "
   },
   "25034":
   {
     "skill_id": "25034",
     "tree_id": "1",
-    "name2_refine": "목베기",
+    "name2_refine": "絞喉",
     "pc_level": "8",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -355,11 +355,11 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 기절  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 気絶  "
   },
   "25111":
   {
@@ -385,18 +385,18 @@ var category_data_AS = {
     },
     "tooltip_stance_type":
     {
-      "0": "은신",
+      "0": "閃光",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  "
   },
   "25012":
   {
     "skill_id": "25012",
     "tree_id": "25012",
-    "name2_refine": "풍독술",
+    "name2_refine": "毒霧",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -423,13 +423,13 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
   },
   "25022":
   {
     "skill_id": "25022",
     "tree_id": "1",
-    "name2_refine": "후방이동",
+    "name2_refine": "後方移動",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -443,7 +443,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -453,7 +453,7 @@ var category_data_AS = {
   {
     "skill_id": "25024",
     "tree_id": "1",
-    "name2_refine": "횡이동",
+    "name2_refine": "鬼歩",
     "pc_level": "10",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -467,7 +467,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -490,12 +490,12 @@ var category_data_AS = {
     },
     "tooltip_stance_type":
     {
-      "0": "은신",
+      "0": "閃光",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  "
   },
   "25023":
   {
@@ -515,11 +515,11 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 후방이동 사용 후  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> 회피 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_51.png\' class=\'icon_in_description\' /> 後方移動 使用 後  <br/><img src=\'./img/buff_debuff_icon_00_5.png\' class=\'icon_in_description\' /> 회피 時  "
   },
   "25025":
   {
@@ -539,17 +539,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 반격 무공 사용 시  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_03_26.png\' class=\'icon_in_description\' /> 적 막기, 截拳 무공 使用 時  "
   },
   "25030":
   {
     "skill_id": "25030",
     "tree_id": "1",
-    "name2_refine": "뒤구르기",
+    "name2_refine": "後転",
     "pc_level": "12",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -567,13 +567,13 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 그로기, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, グロッキー, 気絶 中  "
   },
   "25019":
   {
     "skill_id": "25019",
     "tree_id": "25019",
-    "name2_refine": "은신",
+    "name2_refine": "閃光",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -596,7 +596,7 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운, 혼절 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン, 気絶 中  "
   },
   "25026":
   {
@@ -620,7 +620,7 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
   },
   "25029":
   {
@@ -644,13 +644,13 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "25043":
   {
     "skill_id": "25043",
     "tree_id": "1",
-    "name2_refine": "걷어차기",
+    "name2_refine": "強蹴り",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -664,17 +664,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 掴み上げ, 吸功を受けている最中  "
   },
   "25330":
   {
     "skill_id": "25330",
     "tree_id": "1",
-    "name2_refine": "수리검난무",
+    "name2_refine": "手裏剣乱舞",
     "pc_level": "14",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -692,13 +692,13 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 다운 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> ダウン 中  "
   },
   "25017":
   {
     "skill_id": "25017",
     "tree_id": "25016",
-    "name2_refine": "그림자 수리검",
+    "name2_refine": "影手裏剣",
     "pc_level": "15",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -712,17 +712,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_13.png\' class=\'icon_in_description\' /> 적 그림자  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_13.png\' class=\'icon_in_description\' /> 적 影 "
   },
   "25018":
   {
     "skill_id": "25018",
     "tree_id": "25016",
-    "name2_refine": "그림자 밟기",
+    "name2_refine": "影踏み",
     "pc_level": "15",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -739,11 +739,11 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_01_19.png\' class=\'icon_in_description\' /> 적 속박  "
   },
   "25128":
   {
@@ -762,12 +762,12 @@ var category_data_AS = {
     },
     "tooltip_stance_type":
     {
-      "0": "은신",
+      "0": "閃光",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  "
   },
   "25031":
   {
@@ -787,17 +787,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  "
   },
   "25032":
   {
     "skill_id": "25032",
     "tree_id": "1",
-    "name2_refine": "암연비각",
+    "name2_refine": "燕飛脚",
     "pc_level": "18",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -811,11 +811,11 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "25044":
   {
@@ -835,11 +835,11 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 제압, 장악, 흡공 당한 중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_42.png\' class=\'icon_in_description\' /> 制圧, 掴み上げ, 吸功を受けている最中  "
   },
   "25035":
   {
@@ -863,13 +863,13 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/default_icon_00_24.png\' class=\'icon_in_description\' /> 경공 중  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'./img/default_icon_00_24.png\' class=\'icon_in_description\' /> 경공 中  "
   },
   "25033":
   {
     "skill_id": "25033",
     "tree_id": "1",
-    "name2_refine": "천둥",
+    "name2_refine": "飯綱落とし",
     "pc_level": "24",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -883,11 +883,11 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  "
   },
   "25214":
   {
@@ -919,7 +919,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -929,7 +929,7 @@ var category_data_AS = {
   {
     "skill_id": "25036",
     "tree_id": "1",
-    "name2_refine": "거미줄",
+    "name2_refine": "蜘蛛の糸",
     "pc_level": "28",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -943,17 +943,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 다운  "
+    "tooltip_condition_refine": "<img src=\'./img/buff_debuff_icon_00_8.png\' class=\'icon_in_description\' /> 적 공중  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 ダウン  "
   },
   "25009":
   {
     "skill_id": "25009",
     "tree_id": "25009",
-    "name2_refine": "연화난무",
+    "name2_refine": "연화乱舞",
     "pc_level": "30",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -978,7 +978,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -1002,12 +1002,12 @@ var category_data_AS = {
     },
     "tooltip_stance_type":
     {
-      "0": "은신",
+      "0": "閃光",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  "
   },
   "25037":
   {
@@ -1027,17 +1027,17 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 그로기, 기절  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'./img/buff_debuff_icon_00_1.png\' class=\'icon_in_description\' /> 적 グロッキー, 気絶  "
   },
   "25040":
   {
     "skill_id": "25040",
     "tree_id": "1",
-    "name2_refine": "뇌전",
+    "name2_refine": "雷電",
     "pc_level": "32",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -1055,7 +1055,7 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> 적 은사  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'./img/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> 적 은사  "
   },
   "25038":
   {
@@ -1079,7 +1079,7 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  "
   },
   "25039":
   {
@@ -1103,7 +1103,7 @@ var category_data_AS = {
       "2": null
     },
     "tooltip_stance_refine": null,
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> 적 은사  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_1.png\' class=\'icon_in_description\' /> 교란 자세  <br/><img src=\'./img/skill_icon_assassin_0_52.png\' class=\'icon_in_description\' /> 적 은사  "
   },
   "25041":
   {
@@ -1123,7 +1123,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
@@ -1146,18 +1146,18 @@ var category_data_AS = {
     },
     "tooltip_stance_type":
     {
-      "0": "은신",
+      "0": "閃光",
       "1": null,
       "2": null
     },
     "tooltip_stance_refine": "",
-    "tooltip_condition_refine": "<img src=\'http://static.plaync.co.kr/powerbook/bns/ui_resource/skill/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 은신 자세  "
+    "tooltip_condition_refine": "<img src=\'./img/skill_icon_assassin_0_2.png\' class=\'icon_in_description\' /> 閃光 자세  "
   },
   "25013":
   {
     "skill_id": "25013",
     "tree_id": "25013",
-    "name2_refine": "순보",
+    "name2_refine": "瞬歩",
     "pc_level": "46",
     "pc_mastery_level": null,
     "complete_quest": null,
@@ -1179,7 +1179,7 @@ var category_data_AS = {
     "tooltip_stance_type":
     {
       "0": "교란",
-      "1": "은신",
+      "1": "閃光",
       "2": null
     },
     "tooltip_stance_refine": null,
