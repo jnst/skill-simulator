@@ -3,6 +3,7 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
+var imagemin = require('gulp-imagemin');
 var clean = require('gulp-clean');
 
 /**
@@ -54,6 +55,7 @@ gulp.task('css', function() {
 
 gulp.task('img', function() {
   return gulp.src('img/*')
+    .pipe(imagemin())
     .pipe(gulp.dest('build/img'));
 });
 
