@@ -1,3 +1,5 @@
+'use strict';
+
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
@@ -61,21 +63,16 @@ gulp.task('html', function() {
 });
 
 /**
- * Clean
+ * Run
  */
+gulp.task('default', ['html', 'css', 'img','js']);
 gulp.task('clean', function() {
   return gulp.src('build')
     .pipe(clean());
 });
-
-/**
- * Watch
- */
-gulp.task('js:watch', function() {
+gulp.task('watch', function() {
   gulp.watch('js/category_data_*js', ['js:category']);
   gulp.watch('js/skill_data_*js', ['js:skill']);
   gulp.watch('js/slot_data_*js', ['js:slot']);
   gulp.watch('js/data_skill-tooltip*js', ['js:tooltip']);
 });
-
-gulp.task('default', ['html', 'css', 'img','js', 'js:watch']);
