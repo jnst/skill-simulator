@@ -38,7 +38,7 @@ input[type="search"]::-webkit-search-cancel-button {
 
 body {
   background: #efefef;
-  font-family: "メイリオ","Meirio","ＭＳ Ｐゴシック","MS PGothic","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3",Sans-Serif;
+  font-family: Verdana, Roboto, "Droid Sans", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
 }
 #wrap_container {min-width:800px; margin:0; padding:0; overflow:hidden;}
 

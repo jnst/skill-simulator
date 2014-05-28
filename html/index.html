@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html id="pc">
+<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+  <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=0.5, maximum-scale=1.0">
+  <title>BnS 武功修練シミュレータ</title>
+  <link rel="stylesheet" type="text/css" href="../css/layout.css" media="screen"/>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script type="text/javascript" src="js/training.min.js"></script>
+  <script type="text/javascript" src="js/category.min.js"></script>
+  <script type="text/javascript" src="js/skill.min.js"></script>
+  <script type="text/javascript" src="js/slot.min.js"></script>
+  <script type="text/javascript" src="js/tooltip.min.js"></script>
+</head>
+<body>
+<script type="text/javascript"> //<![CDATA[
+var layerInputCtrl = function (btnID, layerID) {
+  var layerBtn = jQuery(btnID);
+  var layerCnt = jQuery(layerID);
+
+  layerCnt.find(':radio').each(function (e) {
+    if (jQuery(this).is(':checked')) {
+      jQuery(this).parents('li').addClass('selected');
+      layerBtn.html(jQuery(this).parent('label').text());
+    }
+  });
+
+  layerBtn.bind("click", function () {
+    if (layerCnt.css('display') == 'block') {
+      jQuery(this).removeClass('lyOn');
+      layerCnt.hide();
+    } else {
+      jQuery(this).addClass('lyOn');
+      layerCnt.show();
+    }
+  });
+
+  layerCnt.find('li').bind("click", function (e) {
+    var et = jQuery(e.target);
+
+    layerCnt.find('li').removeClass('selected');
+    layerCnt.find(':radio').removeAttr('checked');
+
+    layerBtn.html(jQuery(this).find('label').text());
+    layerBtn.removeClass('lyOn');
+    jQuery(this).find(':radio').attr('checked', 'checked');
+    et.parents('li').addClass('selected');
+    layerCnt.hide();
+    return false;
+  });
+
+  jQuery(document).bind("click", function (e) {
+    var et = jQuery(e.target);
+    var etid = et.attr('id');
+
+    if (etid != layerBtn.attr('id')) {
+      layerBtn.removeClass('lyOn');
+      layerCnt.hide();
+    }
+  });
+}
+//]]>
+</script>
+
+<div id="wrap_container">
+<div id="container">
+<section id="contents">
+
+<nav class="tab_tr">
+  <a class="m1 on" href="bm.html"><span>剣術士</span></a>
+  <a class="m2" href="kf.html"><span>拳闘士</span></a>
+  <a class="m3" href="de.html"><span>滅砕士</span></a>
+  <a class="m4" href="fm.html"><span>魔道士</span></a>
+  <a class="m5" href="as.html"><span>暗殺者</span></a>
+  <a class="m6" href="su.html"><span>召喚士</span></a>
+  <a class="m7" href="sm.html"><span>リン剣術士</span></a>
+</nav>
+<form name="writeForm" id="writeForm" method="post" action="write_exec">
+  <input type="hidden" name="article_no" value="">
+  <input type="hidden" name="job" value="BM">
+  <input type="hidden" name="level" id="level" value="">
+  <input type="hidden" name="mastery_level" id="mastery_level" value="">
+  <input type="hidden" name="slot_data" id="slot_data" value="">
+
+  <div class="write_type1">
+    <section class="wrap_mytraining">
+      <div class="trWrap" id="trainingWrap"></div>
+
+      <link rel="stylesheet" type="text/css" href="../css/training.css"/>
+
+      <script type="text/javascript">
+        var _training;
+
+        (function ($) {
+          $(document).ready(function () {
+            if (String.prototype.trim == null)
+              String.prototype.trim = function () {
+                return this.replace(/^\s*/, "").replace(/\s*$/, "");
+              }
+
+            var writeform = $("#writeForm");
+            var category = $("#writeForm").find("input[name='category'][checked='checked']");
+            var subject = $("#writeForm").find("input[name='title']");
+            var textarea = $("#writeForm").find("textarea[name='text_body']");
+
+            _training = new nc.bns.training.Training({
+              containerSelector: ".trWrap",
+              level: 50,
+              masteryLevel: 0,
+              job: "BM",
+              masteryTitle: "所属勢力",
+              maxLevel: 50
+            });
+
+            //reset button
+            var _$resetSkillBtn = $("#resetSkill");
+            var _$resetAllSkillBtn = $("#resetAllSkill");
+
+            $(subject).keydown(function (e) {
+              if (e.keyCode == '13')
+                return false;
+            });
+          });
+        })(jQuery);
+      </script>
+    </section>
+    <div id="get_data_controll" style="width: 0px; height: 0px;"></div>
+    <div class="wrap_viewBtn">
+      <a href="#" id="btn_reset" class="btn_reset" onClick="custom_confirm('この武功を初期化しますか？', '_training.resetSelectedSkill()'); return false;"><span>武功初期化</span></a>
+      <a href="#" id="btn_reset_all" class="btn_reset_all" onClick="custom_confirm('すべての武功を初期化しますか？', '_training.resetAllSkill()'); return false;"><span>全武功初期化</span></a>
+    </div>
+  </div>
+</form>
+</section>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-50889904-1', 'eila.jp');
+  ga('send', 'pageview');
+</script>
+</div>
+</div>
+
+</body>
+</html>

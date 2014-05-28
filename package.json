@@ -1,0 +1,26 @@
+{
+  "name": "skill-simulator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnst/skill-simulator.git"
+  },
+  "author": "",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/jnst/skill-simulator/issues"
+  },
+  "homepage": "https://github.com/jnst/skill-simulator",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-uglify": "^0.3.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-clean": "^0.3.0"
+  }
+}
